@@ -97,8 +97,8 @@
                                     <ul>
                                         <li class="current"><a href="#home">Home</a></li>
                                         <li><a href="#about">About</a></li>
-                                        <li><a href="#schedule">Schedule</a></li>
                                         <li><a href="#speakers">Speakers</a></li>
+                                        <li><a href="#schedule">Schedule</a></li>                                        
                                         <li><a href="#register">Register</a></li>
                                         <!--<li><a href="#gallery">Gallery</a></li>-->
                                         <li><a href="#sponsors">Sponsors</a></li>
@@ -1919,7 +1919,8 @@ master degree in Information Security.
         <!-- BOF PROTFOLIO -->
         <!-- EOF PROTFOLO -->
         <!-- Testimonial -->
-        <div class="jx-container container-no-margin  jx-grey-bg ">
+        
+        <div class="jx-container container-no-margin  jx-grey-bg ">            
             <div class='parallax-no-height ' style='background-image: url(http://ievent.janxcode.com/wp-content/uploads/2015/09/16587287897_f41418b5be_o.jpg); background-position: 0px -342px;'></div>
             <!-- Background Image -->
             <!-- Background Icon -->
