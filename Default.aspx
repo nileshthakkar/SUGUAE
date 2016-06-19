@@ -98,7 +98,7 @@
                                         <li class="current"><a href="#home">Home</a></li>
                                         <li><a href="#about">About</a></li>
                                         <li><a href="#speakers">Speakers</a></li>
-                                        <li><a href="#schedule">Schedule</a></li>                                        
+                                        <li><a href="#schedule">Schedule</a></li>
                                         <li><a href="#register">Register</a></li>
                                         <!--<li><a href="#gallery">Gallery</a></li>-->
                                         <li><a href="#sponsors">Sponsors</a></li>
@@ -348,9 +348,8 @@
                                 <div class="service-title-border"></div>
                                 <div class="service-description">
                                     <p>
-                                        Nilesh is Lead Developer and Sitecore MVP 2015-2016 with more than a decade of industry experience.
-                                    He is motivated individual who is always learning and believe in knowledge sharing. He has been writing a variety of articles on Sitecore at his <a href="http://sitecorejourney.nileshthakkar.in">blog</a>
-                                        .
+                                        Nilesh is Sitecore MVP 2015-2016 with more than a decade of industry experience. He enjoys
+the challenge of crafting complex Sitecore solution. He has been sharing his Sitecore journey to the community via his <a href="http://sitecorejourney.nileshthakkar.in" target="_blank">blog</a>
                                     </p>
                                 </div>
                             </div>
@@ -1919,8 +1918,8 @@ master degree in Information Security.
         <!-- BOF PROTFOLIO -->
         <!-- EOF PROTFOLO -->
         <!-- Testimonial -->
-        
-        <div class="jx-container container-no-margin  jx-grey-bg ">            
+
+        <div class="jx-container container-no-margin  jx-grey-bg ">
             <div class='parallax-no-height ' style='background-image: url(http://ievent.janxcode.com/wp-content/uploads/2015/09/16587287897_f41418b5be_o.jpg); background-position: 0px -342px;'></div>
             <!-- Background Image -->
             <!-- Background Icon -->
@@ -2063,7 +2062,7 @@ master degree in Information Security.
                             </div>
 
                             <div class="jx-newsletter-submit">
-                                <asp:Button ID="btnSubscribe"  Text="Submit" runat="server" onserverclick="btnSubscribe_ServerClick" />                                
+                                <asp:Button ID="btnSubscribe" Text="Submit" runat="server" onserverclick="btnSubscribe_ServerClick" />
                             </div>
 
                         </div>
