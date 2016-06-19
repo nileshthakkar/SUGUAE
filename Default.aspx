@@ -334,7 +334,9 @@
                                 <div class="service-title jx-uppercase"><a href="#">Ashish Bansal</a></div>
                                 <div class="service-title-border"></div>
                                 <div class="service-description">
-                                    <p>Ashish is Sitecore CMS certified with huge experience on different CMS platforms and web application involves in architecting, Designing, Coding of the application.</p>
+                                    <p>Ashish is Sitecore certified professional having a huge experience on different CMS platforms. His expertise is in architecting, designing and implementaiton.
+                                        He shares his sitecore solutions to the community via his <a href="http://sitecoresolution.blogspot.com" target="_blank">blog</a>
+                                    </p>
                                 </div>
                             </div>
                             <!-- item 01 -->
