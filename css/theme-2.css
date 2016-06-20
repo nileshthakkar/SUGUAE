@@ -2256,7 +2256,8 @@ select.valid, input.valid {
 
 
 .jx-blog-item .jx-blog-content .description p{
-  margin:0
+  margin:0;
+  
 }
 
 
@@ -3052,6 +3053,12 @@ li .fa-twitter:hover{
   background:#00aced;
   color:#fff;
 }
+
+li .fa-linkedin:hover {
+  background:#0077B5;
+  color:#fff;
+}
+
 
 li .fa-youtube:hover{
   background:#bb0000;
