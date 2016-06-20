@@ -342,6 +342,7 @@
 
                                        <div class="jx-footer-social" style="padding:15px;!important">
                         <ul>
+
                             
                             <li><a href="https://twitter.com/pradsir"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="https://ae.linkedin.com/in/shuklapradeep"><i class="fa fa-linkedin"></i></a></li>
