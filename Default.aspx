@@ -47,6 +47,9 @@
     <!-- Responsive Theme -->
     <link rel="stylesheet" href="css/theme-responsive.css" />
 
+    <!-- SUGUAE Customization -->
+    <link rel="stylesheet" href="css/dev.css" />
+
     <!-- Library Js -->
     <script src="vendor/modernizr.js"></script>
 
