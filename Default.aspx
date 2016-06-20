@@ -122,7 +122,7 @@
                 <div class="flexslider">
                     <ul class="slides">
 
-                        <li class="jx-parallax-fullwidth" style="background-image: url('images/slide-1.jpg');">
+                        <li class="jx-parallax-fullwidth" style="background-image: url('images/slide-2.jpg');">
 
                             <div class="jx-event-slide">
                                 <div class="jx-slider-content">
@@ -198,7 +198,7 @@
                                         </div>
                                     </div>
                                     <div class="jx-right-vertical-border">
-                                        <div class="jx-date">
+                                        <div class="jx-date" style="color: gray">
                                             <div class="jx-slider-day">13</div>
                                             <div class="jx-slider-month jx-uppercase">Aug</div>
                                         </div>
@@ -210,7 +210,7 @@
                         </li>
                         <!--item 01 -->
 
-                        <li class="jx-parallax-fullwidth" style="background-image: url('images/slide-1.jpg');">
+                        <li class="jx-parallax-fullwidth" style="background-image: url('images/slide-3.jpg');">
 
                             <div class="jx-event-slide">
                                 <div class="jx-slider-content">
@@ -230,7 +230,7 @@
                                         </div>
                                     </div>
                                     <div class="jx-right-vertical-border">
-                                        <div class="jx-date">
+                                        <div class="jx-date" style="color: gray">
                                             <div class="jx-slider-day">13</div>
                                             <div class="jx-slider-month jx-uppercase">Aug</div>
                                         </div>
@@ -334,7 +334,8 @@
                                 <div class="service-title jx-uppercase"><a href="#">Ashish Bansal</a></div>
                                 <div class="service-title-border"></div>
                                 <div class="service-description">
-                                    <p>Ashish is Sitecore certified professional having a huge experience on different CMS platforms. His expertise is in architecting, designing and implementaiton.
+                                    <p>
+                                        Ashish is Sitecore certified professional having a huge experience on different CMS platforms. His expertise is in architecting, designing and implementaiton.
                                         He shares his sitecore solutions to the community via his <a href="http://sitecoresolution.blogspot.com" target="_blank">blog</a>
                                     </p>
                                 </div>
@@ -444,11 +445,11 @@ master degree in Information Security.
                             <!-- Item Content Box-->
                             <div class="jx-speaker-item">
                                 <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                                    <img width="234" height="189" src="images/mike.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                                     <div class="jx-speaker-overlayer"></div>
                                     <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Meet Expertise</div>
-                                        <div class="jx-speaker-pos">Announcing soon...</div>
+                                        <div class="jx-speaker-name">Michael Reynolds</div>
+                                        <div class="jx-speaker-pos">Sitecore Architect / Sitecore MVP</div>
                                     </div>
                                 </div>
                             </div>
@@ -456,11 +457,11 @@ master degree in Information Security.
 
                             <div class="jx-speaker-item">
                                 <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                                    <img width="234" height="189" src="images/rantunga.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
                                     <div class="jx-speaker-overlayer"></div>
                                     <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Meet Expertise</div>
-                                        <div class="jx-speaker-pos">Announcing soon...</div>
+                                        <div class="jx-speaker-name">Chaturanga Ranatunga</div>
+                                        <div class="jx-speaker-pos">Sitecore MVP 2016 </div>
                                     </div>
                                 </div>
                             </div>
@@ -468,11 +469,11 @@ master degree in Information Security.
 
                             <div class="jx-speaker-item">
                                 <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                                    <img width="234" height="189" src="images/speaker-3.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                                     <div class="jx-speaker-overlayer"></div>
                                     <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Meet Expertise</div>
-                                        <div class="jx-speaker-pos">Announcing soon...</div>
+                                        <div class="jx-speaker-name">Martin Davies</div>
+                                        <div class="jx-speaker-pos">Sitecore Developer</div>
                                     </div>
                                 </div>
                             </div>
@@ -1999,9 +2000,8 @@ master degree in Information Security.
 
                 <div class="jx-sponsors">
                     <center>
-                    <ul>
-                        <li><a href=""><div class="slide-contents"><img src="images/sitecore.png" alt=""></div></a></li>
-                        <li><a href=""><div class="slide-contents"><img src="images/sponsor.jpg" style="height:125px" alt=""></div></a></li>
+                    <ul>                        
+                        <li><a href="mailto:suguae@yahoo.com"><div class="slide-contents"><img src="images/sponsor.jpg"  alt=""/></div></a></li>
                     </ul>
                 </center>
                 </div>
