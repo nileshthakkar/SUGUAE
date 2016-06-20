@@ -12,7 +12,7 @@
     ================================================== -->
     <meta charset="utf-8" />
     <title>SUGUAE (Dubai) | Home</title>
-    <meta name="keywords" content="HTML5 Template" />
+    <meta name="keywords" content="Sitecore" />
     <meta name="description" content="Vectus HTML5 Template - v1.0" />
     <meta name="author" content="janxcode.com" />
 
