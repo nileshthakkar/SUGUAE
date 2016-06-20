@@ -102,7 +102,8 @@ margin-bottom: 5px;
 }
 .jx-servicebox-1 .jx-service-item .service-description p{
   font-size:13px;
-  padding:0 40px
+  padding:0 40px;
+
 }
 
 
@@ -161,8 +162,12 @@ margin-bottom: 5px;
   margin-bottom:15px;
 }
 .jx-servicebox-2 .jx-service-item .service-description p{
-  font-size:13px;
-  padding:0 40px
+  font-size:14px;
+  padding:0 40px;
+  
+  word-spacing :2px;
+
+
 }
 
 

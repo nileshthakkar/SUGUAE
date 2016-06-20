@@ -339,6 +339,17 @@
                                         He shares his sitecore solutions to the community via his <a href="http://sitecoresolution.blogspot.com" target="_blank">blog</a>
                                     </p>
                                 </div>
+
+                                       <div class="jx-footer-social" style="padding:15px;!important">
+                        <ul>
+                            
+                            <li><a href="https://twitter.com/pradsir"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://ae.linkedin.com/in/shuklapradeep"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/pradeepshukla1984"><i class="fa fa-facebook"></i></a></li>
+                            
+                        </ul>
+                    </div>
+
                             </div>
                             <!-- item 01 -->
 
@@ -352,9 +363,21 @@
                                 <div class="service-description">
                                     <p>
                                         Nilesh is Sitecore MVP 2015-2016 with more than a decade of industry experience. He enjoys
-the challenge of crafting complex Sitecore solution. He has been sharing his Sitecore journey to the community via his <a href="http://sitecorejourney.nileshthakkar.in" target="_blank">blog</a>
+the challenge of crafting complex Sitecore solution.
+                                         He has been sharing his Sitecore journey to the community via his <a href="http://sitecorejourney.nileshthakkar.in" target="_blank">blog</a>
                                     </p>
                                 </div>
+
+                                       <div class="jx-footer-social" style="padding:15px;!important">
+                        <ul>
+                            
+                            <li><a href="https://twitter.com/pradsir"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://ae.linkedin.com/in/shuklapradeep"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/pradeepshukla1984"><i class="fa fa-facebook"></i></a></li>
+                            
+                        </ul>
+                    </div>
+
                             </div>
                             <!-- item 01 -->
 
@@ -366,8 +389,24 @@ the challenge of crafting complex Sitecore solution. He has been sharing his Sit
                                 <div class="service-title jx-uppercase"><a href="#">Pradeep Shukla</a></div>
                                 <div class="service-title-border"></div>
                                 <div class="service-description">
-                                    <p>Pradeep Shukla is Sitecore , Digital Marketing specialist.In his current role of Technical manager he is driving the digital marketing strategy for one of giant tourism body of UAE</p>
+                                    <p>Pradeep is Sitecore Certified, Digital Marketing specialist, Architect.
+                                        As a Technical manager he is driving the digital marketing strategy
+                                         for one of giant tourism body of Dubai.
+
+                                         Pradeep enables community to learn Sitecore via his <a href="https://learningsitecorecms.blogspot.ae/" target="_blank">blog</a>
+                                    </p>
                                 </div>
+
+                      <div class="jx-footer-social" style="padding:15px;!important">
+                        <ul>
+                            
+                            <li><a href="https://twitter.com/pradsir"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://ae.linkedin.com/in/shuklapradeep"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/pradeepshukla1984"><i class="fa fa-facebook"></i></a></li>
+                            
+                        </ul>
+                    </div>
+
                             </div>
                             <!-- item 01 -->
 
@@ -390,6 +429,18 @@ experience in .NET, and four years focused on Sitecore development. He has imple
 10 Sitecore websites.
                                     </p>
                                 </div>
+
+                                       <div class="jx-footer-social" style="padding:15px;!important">
+                        <ul>
+                            
+                            <li><a href="https://twitter.com/pradsir"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://ae.linkedin.com/in/shuklapradeep"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/pradeepshukla1984"><i class="fa fa-facebook"></i></a></li>
+                            
+                        </ul>
+                    </div>
+
+
                             </div>
                             <!-- item 01 -->
 
@@ -413,6 +464,17 @@ over than 10 Sitecore solutions. He is very active in contributing to the Siteco
 master degree in Information Security.
                                     </p>
                                 </div>
+
+                                       <div class="jx-footer-social" style="padding:15px;!important">
+                        <ul>
+                            
+                            <li><a href="https://twitter.com/pradsir"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://ae.linkedin.com/in/shuklapradeep"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/pradeepshukla1984"><i class="fa fa-facebook"></i></a></li>
+                            
+                        </ul>
+                    </div>
+
                             </div>
                             <!-- item 01 -->
 
