@@ -384,13 +384,8 @@ the challenge of crafting complex Sitecore solution. He has been sharing his Sit
                                 <div class="service-title-border"></div>
                                 <div class="service-description">
                                     <p>
-                                        Ayman is Senior Sitecore certified developer employed in a software development company in Dubai
-
-called “Indivirtual Dubai”, Ayman currently leads their Sitecore projects. He has more than eight years of
-
-experience in .NET, and four years focused on Sitecore development. He has implemented more than
-
-10 Sitecore websites.
+                                       Ayman is Senior Sitecore certified developer, he currently leads many Sitecore projects. He has more than eight years of
+experience in .NET, and four years focused on Sitecore development. He has implemented more than 10 Sitecore websites.
                                     </p>
                                 </div>
                             </div>
@@ -405,15 +400,8 @@ experience in .NET, and four years focused on Sitecore development. He has imple
                                 <div class="service-title-border"></div>
                                 <div class="service-description">
                                     <p>
-                                        Ahmad is a Sitecore Enthusiast with extensive development skills in the .NET technologies, currently he
-
-is working in a Digital Agency based in Dubai as Senior Sitecore Developer and he is leading their
-
-Sitecore projects. He has six years of professional experience in Sitecore and has been involved with
-
-over than 10 Sitecore solutions. He is very active in contributing to the Sitecore community. He holds a
-
-master degree in Information Security.
+                                        Ahmad is a Sitecore enthusiast, currently he leads
+Sitecore projects. He has seven years of professional experience and involved with over than 10 Sitecore solutions. He holds a master degree in Information Security. He shares his Sitecore expirence on his <a href="http://aharb.me">Blog</a>  
                                     </p>
                                 </div>
                             </div>
