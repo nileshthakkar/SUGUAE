@@ -12,9 +12,9 @@
     ================================================== -->
     <meta charset="utf-8" />
     <title>SUGUAE (Dubai) | Home</title>
-    <meta name="keywords" content="Sitecore" />
-    <meta name="description" content="Vectus HTML5 Template - v1.0" />
-    <meta name="author" content="janxcode.com" />
+    <meta name="keywords" content="Sitecore User Group, SUGUAE,Sitecore Dubai,Meet Up in Dubai" />
+    <meta name="description" content="Sitecore User Group UAE is established to share knowledge and inspire Sitecore developers, architects, administrators, designers, business , marketers and managers to avail best offering from Sitecore. We are a passionate team of MVP, developers, architects & strategic thinkers , digital marketer who are passionate about helping Sitecore community" />
+    <meta name="author" content="SUGUAE" />
 
     <!-- Mobile Specific Metas
     ================================================== -->
