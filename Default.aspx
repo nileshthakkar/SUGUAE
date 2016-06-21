@@ -347,9 +347,9 @@
                         <ul>
 
                             
-                            <li><a href="https://twitter.com/pradsir"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://ae.linkedin.com/in/shuklapradeep"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="https://www.facebook.com/pradeepshukla1984"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://twitter.com/sitecore_ashish"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/ashishbansal9"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/ashish.bansal09"><i class="fa fa-facebook"></i></a></li>
                             
                         </ul>
                     </div>
@@ -375,9 +375,9 @@ the challenge of crafting complex Sitecore solution.
                                        <div class="jx-footer-social" style="padding:15px;!important">
                         <ul>
                             
-                            <li><a href="https://twitter.com/pradsir"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://ae.linkedin.com/in/shuklapradeep"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="https://www.facebook.com/pradeepshukla1984"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://twitter.com/ThakkarNilesh"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/nilesh-thakkar-5a303814"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/nilesh.thakkar.37"><i class="fa fa-facebook"></i></a></li>
                             
                         </ul>
                     </div>
@@ -432,9 +432,9 @@ experience in .NET, and four years focused on Sitecore development. He has imple
                                        <div class="jx-footer-social" style="padding:15px;!important">
                         <ul>
                             
-                            <li><a href="https://twitter.com/pradsir"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://ae.linkedin.com/in/shuklapradeep"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="https://www.facebook.com/pradeepshukla1984"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://twitter.com/AymanBarhoum"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/ayman-barhoum-a0555328"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/Suguae-1739367516338985"><i class="fa fa-facebook"></i></a></li>
                             
                         </ul>
                     </div>
@@ -460,9 +460,9 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                        <div class="jx-footer-social" style="padding:15px;!important">
                         <ul>
                             
-                            <li><a href="https://twitter.com/pradsir"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://ae.linkedin.com/in/shuklapradeep"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="https://www.facebook.com/pradeepshukla1984"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://twitter.com/_aharb_"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/harb89"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/Suguae-1739367516338985"><i class="fa fa-facebook"></i></a></li>
                             
                         </ul>
                     </div>
