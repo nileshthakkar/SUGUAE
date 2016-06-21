@@ -86,7 +86,7 @@
     <![endif]-->
     <!-- Favicons
     ================================================== -->
-    <link rel="shortcut icon" href="images/favicon.ico" />
+    <link rel="shortcut icon" href="images/suguaefavicon.ico" />
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png" />
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png" />
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png" />
@@ -528,17 +528,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                             </div>
                             <!-- Item -->
 
-                            <div class="jx-speaker-item">
-                                <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/rantunga.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                                    <div class="jx-speaker-overlayer"></div>
-                                    <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Chaturanga Ranatunga</div>
-                                        <div class="jx-speaker-pos">Sitecore MVP 2016 </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Item -->
+                            
 
                             <div class="jx-speaker-item">
                                 <div class="jx-speaker-photo jx-image-wrapper">
@@ -564,25 +554,13 @@ Sitecore projects. He has seven years of professional experience and involved wi
                             </div>
                             <!-- Item -->
 
-                            <div class="jx-speaker-item">
+                          <div class="jx-speaker-item">
                                 <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                                    <img width="234" height="189" src="images/rantunga.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
                                     <div class="jx-speaker-overlayer"></div>
                                     <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Meet Expertise</div>
-                                        <div class="jx-speaker-pos">Announcing soon...</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Item -->
-
-                            <div class="jx-speaker-item">
-                                <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                                    <div class="jx-speaker-overlayer"></div>
-                                    <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Meet Expertise</div>
-                                        <div class="jx-speaker-pos">Announcing soon...</div>
+                                        <div class="jx-speaker-name">Chaturanga Ranatunga</div>
+                                        <div class="jx-speaker-pos">Sitecore MVP 2016 </div>
                                     </div>
                                 </div>
                             </div>
