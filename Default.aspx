@@ -29,7 +29,18 @@
     <!-- Basic Page Needs
     ================================================== -->
     <meta charset="utf-8" />
-    <title>SUGUAE (Dubai) | Home</title>
+
+
+    <meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@suguae" />
+<meta name="twitter:title" content="Sitecore User Group Dubai - SUGUAE" />
+<meta name="twitter:description" content="Sitecore User Group UAE is established to share knowledge and inspire Sitecore developers, architects, administrators, designers, business , marketers and managers to avail best offering from Sitecore. We are a passionate team of MVP, developers, architects & strategic thinkers , digital marketer who are passionate about helping Sitecore community" />
+<meta name="twitter:image" content="http://suguae.net/images/TwitteTile.png" />
+
+
+
+
+    <title>Sitecore User Group Dubai - SUGUAE</title>
     <meta name="keywords" content="Sitecore User Group, SUGUAE,Sitecore Dubai,Meet Up in Dubai" />
     <meta name="description" content="Sitecore User Group UAE is established to share knowledge and inspire Sitecore developers, architects, administrators, designers, business , marketers and managers to avail best offering from Sitecore. We are a passionate team of MVP, developers, architects & strategic thinkers , digital marketer who are passionate about helping Sitecore community" />
     <meta name="author" content="SUGUAE" />
