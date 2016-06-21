@@ -478,7 +478,7 @@ experience in .NET, and four years focused on Sitecore. He has implemented more 
                             
                             <li><a href="https://twitter.com/AymanBarhoum" target="_blank"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="https://www.linkedin.com/in/ayman-barhoum-a0555328" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="https://www.facebook.com/Suguae-1739367516338985" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.facebook.com/ayman.barhoum.9" target="_blank"><i class="fa fa-facebook"></i></a></li>
                             
                         </ul>
                     </div>
@@ -506,7 +506,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                             
                             <li><a href="https://twitter.com/_aharb_" target="_blank"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="https://www.linkedin.com/in/harb89" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="https://www.facebook.com/Suguae-1739367516338985" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.facebook.com/Harb89" target="_blank"><i class="fa fa-facebook"></i></a></li>
                             
                         </ul>
                     </div>
