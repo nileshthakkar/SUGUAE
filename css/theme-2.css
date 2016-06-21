@@ -3059,6 +3059,11 @@ li .fa-linkedin:hover {
   color:#fff;
 }
 
+li .fa-group:hover {
+  background:#ed1c40;
+  color:#fff;
+}
+
 
 li .fa-youtube:hover{
   background:#bb0000;

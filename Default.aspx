@@ -2119,10 +2119,13 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     <li class="one-third columns">
                         <div class="jx-hotline-event">
                             <i class="line-icon icon-globe"></i>
+                            <a href="mailto:suguae@yahoo.com">
                             <div class="jx-info">
                                 <div class="jx-bar-head">Email Us:</div>
                                 <div class="jx-bar-title">suguae@yahoo.com</div>
                             </div>
+                                </a>
+
                         </div>
                     </li>
                     <li class="one-third columns">
@@ -2195,7 +2198,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 var mapOptions = {
                     scrollwheel: false,
                     // How zoomed in you want the map to start at (always required)
-                    zoom: 14,
+                    zoom: 13,
                     // The latitude and longitude to center the map (always required)
                     center: new google.maps.LatLng(25.2048, 55.2708), // New York
                     // How you would like to style the map.
