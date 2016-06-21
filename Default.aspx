@@ -455,7 +455,7 @@ the challenge of crafting complex Sitecore solution.
                                 <div class="service-description">
                                     <p>
                                        Ayman is Senior Sitecore certified developer, he currently leads many Sitecore projects. He has more than eight years of
-experience in .NET, and four years focused on Sitecore development. He has implemented more than 10 Sitecore websites.
+experience in .NET, and four years focused on Sitecore. He has implemented more than 10 Sitecore websites. He writes about Sitecore on his <a href="https://abarhoum.wordpress.com/">Blog</a>  
                                     </p>
                                 </div>
 
