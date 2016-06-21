@@ -9,7 +9,7 @@
 <!--<![endif]-->
 <head runat="server">
 
-    <!-- Google Analytics Added 
+      <!-- Google Analytics Added 
     ================================================== -->
     <script>
         (function (i, s, o, g, r, a, m) {
@@ -19,12 +19,12 @@
             m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
         })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-        ga('create', 'UA-79670856-1', 'auto');
-        ga('send', 'pageview');
+  ga('create', 'UA-79670856-1', 'auto');
+  ga('send', 'pageview');
 
-    </script>
+</script>
 
-    <!-- ================================================= -->
+      <!-- ================================================= -->
 
     <!-- Basic Page Needs
     ================================================== -->
@@ -362,15 +362,15 @@
                                 </div>
 
                                 <div class="jx-footer-social" style="padding: 15px; !important">
-                                    <ul>
+                        <ul>
 
-
-                                        <li><a href="https://twitter.com/sitecore_ashish"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/in/ashishbansal9"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="https://www.facebook.com/ashish.bansal09"><i class="fa fa-facebook"></i></a></li>
-
-                                    </ul>
-                                </div>
+                            
+                            <li><a href="https://twitter.com/sitecore_ashish" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/ashishbansal9" target="_blank" ><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/ashish.bansal09" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            
+                        </ul>
+                    </div>
 
                             </div>
                             <!-- item 01 -->
@@ -391,14 +391,14 @@ the challenge of crafting complex Sitecore solution.
                                 </div>
 
                                 <div class="jx-footer-social" style="padding: 15px; !important">
-                                    <ul>
-
-                                        <li><a href="https://twitter.com/ThakkarNilesh"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/in/nilesh-thakkar-5a303814"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="https://www.facebook.com/nilesh.thakkar.37"><i class="fa fa-facebook"></i></a></li>
-
-                                    </ul>
-                                </div>
+                        <ul>
+                            
+                            <li><a href="https://twitter.com/ThakkarNilesh" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/nilesh-thakkar-5a303814" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/nilesh.thakkar.37" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            
+                        </ul>
+                    </div>
 
                             </div>
                             <!-- item 01 -->
@@ -421,14 +421,14 @@ the challenge of crafting complex Sitecore solution.
                                 </div>
 
                                 <div class="jx-footer-social" style="padding: 15px; !important">
-                                    <ul>
-
-                                        <li><a href="https://twitter.com/pradsir"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="https://ae.linkedin.com/in/shuklapradeep"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="https://www.facebook.com/pradeepshukla1984"><i class="fa fa-facebook"></i></a></li>
-
-                                    </ul>
-                                </div>
+                        <ul>
+                            
+                            <li><a href="https://twitter.com/pradsir" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://ae.linkedin.com/in/shuklapradeep" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/pradeepshukla1984" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            
+                        </ul>
+                    </div>
 
                             </div>
                             <!-- item 01 -->
@@ -443,20 +443,20 @@ the challenge of crafting complex Sitecore solution.
                                 <div class="service-title-border"></div>
                                 <div class="service-description">
                                     <p>
-                                        Ayman is Senior Sitecore certified developer, he currently leads many Sitecore projects. He has more than eight years of
+                                       Ayman is Senior Sitecore certified developer, he currently leads many Sitecore projects. He has more than eight years of
 experience in .NET, and four years focused on Sitecore development. He has implemented more than 10 Sitecore websites.
                                     </p>
                                 </div>
 
                                 <div class="jx-footer-social" style="padding: 15px; !important">
-                                    <ul>
-
-                                        <li><a href="https://twitter.com/AymanBarhoum"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/in/ayman-barhoum-a0555328"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="https://www.facebook.com/Suguae-1739367516338985"><i class="fa fa-facebook"></i></a></li>
-
-                                    </ul>
-                                </div>
+                        <ul>
+                            
+                            <li><a href="https://twitter.com/AymanBarhoum" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/ayman-barhoum-a0555328" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/Suguae-1739367516338985" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            
+                        </ul>
+                    </div>
 
 
                             </div>
@@ -472,19 +472,19 @@ experience in .NET, and four years focused on Sitecore development. He has imple
                                 <div class="service-description">
                                     <p>
                                         Ahmad is a Sitecore enthusiast, currently he leads
-Sitecore projects. He has seven years of professional experience and involved with over than 10 Sitecore solutions. He holds a master degree in Information Security. He shares his Sitecore expirence on his <a href="http://aharb.me">Blog</a>
+Sitecore projects. He has seven years of professional experience and involved with over than 10 Sitecore solutions. He holds a master degree in Information Security. He shares his Sitecore expirence on his <a href="http://aharb.me">Blog</a>  
                                     </p>
                                 </div>
 
                                 <div class="jx-footer-social" style="padding: 15px; !important">
-                                    <ul>
-
-                                        <li><a href="https://twitter.com/_aharb_"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/in/harb89"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="https://www.facebook.com/Suguae-1739367516338985"><i class="fa fa-facebook"></i></a></li>
-
-                                    </ul>
-                                </div>
+                        <ul>
+                            
+                            <li><a href="https://twitter.com/_aharb_" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/harb89" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/Suguae-1739367516338985" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            
+                        </ul>
+                    </div>
 
                             </div>
                             <!-- item 01 -->
@@ -2161,10 +2161,10 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 <div class="container">
                     <div class="jx-footer-social">
                         <ul>
-                            <li><a href="https://www.facebook.com/SitecoreUAE"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="https://twitter.com/suguae"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://www.linkedin.com/groups/8532182"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="http://www.meetup.com/SUGUAE/"><i class="fa fa-group"></i></a></li>
+                            <li><a href="https://www.facebook.com/groups/sitecoreusergroupuae" target="_blank" ><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://twitter.com/suguae" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/groups/8532182" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="http://www.meetup.com/SUGUAE/" target="_blank"><i class="fa fa-group"></i></a></li>
                         </ul>
                     </div>
                     <div class="jx-footer-copyright">
@@ -2207,9 +2207,9 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     center: new google.maps.LatLng(25.2048, 55.2708), // New York
                     // How you would like to style the map.
                     // This is where you would paste any style found on Snazzy Maps.
-                    // styles: [{ "featureType": "water", "elementType": "geometry.fill", "stylers": [{ "color": "#d3d3d3" }] }, { "featureType": "transit", "stylers": [{ "color": "#808080" }, { "visibility": "off" }] }, { "featureType": "road.highway", "elementType": "geometry.stroke", "stylers": [{ "visibility": "on" }, { "color": "#b3b3b3" }] }, { "featureType": "road.highway", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "road.local", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#ffffff" }, { "weight": 1.8 }] }, { "featureType": "road.local", "elementType": "geometry.stroke", "stylers": [{ "color": "#d7d7d7" }] }, { "featureType": "poi", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#ebebeb" }] }, { "featureType": "administrative", "elementType": "geometry", "stylers": [{ "color": "#a7a7a7" }] }, { "featureType": "road.arterial", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "road.arterial", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "landscape", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#efefef" }] }, { "featureType": "road", "elementType": "labels.text.fill", "stylers": [{ "color": "#696969" }] }, { "featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{ "visibility": "on" }, { "color": "#737373" }] }, { "featureType": "poi", "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] }, { "featureType": "poi", "elementType": "labels", "stylers": [{ "visibility": "off" }] }, { "featureType": "road.arterial", "elementType": "geometry.stroke", "stylers": [{ "color": "#d6d6d6" }] }, { "featureType": "road", "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] }, {}, { "featureType": "poi", "elementType": "geometry.fill", "stylers": [{ "color": "#dadada" }] }]
+                   // styles: [{ "featureType": "water", "elementType": "geometry.fill", "stylers": [{ "color": "#d3d3d3" }] }, { "featureType": "transit", "stylers": [{ "color": "#808080" }, { "visibility": "off" }] }, { "featureType": "road.highway", "elementType": "geometry.stroke", "stylers": [{ "visibility": "on" }, { "color": "#b3b3b3" }] }, { "featureType": "road.highway", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "road.local", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#ffffff" }, { "weight": 1.8 }] }, { "featureType": "road.local", "elementType": "geometry.stroke", "stylers": [{ "color": "#d7d7d7" }] }, { "featureType": "poi", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#ebebeb" }] }, { "featureType": "administrative", "elementType": "geometry", "stylers": [{ "color": "#a7a7a7" }] }, { "featureType": "road.arterial", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "road.arterial", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "landscape", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#efefef" }] }, { "featureType": "road", "elementType": "labels.text.fill", "stylers": [{ "color": "#696969" }] }, { "featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{ "visibility": "on" }, { "color": "#737373" }] }, { "featureType": "poi", "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] }, { "featureType": "poi", "elementType": "labels", "stylers": [{ "visibility": "off" }] }, { "featureType": "road.arterial", "elementType": "geometry.stroke", "stylers": [{ "color": "#d6d6d6" }] }, { "featureType": "road", "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] }, {}, { "featureType": "poi", "elementType": "geometry.fill", "stylers": [{ "color": "#dadada" }] }]
 
-                    style: google.maps.MapTypeControlStyle.DROPDOWN_MENU
+                  style: google.maps.MapTypeControlStyle.DROPDOWN_MENU
 
                 };
                 // Get the HTML DOM element that will contain your map

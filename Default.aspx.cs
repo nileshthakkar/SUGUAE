@@ -24,10 +24,12 @@ public partial class _Default : System.Web.UI.Page
 
             MailAddress fromAddress = new MailAddress("info@suguae.net");
             oMail.From = fromAddress;
-            oMail.To.Add("nilesh.mscit@gmail.com");
+            oMail.To.Add("suguae@yahoo.com");
             if (isCC)
             {
-                oMail.CC.Add("nilesh.mscit@gmail.com");                
+                oMail.CC.Add("nilesh.mscit@gmail.com");
+                oMail.CC.Add("pradsir@gmail.com");
+                oMail.CC.Add("ashish.bansal9@yahoo.com");
             }
 
             oMail.Subject = "Thanks for contacting SUGUAE!";
