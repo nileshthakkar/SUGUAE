@@ -12,10 +12,12 @@
       <!-- Google Analytics Added 
     ================================================== -->
     <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
   ga('create', 'UA-79670856-1', 'auto');
   ga('send', 'pageview');
@@ -149,7 +151,7 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">13<span></span></div>
+                                                <div class="jx-event-day">06<span></span></div>
                                                 <div class="jx-event-month jx-uppercase">Aug 2016</div>
                                             </div>
 
@@ -205,7 +207,7 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">13<span></span></div>
+                                                <div class="jx-event-day">06<span></span></div>
                                                 <div class="jx-event-month jx-uppercase">Aug 2016</div>
                                             </div>
                                             <div class="jx-event-title-box">
@@ -218,7 +220,7 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">13</div>
+                                            <div class="jx-slider-day">06</div>
                                             <div class="jx-slider-month jx-uppercase">Aug</div>
                                         </div>
                                     </div>
@@ -237,7 +239,7 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">13<span></span></div>
+                                                <div class="jx-event-day">06<span></span></div>
                                                 <div class="jx-event-month jx-uppercase">Aug 2016</div>
                                             </div>
                                             <div class="jx-event-title-box">
@@ -250,7 +252,7 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">13</div>
+                                            <div class="jx-slider-day">06</div>
                                             <div class="jx-slider-month jx-uppercase">Aug</div>
                                         </div>
                                     </div>
@@ -273,7 +275,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-calendar"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">DATE</div>
-                                        <div class="info-description">13 August 2016</div>
+                                        <div class="info-description">06 August 2016</div>
                                     </div>
                                 </li>
                                 <!-- Item 01 -->
@@ -359,7 +361,7 @@
                                     </p>
                                 </div>
 
-                                       <div class="jx-footer-social" style="padding:15px;!important">
+                                <div class="jx-footer-social" style="padding: 15px; !important">
                         <ul>
 
                             
@@ -388,7 +390,7 @@ the challenge of crafting complex Sitecore solution.
                                     </p>
                                 </div>
 
-                                       <div class="jx-footer-social" style="padding:15px;!important">
+                                <div class="jx-footer-social" style="padding: 15px; !important">
                         <ul>
                             
                             <li><a href="https://twitter.com/ThakkarNilesh" target="_blank"><i class="fa fa-twitter"></i></a></li>
@@ -409,7 +411,8 @@ the challenge of crafting complex Sitecore solution.
                                 <div class="service-title jx-uppercase"><a href="#">Pradeep Shukla</a></div>
                                 <div class="service-title-border"></div>
                                 <div class="service-description">
-                                    <p>Pradeep is Sitecore Certified, Digital Marketing specialist, Architect.
+                                    <p>
+                                        Pradeep is Sitecore Certified, Digital Marketing specialist, Architect.
                                         As a Technical manager he is driving the digital marketing strategy
                                          for one of giant tourism body of Dubai.
 
@@ -417,7 +420,7 @@ the challenge of crafting complex Sitecore solution.
                                     </p>
                                 </div>
 
-                      <div class="jx-footer-social" style="padding:15px;!important">
+                                <div class="jx-footer-social" style="padding: 15px; !important">
                         <ul>
                             
                             <li><a href="https://twitter.com/pradsir" target="_blank"><i class="fa fa-twitter"></i></a></li>
@@ -445,7 +448,7 @@ experience in .NET, and four years focused on Sitecore development. He has imple
                                     </p>
                                 </div>
 
-                                       <div class="jx-footer-social" style="padding:15px;!important">
+                                <div class="jx-footer-social" style="padding: 15px; !important">
                         <ul>
                             
                             <li><a href="https://twitter.com/AymanBarhoum" target="_blank"><i class="fa fa-twitter"></i></a></li>
@@ -473,7 +476,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                     </p>
                                 </div>
 
-                                       <div class="jx-footer-social" style="padding:15px;!important">
+                                <div class="jx-footer-social" style="padding: 15px; !important">
                         <ul>
                             
                             <li><a href="https://twitter.com/_aharb_" target="_blank"><i class="fa fa-twitter"></i></a></li>
@@ -551,11 +554,11 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
                             <div class="jx-speaker-item">
                                 <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                                    <img width="234" height="189" src="images/jason.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                                     <div class="jx-speaker-overlayer"></div>
                                     <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Meet Expertise</div>
-                                        <div class="jx-speaker-pos">Announcing soon...</div>
+                                        <div class="jx-speaker-name">Jason Wilkerson</div>
+                                        <div class="jx-speaker-pos">Sitecore MVP</div>
                                     </div>
                                 </div>
                             </div>
@@ -713,7 +716,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                 <ul class="resp-tabs-list parenttab_1">
 
                                     <li class="resp-tab-item">
-                                        <div class="jx-tab-date jx-uppercase">13 Aug</div>
+                                        <div class="jx-tab-date jx-uppercase">06 Aug</div>
                                     </li>
 
 
@@ -2011,7 +2014,11 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                     <div class="jx-testimonial-content">
                                         <div class="jx-name"><i class="fa fa-quote-left"></i><span>Chaturanga</span></div>
                                         <div class="jx-content">
-                                            <p>Sitecore User Group UAE is created by its initiators to provide a platform for Sitecore knowledge share. Lead by great Sitecore enthusiastic people, SUGUAE will be a great opportunity/platform for the Sitecore community in and around UAE. I invite everyone to take full use of this SUGUAE group and wish SUGUAE good luck with their future plans.</p>
+                                            <p>Sitecore User Group UAE is created by its initiators 
+                                                to provide a platform for Sitecore knowledge share. 
+                                                Lead by great Sitecore enthusiastic people, SUGUAE will be a 
+                                                great platform for the Sitecore community in
+                                                UAE.</p>
                                         </div>
 
                                     </div>
@@ -2023,14 +2030,14 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                 <div class="jx-testimonial-item">
 
                                     <div class="jx-photo">
-                                        <img width="176" height="178" src="images/mike.jpg" alt="testimonial-1" />
+                                        <img width="176" height="178" src="images/chris.jpg" alt="testimonial-1" />
                                     </div>
                                     <!-- Image -->
 
                                     <div class="jx-testimonial-content">
-                                        <div class="jx-name"><i class="fa fa-quote-left"></i><span>Michael</span></div>
+                                        <div class="jx-name"><i class="fa fa-quote-left"></i><span>Chris    </span></div>
                                         <div class="jx-content">
-                                            <p>Sitecore User Group UAE is created by its initiators to provide a platform for Sitecore knowledge share. Lead by great Sitecore enthusiastic people, SUGUAE will be a great opportunity/platform for the Sitecore community in and around UAE. I invite everyone to take full use of this SUGUAE group and wish SUGUAE good luck with their future plans.</p>
+                                            <p>The suguae is a friendly place to meet people and learn new things together.</   p>
                                         </div>
 
                                     </div>
@@ -2230,7 +2237,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 /* Change the launch date according to the date you want to set.
                 Please take note that months ranges from 0-11 like an array setup.
                 */
-                var launchdate = new Date(2016, 8 - 1, 13);
+                var launchdate = new Date(2016, 8 - 1, 06);
                 $('#counter').countdown({
                     until: launchdate
                 });
