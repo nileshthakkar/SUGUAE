@@ -540,7 +540,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                 <div class="jx-hr-title"></div>
                                 <p>Meet our industry experts to scale up your knowledge and discuss your challenages.</p>
                             </div>
-                             <div class="jx-speaker-item">
+                            <div class="jx-speaker-item">
                                 <div class="jx-speaker-photo jx-image-wrapper">
                                     <img width="234" height="189" src="images/jason.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                                     <div class="jx-speaker-overlayer"></div>
@@ -575,7 +575,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                 </div>
                             </div>
                             <!-- Item -->
-                                                       
+
 
                             <div class="jx-speaker-item">
                                 <div class="jx-speaker-photo jx-image-wrapper">
@@ -2097,12 +2097,26 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
                 <div class="jx-sponsors">
                     <center>
+                          <h5 style="margin-bottom:20px" class="jx-subtitle">Our Platinum Sponsor(s)</h5>
                     <ul>                        
-                        <li><a href="mailto:suguae@yahoo.com"><div class="slide-contents"><img src="images/sponsor.jpg"  alt=""/></div></a></li>
-                    </ul>
-                </center>
+                        <li style="border:none"><a target="_blank" href="http://www.horizontalintegration.com/">
+                            <div class="slide-contents">
+                             
+                            <img  style="background-color:#143857" src="images/HI_logo.png"  alt=""/>
+                                <img src="images/HI.png"  alt=""/></div>
+                            </a></li>   
+                        </ul>
+                        </center>
                 </div>
 
+                <%-- <div class="jx-sponsors" style="margin-top:20px">
+                    <center>
+                          <h6 style="margin-bottom:30px" class="jx-subtitle">Become Sponsor</h6>
+                    <ul>                                         
+                          <li><a href="mailto:suguae@yahoo.com"><div class="slide-contents"><img src="images/sponsor.jpg"  alt=""/></div></a></li>
+                    </ul>
+                </center>
+                </div>--%>
             </div>
         </div>
         <!-- EOF Sponsor Logo -->
