@@ -9,7 +9,7 @@
 <!--<![endif]-->
 <head runat="server">
 
-      <!-- Google Analytics Added 
+    <!-- Google Analytics Added 
     ================================================== -->
     <script>
         (function (i, s, o, g, r, a, m) {
@@ -19,12 +19,12 @@
             m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
         })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-  ga('create', 'UA-79670856-1', 'auto');
-  ga('send', 'pageview');
+        ga('create', 'UA-79670856-1', 'auto');
+        ga('send', 'pageview');
 
-</script>
+    </script>
 
-      <!-- ================================================= -->
+    <!-- ================================================= -->
 
     <!-- Basic Page Needs
     ================================================== -->
@@ -32,20 +32,20 @@
 
 
     <meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@suguae" />
-<meta name="twitter:title" content="Sitecore User Group Dubai - SUGUAE" />
-<meta name="twitter:description" content="Sitecore User Group UAE is established to share knowledge and inspire Sitecore developers, architects, administrators, designers, business , marketers and managers to avail best offering from Sitecore. We are a passionate team of MVP, developers, architects & strategic thinkers , digital marketer who are passionate about helping Sitecore community" />
-<meta name="twitter:image" content="http://suguae.net/images/TwitteTile.png" />
+    <meta name="twitter:site" content="@suguae" />
+    <meta name="twitter:title" content="Sitecore User Group Dubai - SUGUAE" />
+    <meta name="twitter:description" content="Sitecore User Group UAE is established to share knowledge and inspire Sitecore developers, architects, administrators, designers, business , marketers and managers to avail best offering from Sitecore. We are a passionate team of MVP, developers, architects & strategic thinkers , digital marketer who are passionate about helping Sitecore community" />
+    <meta name="twitter:image" content="http://suguae.net/images/TwitteTile.png" />
 
 
 
     <meta property="og:title" content="Sitecore User Group Dubai - SUGUAE" />
-<meta property="og:type" content="image/jpeg" />
-<meta property="og:url" content="http://suguae.net" />
-<meta property="og:image" content="http://suguae.net/images/TwitteTile.png" />
+    <meta property="og:type" content="image/jpeg" />
+    <meta property="og:url" content="http://suguae.net" />
+    <meta property="og:image" content="http://suguae.net/images/TwitteTile.png" />
 
-    <meta property="og:description" 
-  content="Sitecore User Group UAE is established to share knowledge and inspire
+    <meta property="og:description"
+        content="Sitecore User Group UAE is established to share knowledge and inspire
          Sitecore developers, architects, administrators, designers, business , marketers and managers to avail best offering from Sitecore. We are a passionate team of MVP, developers, architects & strategic thinkers , digital marketer who are passionate about helping Sitecore community" />
 
 
@@ -146,7 +146,7 @@
                                         <li><a href="#speakers">Speakers</a></li>
                                         <li><a href="#schedule">Schedule</a></li>
                                         <li><a href="#register">Register</a></li>
-                                        <!--<li><a href="#gallery">Gallery</a></li>-->
+                                        <li><a href="#photos">Photo Gallery</a></li>
                                         <li><a href="#sponsors">Sponsors</a></li>
                                         <li><a href="#contacts">Contact Us</a></li>
                                     </ul>
@@ -176,8 +176,8 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">06<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">Aug 2016</div>
+                                                <div class="jx-event-day">02<span></span></div>
+                                                <div class="jx-event-month jx-uppercase">Nov 2016</div>
                                             </div>
 
                                             <div class="jx-event-title-box">
@@ -232,8 +232,8 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">06<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">Aug 2016</div>
+                                                <div class="jx-event-day">02<span></span></div>
+                                                <div class="jx-event-month jx-uppercase">Nov 2016</div>
                                             </div>
                                             <div class="jx-event-title-box">
                                                 <div class="jx-event-pretitle">Sitecore User Group in Dubai now</div>
@@ -245,8 +245,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">06</div>
-                                            <div class="jx-slider-month jx-uppercase">Aug</div>
+                                            <div class="jx-slider-day">02</div>
+                                            <div class="jx-slider-month jx-uppercase">Nov</div>
                                         </div>
                                     </div>
 
@@ -264,11 +264,11 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">06<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">Aug 2016</div>
+                                                <div class="jx-event-day">02<span></span></div>
+                                                <div class="jx-event-month jx-uppercase">Nov 2016</div>
                                             </div>
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">First Ever Sitecore Meet Up</div>
+                                                <div class="jx-event-pretitle">Second Sitecore User Group Meet Up</div>
                                                 <div class="jx-event-title">Come and Join Us</div>
                                                 <div class="jx-event-location">Dubai, UAE</div>
                                             </div>
@@ -277,8 +277,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">06</div>
-                                            <div class="jx-slider-month jx-uppercase">Aug</div>
+                                            <div class="jx-slider-day">02</div>
+                                            <div class="jx-slider-month jx-uppercase">Nov</div>
                                         </div>
                                     </div>
 
@@ -300,7 +300,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-calendar"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">DATE</div>
-                                        <div class="info-description">06 August 2016</div>
+                                        <div class="info-description">02 November 2016</div>
                                     </div>
                                 </li>
                                 <!-- Item 01 -->
@@ -309,7 +309,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-location"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">LOCATION</div>
-                                        <div class="info-description">TBD, Dubai</div>
+                                        <div class="info-description">The Address Dubai Marina , Dubai</div>
                                     </div>
                                 </li>
                                 <!-- Item 02 -->
@@ -387,15 +387,15 @@
                                 </div>
 
                                 <div class="jx-footer-social" style="padding: 15px; !important">
-                        <ul>
+                                    <ul>
 
-                            
-                            <li><a href="https://twitter.com/sitecore_ashish" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/ashishbansal9" target="_blank" ><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="https://www.facebook.com/ashish.bansal09" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                            
-                        </ul>
-                    </div>
+
+                                        <li><a href="https://twitter.com/sitecore_ashish" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/in/ashishbansal9" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="https://www.facebook.com/ashish.bansal09" target="_blank"><i class="fa fa-facebook"></i></a></li>
+
+                                    </ul>
+                                </div>
 
                             </div>
                             <!-- item 01 -->
@@ -416,14 +416,14 @@ the challenge of crafting complex Sitecore solution.
                                 </div>
 
                                 <div class="jx-footer-social" style="padding: 15px; !important">
-                        <ul>
-                            
-                            <li><a href="https://twitter.com/ThakkarNilesh" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/nilesh-thakkar-5a303814" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="https://www.facebook.com/nilesh.thakkar.37" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                            
-                        </ul>
-                    </div>
+                                    <ul>
+
+                                        <li><a href="https://twitter.com/ThakkarNilesh" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/in/nilesh-thakkar-5a303814" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="https://www.facebook.com/nilesh.thakkar.37" target="_blank"><i class="fa fa-facebook"></i></a></li>
+
+                                    </ul>
+                                </div>
 
                             </div>
                             <!-- item 01 -->
@@ -438,7 +438,7 @@ the challenge of crafting complex Sitecore solution.
                                 <div class="service-description">
                                     <p>
                                         Pradeep is Sitecore Certified, Digital Marketing specialist, Architect.
-                                        As a Technical manager he is driving the digital marketing strategy
+                                        As a Technical manager he is faciliatating the digital marketing strategy
                                          for one of giant tourism body of Dubai.
 
                                          Pradeep enables community to learn Sitecore via his <a href="https://learningsitecorecms.blogspot.ae/" target="_blank">blog</a>
@@ -446,14 +446,14 @@ the challenge of crafting complex Sitecore solution.
                                 </div>
 
                                 <div class="jx-footer-social" style="padding: 15px; !important">
-                        <ul>
-                            
-                            <li><a href="https://twitter.com/pradsir" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://ae.linkedin.com/in/shuklapradeep" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="https://www.facebook.com/pradeepshukla1984" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                            
-                        </ul>
-                    </div>
+                                    <ul>
+
+                                        <li><a href="https://twitter.com/pradsir" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="https://ae.linkedin.com/in/shuklapradeep" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="https://www.facebook.com/pradeepshukla1984" target="_blank"><i class="fa fa-facebook"></i></a></li>
+
+                                    </ul>
+                                </div>
 
                             </div>
                             <!-- item 01 -->
@@ -468,20 +468,20 @@ the challenge of crafting complex Sitecore solution.
                                 <div class="service-title-border"></div>
                                 <div class="service-description">
                                     <p>
-                                       Ayman is Senior Sitecore certified developer, he currently leads many Sitecore projects. He has more than eight years of
+                                        Ayman is Senior Sitecore certified developer, he currently leads many Sitecore projects. He has more than eight years of
 experience in .NET, and four years focused on Sitecore development. He has implemented more than 10 Sitecore websites.
                                     </p>
                                 </div>
 
                                 <div class="jx-footer-social" style="padding: 15px; !important">
-                        <ul>
-                            
-                            <li><a href="https://twitter.com/AymanBarhoum" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/ayman-barhoum-a0555328" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="https://www.facebook.com/Suguae-1739367516338985" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                            
-                        </ul>
-                    </div>
+                                    <ul>
+
+                                        <li><a href="https://twitter.com/AymanBarhoum" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/in/ayman-barhoum-a0555328" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="https://www.facebook.com/Suguae-1739367516338985" target="_blank"><i class="fa fa-facebook"></i></a></li>
+
+                                    </ul>
+                                </div>
 
 
                             </div>
@@ -497,19 +497,19 @@ experience in .NET, and four years focused on Sitecore development. He has imple
                                 <div class="service-description">
                                     <p>
                                         Ahmad is a Sitecore enthusiast, currently he leads
-Sitecore projects. He has seven years of professional experience and involved with over than 10 Sitecore solutions. He holds a master degree in Information Security. He shares his Sitecore expirence on his <a href="http://aharb.me">Blog</a>  
+Sitecore projects. He has seven years of professional experience and involved with over than 10 Sitecore solutions. He holds a master degree in Information Security. He shares his Sitecore expirence on his <a href="http://aharb.me">Blog</a>
                                     </p>
                                 </div>
 
                                 <div class="jx-footer-social" style="padding: 15px; !important">
-                        <ul>
-                            
-                            <li><a href="https://twitter.com/_aharb_" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/harb89" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="https://www.facebook.com/Suguae-1739367516338985" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                            
-                        </ul>
-                    </div>
+                                    <ul>
+
+                                        <li><a href="https://twitter.com/_aharb_" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/in/harb89" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="https://www.facebook.com/Suguae-1739367516338985" target="_blank"><i class="fa fa-facebook"></i></a></li>
+
+                                    </ul>
+                                </div>
 
                             </div>
                             <!-- item 01 -->
@@ -553,7 +553,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                             </div>
                             <!-- Item -->
 
-                            
+
 
                             <div class="jx-speaker-item">
                                 <div class="jx-speaker-photo jx-image-wrapper">
@@ -579,7 +579,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                             </div>
                             <!-- Item -->
 
-                          <div class="jx-speaker-item">
+                            <div class="jx-speaker-item">
                                 <div class="jx-speaker-photo jx-image-wrapper">
                                     <img width="234" height="189" src="images/rantunga.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
                                     <div class="jx-speaker-overlayer"></div>
@@ -719,7 +719,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                 <ul class="resp-tabs-list parenttab_1">
 
                                     <li class="resp-tab-item">
-                                        <div class="jx-tab-date jx-uppercase">06 Aug</div>
+                                        <div class="jx-tab-date jx-uppercase">02 Nov</div>
                                     </li>
 
 
@@ -1912,6 +1912,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
         <!-- EOF Price Table -->
         <!-- BOF Countdown + Form -->
         <div id='register' class="jx-container container-no-margin   jx-countdown-form">
+
             <div class='parallax-no-height' style='background-image: url(http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_24.jpg);'></div>
             <!-- Background Image -->
             <!-- Background Icon -->
@@ -1995,6 +1996,28 @@ Sitecore projects. He has seven years of professional experience and involved wi
         </div>
         <!-- EOF Countdown + Form -->
         <!-- BOF PROTFOLIO -->
+
+        <div id="photos" class="jx-main-slider">
+
+            <div class="flexslider">
+                <ul class="slides">
+
+                    <li class="jx-parallax-fullwidth jx-parallax-fullwidth-photos" style="background-image: url('http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_24.jpg');">
+
+                   </li>
+                     <li class="jx-parallax-fullwidth jx-parallax-fullwidth-photos" style="background-image: url('http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_24.jpg');">
+
+                   </li>
+                     <li class="jx-parallax-fullwidth jx-parallax-fullwidth-photos" style="background-image: url('http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_24.jpg');">
+
+                   </li>
+                </ul>
+                <!-- BOF Bottom Info Bar -->
+
+                <!-- EOF Bottom Info Bar -->
+            </div>
+            <!-- EOF Slexslider -->
+        </div>
         <!-- EOF PROTFOLO -->
         <!-- Testimonial -->
 
@@ -2017,11 +2040,13 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                     <div class="jx-testimonial-content">
                                         <div class="jx-name"><i class="fa fa-quote-left"></i><span>Chaturanga</span></div>
                                         <div class="jx-content">
-                                            <p>Sitecore User Group UAE is created by its initiators 
+                                            <p>
+                                                Sitecore User Group UAE is created by its initiators 
                                                 to provide a platform for Sitecore knowledge share. 
                                                 Lead by great Sitecore enthusiastic people, SUGUAE will be a 
                                                 great platform for the Sitecore community in
-                                                UAE.</p>
+                                                UAE.
+                                            </p>
                                         </div>
 
                                     </div>
@@ -2040,7 +2065,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                     <div class="jx-testimonial-content">
                                         <div class="jx-name"><i class="fa fa-quote-left"></i><span>Chris    </span></div>
                                         <div class="jx-content">
-                                            <p>The suguae is a friendly place to meet people and learn new things together.</   p>
+                                            <p>The suguae is a friendly place to meet people and learn new things together.</p>
                                         </div>
 
                                     </div>
@@ -2094,7 +2119,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
             <div class="container">
                 <div class="jx-venue-box">
 
-                    <div class="jx-hotel-name jx-uppercase">Announcing soon!</div>
+                    <div class="jx-hotel-name jx-uppercase">02 November 2016</div>
 
                     <div class="jx-venue-address">
                         <!--<div class="jx-venue-heading"><i class="fa fa-map-marker"></i>Address</div>
@@ -2130,11 +2155,11 @@ Sitecore projects. He has seven years of professional experience and involved wi
                         <div class="jx-hotline-event">
                             <i class="line-icon icon-globe"></i>
                             <a href="mailto:suguae@yahoo.com">
-                            <div class="jx-info">
-                                <div class="jx-bar-head">Email Us:</div>
-                                <div class="jx-bar-title">suguae@yahoo.com</div>
-                            </div>
-                                </a>
+                                <div class="jx-info">
+                                    <div class="jx-bar-head">Email Us:</div>
+                                    <div class="jx-bar-title">suguae@yahoo.com</div>
+                                </div>
+                            </a>
 
                         </div>
                     </li>
@@ -2167,7 +2192,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 <div class="container">
                     <div class="jx-footer-social">
                         <ul>
-                            <li><a href="https://www.facebook.com/groups/sitecoreusergroupuae" target="_blank" ><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.facebook.com/groups/sitecoreusergroupuae" target="_blank"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="https://twitter.com/suguae" target="_blank"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="https://www.linkedin.com/groups/8532182" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                             <li><a href="http://www.meetup.com/SUGUAE/" target="_blank"><i class="fa fa-group"></i></a></li>
@@ -2213,9 +2238,9 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     center: new google.maps.LatLng(25.2048, 55.2708), // New York
                     // How you would like to style the map.
                     // This is where you would paste any style found on Snazzy Maps.
-                   // styles: [{ "featureType": "water", "elementType": "geometry.fill", "stylers": [{ "color": "#d3d3d3" }] }, { "featureType": "transit", "stylers": [{ "color": "#808080" }, { "visibility": "off" }] }, { "featureType": "road.highway", "elementType": "geometry.stroke", "stylers": [{ "visibility": "on" }, { "color": "#b3b3b3" }] }, { "featureType": "road.highway", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "road.local", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#ffffff" }, { "weight": 1.8 }] }, { "featureType": "road.local", "elementType": "geometry.stroke", "stylers": [{ "color": "#d7d7d7" }] }, { "featureType": "poi", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#ebebeb" }] }, { "featureType": "administrative", "elementType": "geometry", "stylers": [{ "color": "#a7a7a7" }] }, { "featureType": "road.arterial", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "road.arterial", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "landscape", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#efefef" }] }, { "featureType": "road", "elementType": "labels.text.fill", "stylers": [{ "color": "#696969" }] }, { "featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{ "visibility": "on" }, { "color": "#737373" }] }, { "featureType": "poi", "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] }, { "featureType": "poi", "elementType": "labels", "stylers": [{ "visibility": "off" }] }, { "featureType": "road.arterial", "elementType": "geometry.stroke", "stylers": [{ "color": "#d6d6d6" }] }, { "featureType": "road", "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] }, {}, { "featureType": "poi", "elementType": "geometry.fill", "stylers": [{ "color": "#dadada" }] }]
+                    // styles: [{ "featureType": "water", "elementType": "geometry.fill", "stylers": [{ "color": "#d3d3d3" }] }, { "featureType": "transit", "stylers": [{ "color": "#808080" }, { "visibility": "off" }] }, { "featureType": "road.highway", "elementType": "geometry.stroke", "stylers": [{ "visibility": "on" }, { "color": "#b3b3b3" }] }, { "featureType": "road.highway", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "road.local", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#ffffff" }, { "weight": 1.8 }] }, { "featureType": "road.local", "elementType": "geometry.stroke", "stylers": [{ "color": "#d7d7d7" }] }, { "featureType": "poi", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#ebebeb" }] }, { "featureType": "administrative", "elementType": "geometry", "stylers": [{ "color": "#a7a7a7" }] }, { "featureType": "road.arterial", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "road.arterial", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "landscape", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#efefef" }] }, { "featureType": "road", "elementType": "labels.text.fill", "stylers": [{ "color": "#696969" }] }, { "featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{ "visibility": "on" }, { "color": "#737373" }] }, { "featureType": "poi", "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] }, { "featureType": "poi", "elementType": "labels", "stylers": [{ "visibility": "off" }] }, { "featureType": "road.arterial", "elementType": "geometry.stroke", "stylers": [{ "color": "#d6d6d6" }] }, { "featureType": "road", "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] }, {}, { "featureType": "poi", "elementType": "geometry.fill", "stylers": [{ "color": "#dadada" }] }]
 
-                  style: google.maps.MapTypeControlStyle.DROPDOWN_MENU
+                    style: google.maps.MapTypeControlStyle.DROPDOWN_MENU
 
                 };
                 // Get the HTML DOM element that will contain your map
@@ -2240,7 +2265,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 /* Change the launch date according to the date you want to set.
                 Please take note that months ranges from 0-11 like an array setup.
                 */
-                var launchdate = new Date(2016, 8 - 1, 06);
+                var launchdate = new Date(2016, 11 - 1, 02);
                 $('#counter').countdown({
                     until: launchdate
                 });
