@@ -146,7 +146,7 @@
                                         <li><a href="#speakers">Speakers</a></li>
                                         <li><a href="#schedule">Schedule</a></li>
                                         <li><a href="#register">Register</a></li>
-                                        
+
                                         <li><a href="#gallery">Photo Gallery</a></li>
                                         <li><a href="#sponsors">Sponsors</a></li>
                                         <li><a href="#contacts">Contact Us</a></li>
@@ -2012,110 +2012,275 @@ Sitecore projects. He has seven years of professional experience and involved wi
         </div>
         <!-- EOF Countdown + Form -->
         <!-- BOF PROTFOLIO -->
+        <div id='gallery' class="jx-container container-no-margin jx-padding jx-grey-bg ">
 
-     
-        <!-- EOF PROTFOLO -->
-
-
-
-               
-        <!-- BOF PROTFOLIO -->
-        <div id='gallery' class="jx-container container-no-margin jx-padding jx-white-bg ">
-				
             <!-- Background Image -->
-            
+
             <!-- Background Icon -->
             <div class="container ">
                 <div class="jx-section-title-1 jx-dark">
-                
+
                     <div class="jx-pre-title jx-short-border">
-                    <div class="jx-title-border left"></div>
-                    <div class="jx-title-icon"><i class="line-icon icon-camera"></i></div>
-                    <div class="jx-title-border right"></div> 
+                        <div class="jx-title-border left"></div>
+                        <div class="jx-title-icon"><i class="line-icon icon-camera"></i></div>
+                        <div class="jx-title-border right"></div>
                     </div>
                     <div class="jx-title jx-uppercase">GALLERY</div>
-                    <div class="jx-subtitle"><p>Sitecore </p></div>
+                    <div class="jx-subtitle">
+                        <p>Viverra dignissim elit. Maecenas in orci nisl. Cras et nisl aliquet, mollis purus ac, vestibulum metus. Suspendisse arcu ex, condimentum vehicula tempus eget, varius ut tortor</p>
+                    </div>
                     <!-- Section Title -->
-                
+
                 </div>
-                
-                <div class="jx-grid-item grid-item-height2 grid-item-width2">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" 
-                        src="images/Eventphotos/06-Aug-2016/DSC_0036.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
-                    
+
+
+                <div class="jx-grid-item grid-item-height2 grid-item-width2">
+                    <div class="jx-image jx-image-wrapper">
+                        <img width="400" height="400" src="images/Eventphotos/06-Aug-2016/1.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="images/Eventphotos/06-Aug-2016/DSC_0036.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a href="images/Eventphotos/06-Aug-2016/1.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
-                    </div>                        
+                    </div>
                 </div>
-                
-      
-                
-                <div class="jx-grid-item ">                   
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" 
-                        src="images/Eventphotos/06-Aug-2016/DSC_0036.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_21" />
-                    
+
+                <div class="jx-grid-item">
+
+                    <div class="jx-date-box">
+                        <div class="jx-date">26 Jan</div>
+                        <div class="jx-day">Day 2</div>
+                    </div>
+
+                </div>
+
+                <div class="jx-grid-item grid-item-height2 grid-item-width2">
+                    <div class="jx-image jx-image-wrapper">
+                        <img width="400" height="400" src="images/Eventphotos/06-Aug-2016/2.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="images/Eventphotos/06-Aug-2016/DSC_0037.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a href="images/Eventphotos/06-Aug-2016/2.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
-                    </div>                        
+                    </div>
                 </div>
-                
-                <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" 
-                        src="images/Eventphotos/06-Aug-2016/DSC_0048.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_20" />
-                    
+
+
+                <div class="jx-grid-item grid-item-height2 grid-item-width2">
+                    <div class="jx-image jx-image-wrapper">
+                        <img width="400" height="400" src="images/Eventphotos/06-Aug-2016/3.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="images/Eventphotos/06-Aug-2016/DSC_0064.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a href="images/Eventphotos/06-Aug-2016/3.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
-                    </div>                        
+                    </div>
+                </div>
+
+                <div class="jx-grid-item">
+
+                    <div class="jx-date-box">
+                        <div class="jx-date">26 Jan</div>
+                        <div class="jx-day">Day 2</div>
+                    </div>
+
                 </div>
                 
-              <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_19-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
-                    
+                <div class="jx-grid-item grid-item-height2 grid-item-width2">
+                    <div class="jx-image jx-image-wrapper">
+                        <img width="400" height="400" src="images/Eventphotos/06-Aug-2016/4.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_19-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a href="images/Eventphotos/06-Aug-2016/4.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
-                    </div>                        
+                    </div>
                 </div>
-                
-                <div class="jx-grid-item ">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" 
-                        src="images/Eventphotos/06-Aug-2016/DSC_0064.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_18" />
-                    
-                        <div class="jx-image-overlayer"></div>
-                        <div class="jx-image-hover">
-                            <a herf="images/Eventphotos/06-Aug-2016/DSC_0064.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                        </div>
-                        <!--Image Hover -->
-                    </div>                        
-                </div>  
-                
-               
-                <div class="jx-grid-item grid-item-width2-only">                    	
-                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" 
-                        src="images/Eventphotos/06-Aug-2016/DSC_0064.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
-                    
-                        <div class="jx-image-overlayer"></div>
-                        <div class="jx-image-hover">
-                            <a herf="images/Eventphotos/06-Aug-2016/DSC_0064.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                        </div>
-                        <!--Image Hover -->
-                    </div>                        
-                </div>
-                
+
+
             </div>
         </div>
-		<!-- EOF PROTFOLO -->
+        <!-- EOF PROTFOLO -->
+
+
+        <div class="jx-grid-item">
+
+            <div class="jx-date-box">
+                <div class="jx-date">25 Jan</div>
+                <div class="jx-day">Day 1</div>
+            </div>
+
+        </div>
+
+        <div class="jx-grid-item ">
+            <div class="jx-image jx-image-wrapper">
+                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_21-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_21" />
+
+                <div class="jx-image-overlayer"></div>
+                <div class="jx-image-hover">
+                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_21-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                </div>
+                <!--Image Hover -->
+            </div>
+        </div>
+
+        <div class="jx-grid-item ">
+            <div class="jx-image jx-image-wrapper">
+                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_20-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_20" />
+
+                <div class="jx-image-overlayer"></div>
+                <div class="jx-image-hover">
+                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_20-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                </div>
+                <!--Image Hover -->
+            </div>
+        </div>
+
+        <div class="jx-grid-item ">
+            <div class="jx-image jx-image-wrapper">
+                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_19-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
+
+                <div class="jx-image-overlayer"></div>
+                <div class="jx-image-hover">
+                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_19-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                </div>
+                <!--Image Hover -->
+            </div>
+        </div>
+
+        <div class="jx-grid-item ">
+            <div class="jx-image jx-image-wrapper">
+                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_18-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_18" />
+
+                <div class="jx-image-overlayer"></div>
+                <div class="jx-image-hover">
+                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_18-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                </div>
+                <!--Image Hover -->
+            </div>
+        </div>
+
+        <div class="jx-grid-item">
+
+            <div class="jx-date-box">
+                <div class="jx-date">26 Jan</div>
+                <div class="jx-day">Day 2</div>
+            </div>
+
+        </div>
+
+        <div class="jx-grid-item ">
+            <div class="jx-image jx-image-wrapper">
+                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_16-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_16" />
+
+                <div class="jx-image-overlayer"></div>
+                <div class="jx-image-hover">
+                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_16-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                </div>
+                <!--Image Hover -->
+            </div>
+        </div>
+
+        <div class="jx-grid-item ">
+            <div class="jx-image jx-image-wrapper">
+                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_15-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_15" />
+
+                <div class="jx-image-overlayer"></div>
+                <div class="jx-image-hover">
+                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_15-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                </div>
+                <!--Image Hover -->
+            </div>
+        </div>
+
+        <div class="jx-grid-item ">
+            <div class="jx-image jx-image-wrapper">
+                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_14-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_14" />
+
+                <div class="jx-image-overlayer"></div>
+                <div class="jx-image-hover">
+                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_14-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                </div>
+                <!--Image Hover -->
+            </div>
+        </div>
+
+        <div class="jx-grid-item">
+
+            <div class="jx-date-box">
+                <div class="jx-date">27 Jan</div>
+                <div class="jx-day">Day 3</div>
+            </div>
+
+        </div>
+
+        <div class="jx-grid-item ">
+            <div class="jx-image jx-image-wrapper">
+                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_22-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_22" />
+
+                <div class="jx-image-overlayer"></div>
+                <div class="jx-image-hover">
+                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_22-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                </div>
+                <!--Image Hover -->
+            </div>
+        </div>
+
+        <div class="jx-grid-item ">
+            <div class="jx-image jx-image-wrapper">
+                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_21-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_21" />
+
+                <div class="jx-image-overlayer"></div>
+                <div class="jx-image-hover">
+                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_21-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                </div>
+                <!--Image Hover -->
+            </div>
+        </div>
+
+        <div class="jx-grid-item ">
+            <div class="jx-image jx-image-wrapper">
+                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_20-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_20" />
+
+                <div class="jx-image-overlayer"></div>
+                <div class="jx-image-hover">
+                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_20-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                </div>
+                <!--Image Hover -->
+            </div>
+        </div>
+
+        <div class="jx-grid-item ">
+            <div class="jx-image jx-image-wrapper">
+                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_18-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_18" />
+
+                <div class="jx-image-overlayer"></div>
+                <div class="jx-image-hover">
+                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_18-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                </div>
+                <!--Image Hover -->
+            </div>
+        </div>
+
+        <div class="jx-grid-item grid-item-width2-only">
+            <div class="jx-image jx-image-wrapper">
+                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_19-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
+
+                <div class="jx-image-overlayer"></div>
+                <div class="jx-image-hover">
+                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_19-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                </div>
+                <!--Image Hover -->
+            </div>
+        </div>
+
+        </div>
+        </div>
+        <!-- EOF PROTFOLO -->
         <!-- Testimonial -->
 
         <div class="jx-container container-no-margin  jx-grey-bg ">

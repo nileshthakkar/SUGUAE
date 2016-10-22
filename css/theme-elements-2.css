@@ -1922,7 +1922,7 @@ position:relative
   float: left;
 	width: 19%;
 	margin-right: 12px;
-margin-bottom: 12px;
+margin-bottom: -70px;
 
 }
 
@@ -1936,7 +1936,7 @@ margin-bottom: 12px;
 .jx-grid-item .jx-date-box{
   background:#EE163A;
   width:228px;
-  height: 228px;
+  height: 311px;
   display:block;
   text-align: center;
   color:#fff; 
