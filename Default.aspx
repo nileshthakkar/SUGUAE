@@ -182,8 +182,8 @@
                                             </div>
 
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">A BIG Event in Dubai!</div>
-                                                <div class="jx-event-title">SUGUAE Launch</div>
+                                                <div class="jx-event-pretitle">Meet Someone Special At</div>
+                                                <div class="jx-event-title">SUGUAE Event</div>
                                                 <div class="jx-event-countdown">
                                                     <div class="jx-countdown">
                                                         <div class="dsb-theme-wrapper countdown">
@@ -784,10 +784,14 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                     <div class="date">
                                                                         <i class="fa fa-clock-o"></i><span>4.30PM – 5.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
                                                                     </div>
-                                                                    <div class="title" data-control>Kern, Sitecore MVP</div>
+                                                                    <div class="title" data-control>Explore how UnitedHealth Group Personalized their Digital Customer Experience Using Sitecore</div>
                                                                     <div data-content>
                                                                         <div class="content">
-                                                                            <p>Sitecore SXA for Developers!</p>
+                                                                            <p>
+                                                                                Dave Michela (VP, Client Services - Horizontal integration)
+                                                                                <br />
+                                                                                Sheetal Jain (Solution Architect - Horizontal integration)
+                                                                            </p>
                                                                         </div>
                                                                     </div>
                                                                     <div class="date"><i class="fa fa-clock-o"></i><span>5.30PM – 6.00PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Short Break</span></div>
@@ -798,28 +802,32 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                         </div>
                                                                     </div>
                                                                     <div class="date">
-                                                                        <i class="fa fa-clock-o"></i><span>6.15PM – 6.45PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
+                                                                        <i class="fa fa-clock-o"></i><span>6.00PM – 7.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
                                                                     </div>
-                                                                    <div class="title" data-control>Mike Reynolds, Sitecore MVP.</div>
+                                                                    <div class="title" data-control>Sitecore Experience Accelerator (SXA) for Sitecore Developers</div>
                                                                     <div data-content>
                                                                         <div class="content">
-                                                                            <p>Technical Presentation on Buckets, Buckets Everywhere! (In this presentation on Sitecore Item Buckets, Sitecore MVP Mike Reynolds will give a quick tour of the Item Buckets feature, and also show how you can customize different parts of this major feature in Sitecore)</p>
+                                                                            <p>Kern Herskind  (Senior Product Manager - Sitecore) </p>
                                                                         </div>
                                                                     </div>
 
                                                                     <div class="date">
-                                                                        <i class="fa fa-clock-o"></i><span>6.45PM – 7.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Keynote by SUGUAE Sponsor</span>
+                                                                        <i class="fa fa-clock-o"></i><span>7.00PM – 7.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-3</span>
                                                                     </div>
-                                                                    <div class="title" data-control></div>
+                                                                    <div class="title" data-control>Open Discussion on Sitecore Migration strategy from 7.x to 8.x</div>
                                                                     <div data-content>
                                                                         <div class="content">
                                                                             <p>
+                                                                                Nilesh Thakkar  (Sitecore MVP)<br />
+                                                                                Ashish Bansal    (Sitecore Architect)<br />
+                                                                                Pradeep Shukla (Sitecore Delivery Manager)
                                                                             </p>
                                                                         </div>
                                                                     </div>
 
+
                                                                     <div class="date">
-                                                                        <i class="fa fa-clock-o"></i><span>7.00PM – 7.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea</span>
+                                                                        <i class="fa fa-clock-o"></i><span>7.30PM – 8.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea/Closing</span>
                                                                     </div>
                                                                     <div class="title" data-control>Eat and Meet!</div>
                                                                     <div data-content>
