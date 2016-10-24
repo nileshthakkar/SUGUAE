@@ -541,17 +541,33 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                 <div class="jx-hr-title"></div>
                                 <p>Meet our industry experts to scale up your knowledge and discuss your challenages.</p>
                             </div>
+
                             <div class="jx-speaker-item">
                                 <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/jason.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                                    <img width="234" height="189" src="images/Sheetal.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                                     <div class="jx-speaker-overlayer"></div>
                                     <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Jason Wilkerson</div>
-                                        <div class="jx-speaker-pos">Sitecore MVP</div>
+                                        <div class="jx-speaker-name">Sheetal Jain</div>
+                                        <div class="jx-speaker-pos">Solutions Architect, Sitecore MVP</div>
+                                        <div class="jx-speaker-pos">Horizontal Integration</div>
                                     </div>
                                 </div>
                             </div>
                             <!-- Item -->
+                            <!-- Item Content Box-->
+                            <div class="jx-speaker-item">
+                                <div class="jx-speaker-photo jx-image-wrapper">
+                                    <img width="234" height="189" src="images/Dave.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                                    <div class="jx-speaker-overlayer"></div>
+                                    <div class="jx-image-hover-info">
+                                        <div class="jx-speaker-name">Dave Michela</div>
+                                        <div class="jx-speaker-pos">VP, Client Services</div>
+                                        <div class="jx-speaker-pos">Horizontal Integration</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Item -->
+
                             <!-- Item Content Box-->
                             <div class="jx-speaker-item">
                                 <div class="jx-speaker-photo jx-image-wrapper">
@@ -567,24 +583,35 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
                             <div class="jx-speaker-item">
                                 <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/speaker-3.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                                    <img width="234" height="189" src="images/jason.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                                     <div class="jx-speaker-overlayer"></div>
                                     <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Martin Davies</div>
-                                        <div class="jx-speaker-pos">Sitecore Developer</div>
+                                        <div class="jx-speaker-name">Jason Wilkerson</div>
+                                        <div class="jx-speaker-pos">Sitecore MVP</div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="jx-speaker-item">
+                                <div class="jx-speaker-photo jx-image-wrapper">
+                                    <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                                    <div class="jx-speaker-overlayer"></div>
+                                    <div class="jx-image-hover-info">
+                                        <div class="jx-speaker-name">Meet Expertise</div>
+                                        <div class="jx-speaker-pos">Announcing soon...</div>
                                     </div>
                                 </div>
                             </div>
                             <!-- Item -->
 
-
                             <div class="jx-speaker-item">
                                 <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/rantunga.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                                    <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
                                     <div class="jx-speaker-overlayer"></div>
                                     <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Chaturanga Ranatunga</div>
-                                        <div class="jx-speaker-pos">Sitecore MVP 2016 </div>
+                                        <div class="jx-speaker-name">Meet Expertise</div>
+                                        <div class="jx-speaker-pos">Announcing soon...</div>
                                     </div>
                                 </div>
                             </div>
@@ -613,6 +640,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                 </div>
                             </div>
                             <!-- Item -->
+
 
                         </div>
                     </div>
@@ -716,26 +744,114 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
                             <div id="ParentTab">
                                 <ul class="resp-tabs-list parenttab_1">
-
                                     <li class="resp-tab-item">
                                         <div class="jx-tab-date jx-uppercase">02 Nov</div>
                                     </li>
-
-
+                                    <li class="resp-tab-item">
+                                        <div class="jx-tab-date jx-uppercase">06 Aug</div>
+                                    </li>
                                 </ul>
-
 
                                 <div class="resp-tabs-container parenttab_1">
                                     <div>
                                         <div id="ChildTab-1">
 
                                             <ul class="resp-tabs-list jx-subtab childtab_1">
+
                                                 <li>
                                                     <div class="jx-tab-title">Agenda</div>
                                                 </li>
                                             </ul>
                                             <!-- EOF Child Tab Head -->
+                                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                                <div>
+                                                    <div data-accordion-group class="jx-accordion-box">
+                                                        <div class="item">
+                                                            <div class="left-position">
+                                                                <!--<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-10.jpg" alt=""></div>-->
+                                                                <!-- Image -->
+                                                            </div>
+                                                            <!-- Left item Position -->
+                                                            <div class="right-position">
+                                                                <div data-accordion class="head open">
+                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>4.00PM – 4.30PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                                    <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                                    <div data-content>
+                                                                        <div class="content">
+                                                                            &nbsp;
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="date">
+                                                                        <i class="fa fa-clock-o"></i><span>4.30PM – 5.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
+                                                                    </div>
+                                                                    <div class="title" data-control>Kern, Sitecore MVP</div>
+                                                                    <div data-content>
+                                                                        <div class="content">
+                                                                            <p>Sitecore SXA for Developers!</p>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>5.30PM – 6.00PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Short Break</span></div>
+                                                                    <div class="title"></div>
+                                                                    <div data-content>
+                                                                        <div class="content">
+                                                                            &nbsp;
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="date">
+                                                                        <i class="fa fa-clock-o"></i><span>6.15PM – 6.45PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
+                                                                    </div>
+                                                                    <div class="title" data-control>Mike Reynolds, Sitecore MVP.</div>
+                                                                    <div data-content>
+                                                                        <div class="content">
+                                                                            <p>Technical Presentation on Buckets, Buckets Everywhere! (In this presentation on Sitecore Item Buckets, Sitecore MVP Mike Reynolds will give a quick tour of the Item Buckets feature, and also show how you can customize different parts of this major feature in Sitecore)</p>
+                                                                        </div>
+                                                                    </div>
 
+                                                                    <div class="date">
+                                                                        <i class="fa fa-clock-o"></i><span>6.45PM – 7.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Keynote by SUGUAE Sponsor</span>
+                                                                    </div>
+                                                                    <div class="title" data-control></div>
+                                                                    <div data-content>
+                                                                        <div class="content">
+                                                                            <p>
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+
+                                                                    <div class="date">
+                                                                        <i class="fa fa-clock-o"></i><span>7.00PM – 7.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea</span>
+                                                                    </div>
+                                                                    <div class="title" data-control>Eat and Meet!</div>
+                                                                    <div data-content>
+                                                                        <div class="content">
+                                                                            <p>
+                                                                                The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+
+
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <div id="ChildTab-2">
+
+                                            <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                                <li>
+                                                    <div class="jx-tab-title">Agenda</div>
+                                                </li>
+                                            </ul>
+                                            <!-- EOF Child Tab Head -->
                                             <div class="resp-tabs-container jx-event-schedule childtab_1">
                                                 <div>
                                                     <div data-accordion-group class="jx-accordion-box">
@@ -809,1105 +925,17 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                     </div>
                                                 </div>
 
-                                                <div>
-                                                    <div data-accordion-group class="jx-accordion-box">
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-1.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
 
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head open">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-2.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-                                                    </div>
-                                                </div>
-
-                                                <div>
-                                                    <div data-accordion-group class="jx-accordion-box">
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-3.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head open">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-4.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-5.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-                                                    </div>
-                                                </div>
-
-                                                <div>
-                                                    <div data-accordion-group class="jx-accordion-box">
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-6.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head open">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-7.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-8.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-9.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-                                                    </div>
-                                                </div>
 
                                             </div>
 
                                         </div>
-                                        <!-- Item#1 -->
                                     </div>
-
-                                    <div>
-                                        <div id="ChildTab-2">
-
-                                            <ul class="resp-tabs-list jx-subtab childtab_1">
-                                                <li>
-                                                    <div class="jx-tab-title">Conference 1</div>
-                                                </li>
-                                                <li>
-                                                    <div class="jx-tab-title">Conference 2</div>
-                                                </li>
-                                                <li>
-                                                    <div class="jx-tab-title">Conference 3</div>
-                                                </li>
-                                                <li>
-                                                    <div class="jx-tab-title">Conference 4</div>
-                                                </li>
-                                            </ul>
-                                            <!-- EOF Child Tab Head -->
-
-                                            <div class="resp-tabs-container jx-event-schedule childtab_1">
-
-                                                <div>
-                                                    <div data-accordion-group class="jx-accordion-box">
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-10.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head open">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 9:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-6.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>9:30 - 10:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-3.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>10:15 - 10:30</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-4.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>11:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-                                                    </div>
-                                                </div>
-
-                                                <div>
-                                                    <div data-accordion-group class="jx-accordion-box">
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-1.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head open">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-2.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-                                                    </div>
-                                                </div>
-
-                                                <div>
-                                                    <div data-accordion-group class="jx-accordion-box">
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-3.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head open">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-4.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-8.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-                                                    </div>
-                                                </div>
-
-                                                <div>
-                                                    <div data-accordion-group class="jx-accordion-box">
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-5.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head open">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-4.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-2.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-1.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-                                                    </div>
-                                                </div>
-
-                                            </div>
-
-                                        </div>
-                                        <!-- Item#1 -->
-                                    </div>
-
-                                    <div>
-                                        <div id="ChildTab-3">
-
-                                            <ul class="resp-tabs-list jx-subtab childtab_1">
-                                                <li>
-                                                    <div class="jx-tab-title">Conference 1</div>
-                                                </li>
-                                                <li>
-                                                    <div class="jx-tab-title">Conference 2</div>
-                                                </li>
-                                                <li>
-                                                    <div class="jx-tab-title">Conference 3</div>
-                                                </li>
-                                                <li>
-                                                    <div class="jx-tab-title">Conference 4</div>
-                                                </li>
-                                            </ul>
-                                            <!-- EOF Child Tab Head -->
-
-                                            <div class="resp-tabs-container jx-event-schedule childtab_1">
-
-                                                <div>
-                                                    <div data-accordion-group class="jx-accordion-box">
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-1.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head open">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 8:30</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-4.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>9:00 - 9:30</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-5.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>9:45 - 10:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-7.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>10:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-                                                    </div>
-                                                </div>
-
-                                                <div>
-                                                    <div data-accordion-group class="jx-accordion-box">
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-3.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head open">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-5.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-                                                    </div>
-                                                </div>
-
-                                                <div>
-                                                    <div data-accordion-group class="jx-accordion-box">
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-8.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head open">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-7.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-9.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-                                                    </div>
-                                                </div>
-
-                                                <div>
-                                                    <div data-accordion-group class="jx-accordion-box">
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-4.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head open">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-5.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-1.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <div class="image">
-                                                                    <img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-2.jpg" alt="">
-                                                                </div>
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-
-                                                            <div class="right-position">
-
-                                                                <div data-accordion class="head ">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8:00 - 12:00</span> <i class="fa fa-microphone"></i><span>John Doe</span></div>
-                                                                    <div class="title" data-control>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</div>
-                                                                    <!-- Title -->
-
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- Content -->
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Item # 1 -->
-
-                                                    </div>
-                                                </div>
-
-                                            </div>
-
-                                        </div>
-                                        <!-- Item#1 -->
-                                    </div>
-
                                 </div>
 
 
-                                <div class="mb60"></div>
 
+                                <%--<div class="mb60"></div>--%>
                             </div>
                         </div>
                     </div>
@@ -2027,7 +1055,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     </div>
                     <div class="jx-title jx-uppercase">GALLERY</div>
                     <div class="jx-subtitle">
-                        <p>Viverra dignissim elit. Maecenas in orci nisl. Cras et nisl aliquet, mollis purus ac, vestibulum metus. Suspendisse arcu ex, condimentum vehicula tempus eget, varius ut tortor</p>
+                        <p>Sitecore passionate architects, developers, marketers, content authors and users all over Dubai get connnected at SUGUAE event.</p>
                     </div>
                     <!-- Section Title -->
 
@@ -2049,8 +1077,8 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 <div class="jx-grid-item">
 
                     <div class="jx-date-box">
-                        <div class="jx-date">26 Jan</div>
-                        <div class="jx-day">Day 2</div>
+                        <div class="jx-date">6 Aug</div>
+                        <div class="jx-day">Event</div>
                     </div>
 
                 </div>
@@ -2082,20 +1110,132 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
                 <div class="jx-grid-item">
 
-                    <div class="jx-date-box">
-                        <div class="jx-date">26 Jan</div>
-                        <div class="jx-day">Day 2</div>
-                    </div>
+                    <div class="jx-image jx-image-wrapper">
+                        <img width="400" height="400" src="images/Eventphotos/06-Aug-2016/7.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
 
-                </div>
-                
-                <div class="jx-grid-item grid-item-height2 grid-item-width2">
+                        <div class="jx-image-overlayer"></div>
+                        <div class="jx-image-hover">
+                            <a href="images/Eventphotos/06-Aug-2016/7.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                        </div>
+                        <!--Image Hover -->
+                    </div>
                     <div class="jx-image jx-image-wrapper">
                         <img width="400" height="400" src="images/Eventphotos/06-Aug-2016/4.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
 
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
                             <a href="images/Eventphotos/06-Aug-2016/4.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                        </div>
+                        <!--Image Hover -->
+                    </div>
+
+                </div>
+
+                <div class="jx-grid-item grid-item-height2 grid-item-width2">
+                    <div class="jx-image jx-image-wrapper">
+                        <img width="400" height="400" src="images/Eventphotos/06-Aug-2016/5.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+
+                        <div class="jx-image-overlayer"></div>
+                        <div class="jx-image-hover">
+                            <a href="images/Eventphotos/06-Aug-2016/5.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                        </div>
+                        <!--Image Hover -->
+                    </div>
+                </div>
+
+
+                <div class="jx-grid-item grid-item-height2 grid-item-width2">
+                    <div class="jx-image jx-image-wrapper">
+                        <img width="400" height="400" src="images/Eventphotos/06-Aug-2016/6.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+
+                        <div class="jx-image-overlayer"></div>
+                        <div class="jx-image-hover">
+                            <a href="images/Eventphotos/06-Aug-2016/6.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                        </div>
+                        <!--Image Hover -->
+                    </div>
+                </div>
+
+                <div class="jx-grid-item">
+                    <div class="jx-image jx-image-wrapper">
+                        <img width="400" height="400" src="images/Eventphotos/06-Aug-2016/10.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+
+                        <div class="jx-image-overlayer"></div>
+                        <div class="jx-image-hover">
+                            <a href="images/Eventphotos/06-Aug-2016/10.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                        </div>
+                        <!--Image Hover -->
+                    </div>
+
+                    <div class="jx-image jx-image-wrapper">
+                        <img width="400" height="400" src="images/Eventphotos/06-Aug-2016/11.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+
+                        <div class="jx-image-overlayer"></div>
+                        <div class="jx-image-hover">
+                            <a href="images/Eventphotos/06-Aug-2016/11.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                        </div>
+                        <!--Image Hover -->
+                    </div>
+
+
+                </div>
+
+                <div class="jx-grid-item grid-item-height2 grid-item-width2">
+                    <div class="jx-image jx-image-wrapper">
+                        <img width="400" height="400" src="images/Eventphotos/06-Aug-2016/8.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+
+                        <div class="jx-image-overlayer"></div>
+                        <div class="jx-image-hover">
+                            <a href="images/Eventphotos/06-Aug-2016/8.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                        </div>
+                        <!--Image Hover -->
+                    </div>
+                </div>
+
+
+                <div class="jx-grid-item grid-item-height2 grid-item-width2">
+                    <div class="jx-image jx-image-wrapper">
+                        <img width="400" height="400" src="images/Eventphotos/06-Aug-2016/12.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+
+                        <div class="jx-image-overlayer"></div>
+                        <div class="jx-image-hover">
+                            <a href="images/Eventphotos/06-Aug-2016/12.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                        </div>
+                        <!--Image Hover -->
+                    </div>
+                </div>
+
+                <div class="jx-grid-item">
+                    <div class="jx-image jx-image-wrapper">
+                        <img width="400" height="400" src="images/Eventphotos/06-Aug-2016/16.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+
+                        <div class="jx-image-overlayer"></div>
+                        <div class="jx-image-hover">
+                            <a href="images/Eventphotos/06-Aug-2016/16.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                        </div>
+                        <!--Image Hover -->
+                    </div>
+
+                    <div class="jx-image jx-image-wrapper">
+                        <img width="400" height="400" src="images/Eventphotos/06-Aug-2016/15.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+
+                        <div class="jx-image-overlayer"></div>
+                        <div class="jx-image-hover">
+                            <a href="images/Eventphotos/06-Aug-2016/15.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                        </div>
+                        <!--Image Hover -->
+                    </div>
+
+
+                </div>
+
+                <div class="jx-grid-item grid-item-height2 grid-item-width2">
+                    <div class="jx-image jx-image-wrapper">
+                        <img width="400" height="400" src="images/Eventphotos/06-Aug-2016/14.JPG" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+
+                        <div class="jx-image-overlayer"></div>
+                        <div class="jx-image-hover">
+                            <a href="images/Eventphotos/06-Aug-2016/14.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>
@@ -2106,181 +1246,6 @@ Sitecore projects. He has seven years of professional experience and involved wi
         </div>
         <!-- EOF PROTFOLO -->
 
-
-        <div class="jx-grid-item">
-
-            <div class="jx-date-box">
-                <div class="jx-date">25 Jan</div>
-                <div class="jx-day">Day 1</div>
-            </div>
-
-        </div>
-
-        <div class="jx-grid-item ">
-            <div class="jx-image jx-image-wrapper">
-                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_21-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_21" />
-
-                <div class="jx-image-overlayer"></div>
-                <div class="jx-image-hover">
-                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_21-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                </div>
-                <!--Image Hover -->
-            </div>
-        </div>
-
-        <div class="jx-grid-item ">
-            <div class="jx-image jx-image-wrapper">
-                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_20-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_20" />
-
-                <div class="jx-image-overlayer"></div>
-                <div class="jx-image-hover">
-                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_20-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                </div>
-                <!--Image Hover -->
-            </div>
-        </div>
-
-        <div class="jx-grid-item ">
-            <div class="jx-image jx-image-wrapper">
-                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_19-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
-
-                <div class="jx-image-overlayer"></div>
-                <div class="jx-image-hover">
-                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_19-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                </div>
-                <!--Image Hover -->
-            </div>
-        </div>
-
-        <div class="jx-grid-item ">
-            <div class="jx-image jx-image-wrapper">
-                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_18-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_18" />
-
-                <div class="jx-image-overlayer"></div>
-                <div class="jx-image-hover">
-                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_18-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                </div>
-                <!--Image Hover -->
-            </div>
-        </div>
-
-        <div class="jx-grid-item">
-
-            <div class="jx-date-box">
-                <div class="jx-date">26 Jan</div>
-                <div class="jx-day">Day 2</div>
-            </div>
-
-        </div>
-
-        <div class="jx-grid-item ">
-            <div class="jx-image jx-image-wrapper">
-                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_16-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_16" />
-
-                <div class="jx-image-overlayer"></div>
-                <div class="jx-image-hover">
-                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_16-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                </div>
-                <!--Image Hover -->
-            </div>
-        </div>
-
-        <div class="jx-grid-item ">
-            <div class="jx-image jx-image-wrapper">
-                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_15-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_15" />
-
-                <div class="jx-image-overlayer"></div>
-                <div class="jx-image-hover">
-                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_15-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                </div>
-                <!--Image Hover -->
-            </div>
-        </div>
-
-        <div class="jx-grid-item ">
-            <div class="jx-image jx-image-wrapper">
-                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_14-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_14" />
-
-                <div class="jx-image-overlayer"></div>
-                <div class="jx-image-hover">
-                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_14-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                </div>
-                <!--Image Hover -->
-            </div>
-        </div>
-
-        <div class="jx-grid-item">
-
-            <div class="jx-date-box">
-                <div class="jx-date">27 Jan</div>
-                <div class="jx-day">Day 3</div>
-            </div>
-
-        </div>
-
-        <div class="jx-grid-item ">
-            <div class="jx-image jx-image-wrapper">
-                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_22-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_22" />
-
-                <div class="jx-image-overlayer"></div>
-                <div class="jx-image-hover">
-                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_22-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                </div>
-                <!--Image Hover -->
-            </div>
-        </div>
-
-        <div class="jx-grid-item ">
-            <div class="jx-image jx-image-wrapper">
-                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_21-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_21" />
-
-                <div class="jx-image-overlayer"></div>
-                <div class="jx-image-hover">
-                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_21-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                </div>
-                <!--Image Hover -->
-            </div>
-        </div>
-
-        <div class="jx-grid-item ">
-            <div class="jx-image jx-image-wrapper">
-                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_20-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_20" />
-
-                <div class="jx-image-overlayer"></div>
-                <div class="jx-image-hover">
-                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_20-1024x681.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                </div>
-                <!--Image Hover -->
-            </div>
-        </div>
-
-        <div class="jx-grid-item ">
-            <div class="jx-image jx-image-wrapper">
-                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_18-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_18" />
-
-                <div class="jx-image-overlayer"></div>
-                <div class="jx-image-hover">
-                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_18-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                </div>
-                <!--Image Hover -->
-            </div>
-        </div>
-
-        <div class="jx-grid-item grid-item-width2-only">
-            <div class="jx-image jx-image-wrapper">
-                <img width="400" height="400" src="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_19-400x400.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_19" />
-
-                <div class="jx-image-overlayer"></div>
-                <div class="jx-image-hover">
-                    <a href="http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_19-1024x682.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
-                </div>
-                <!--Image Hover -->
-            </div>
-        </div>
-
-        </div>
-        </div>
-        <!-- EOF PROTFOLO -->
         <!-- Testimonial -->
 
         <div class="jx-container container-no-margin  jx-grey-bg ">
@@ -2367,7 +1332,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
                 <div class="jx-sponsors">
                     <center>
-                          <h5 style="margin-bottom:20px" class="jx-subtitle">Our Platinum Sponsor(s)</h5>
+                          <h5 style="margin-bottom:20px" class="jx-subtitle">Our Platinum Sponsors</h5>
                     <ul>                        
                         <li style="border:none"><a target="_blank" href="http://www.horizontalintegration.com/">
                             <div class="slide-contents">
@@ -2375,18 +1340,15 @@ Sitecore projects. He has seven years of professional experience and involved wi
                             <img  style="background-color:#143857" src="images/HI_logo.png"  alt=""/>
                                 <img src="images/HI.png"  alt=""/></div>
                             </a></li>   
+                              <li style="border:none"><a href="mailto:suguae@yahoo.com">
+                            <div>
+                                <img src="images/sitecore.png" alt="" /></div>
+                        </a></li>
                         </ul>
                         </center>
                 </div>
 
-                <%-- <div class="jx-sponsors" style="margin-top:20px">
-                    <center>
-                          <h6 style="margin-bottom:30px" class="jx-subtitle">Become Sponsor</h6>
-                    <ul>                                         
-                          <li><a href="mailto:suguae@yahoo.com"><div class="slide-contents"><img src="images/sponsor.jpg"  alt=""/></div></a></li>
-                    </ul>
-                </center>
-                </div>--%>
+
             </div>
         </div>
         <!-- EOF Sponsor Logo -->
