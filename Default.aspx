@@ -146,7 +146,6 @@
                                         <li><a href="#speakers">Speakers</a></li>
                                         <li><a href="#schedule">Schedule</a></li>
                                         <li><a href="#register">Register</a></li>
-
                                         <li><a href="#gallery">Photo Gallery</a></li>
                                         <li><a href="#sponsors">Sponsors</a></li>
                                         <li><a href="#contacts">Contact Us</a></li>
@@ -343,23 +342,20 @@
         </div>
         <!-- BOF Slider -->
         <!-- BOF Main Content -->
-        <div role="main" class="main">
 
-
-            <!-- BOF Services Box -->
-            <div id="about" class="jx-container jx-padding">
-
-                <div class="container">
-                    <div class="jx-section-title-1">
-                        <div class="jx-pre-title">
-                            <div class="jx-title-border left"></div>
-                            <div class="jx-title-icon"><i class="line-icon icon-diamond"></i></div>
-                            <div class="jx-title-border right"></div>
-                        </div>
-                        <div class="jx-title">About Sitecore User Group UAE (Dubai)</div>
-                        <div class="jx-subtitle">
-                            <p>
-                                A BIG HELLO TO SITECORE UAE-Dubai COMMUNITY.
+        <!-- BOF Services Box -->
+        <div id="about" class="jx-container container-no-margin jx-padding jx-grey-bg ">
+            <div class="container">
+                <div class="jx-section-title-1">
+                    <div class="jx-pre-title">
+                        <div class="jx-title-border left"></div>
+                        <div class="jx-title-icon"><i class="line-icon icon-diamond"></i></div>
+                        <div class="jx-title-border right"></div>
+                    </div>
+                    <div class="jx-title">About Sitecore User Group UAE (Dubai)</div>
+                    <div class="jx-subtitle">
+                        <p>
+                            A BIG HELLO TO SITECORE UAE-Dubai COMMUNITY.
 
 
                             Sitecore User Group UAE is established to share knowledge and inspire Sitecore developers, architects, administrators, designers, business , marketers and managers to avail best offering from Sitecore.
@@ -367,596 +363,627 @@
                             The mission of the Sitecore Users Group UAE (SUGUAE) is to foster a community of Sitecore enthusiasts in the UAE region by Innovatively and effectively conducting frequent meetup in UAE.
 
                             <!-- Stay tuned for details.</p></div>Stay tuned for details.</p></div> -->
-                        </div>
-                        <!-- Section Title -->
+                    </div>
+                    <!-- Section Title -->
 
-                        <div class="row"></div>
+                    <div class="row"></div>
 
-                        <div class="jx-servicebox-2 ">
+                    <div class="jx-servicebox-2 ">
 
-                            <div class="one-third columns jx-service-item">
-                                <div class="image">
-                                    <img src="images/ashish.jpg" alt="">
-                                </div>
-                                <div class="service-title jx-uppercase"><a href="#">Ashish Bansal</a></div>
-                                <div class="service-title-border"></div>
-                                <div class="service-description">
-                                    <p>
-                                        Ashish is Sitecore certified professional having a huge experience on different CMS platforms. His expertise is in architecting, designing and implementaiton.
-                                        He shares his sitecore solutions to the community via his <a href="http://sitecoresolution.blogspot.com" target="_blank">blog</a>
-                                    </p>
-                                </div>
-
-                                <div class="jx-footer-social" style="padding: 15px; !important">
-                                    <ul>
-
-
-                                        <li><a href="https://twitter.com/sitecore_ashish" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/in/ashishbansal9" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="https://www.facebook.com/ashish.bansal09" target="_blank"><i class="fa fa-facebook"></i></a></li>
-
-                                    </ul>
-                                </div>
-
+                        <div class="one-third columns jx-service-item">
+                            <div class="image">
+                                <img src="images/ashish.jpg" alt="">
                             </div>
-                            <!-- item 01 -->
+                            <div class="service-title jx-uppercase"><a href="#">Ashish Bansal</a></div>
+                            <div class="service-title-border"></div>
+                            <div class="service-description">
+                                <p>
+                                    Ashish is Sitecore certified professional having a huge experience on different CMS platforms. His expertise is in architecting, designing and implementaiton.
+                                        He shares his sitecore solutions to the community via his <a href="http://sitecoresolution.blogspot.com" target="_blank">blog</a>
+                                </p>
+                            </div>
+
+                            <div class="jx-footer-social" style="padding: 15px; !important">
+                                <ul>
 
 
-                            <div class="one-third columns jx-service-item">
-                                <div class="image">
-                                    <img src="images/nilesh.jpg" alt="">
-                                </div>
-                                <div class="service-title jx-uppercase"><a href="#">Nilesh Thakkar</a></div>
-                                <div class="service-title-border"></div>
-                                <div class="service-description">
-                                    <p>
-                                        Nilesh is Sitecore MVP 2015-2016 with more than a decade of industry experience. He enjoys
+                                    <li><a href="https://twitter.com/sitecore_ashish" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/ashishbansal9" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ashish.bansal09" target="_blank"><i class="fa fa-facebook"></i></a></li>
+
+                                </ul>
+                            </div>
+
+                        </div>
+                        <!-- item 01 -->
+
+
+                        <div class="one-third columns jx-service-item">
+                            <div class="image">
+                                <img src="images/nilesh.jpg" alt="">
+                            </div>
+                            <div class="service-title jx-uppercase"><a href="#">Nilesh Thakkar</a></div>
+                            <div class="service-title-border"></div>
+                            <div class="service-description">
+                                <p>
+                                    Nilesh is Sitecore MVP 2015-2016 with more than a decade of industry experience. He enjoys
 the challenge of crafting complex Sitecore solution.
                                          He has been sharing his Sitecore journey to the community via his <a href="http://sitecorejourney.nileshthakkar.in" target="_blank">blog</a>
-                                    </p>
-                                </div>
-
-                                <div class="jx-footer-social" style="padding: 15px; !important">
-                                    <ul>
-
-                                        <li><a href="https://twitter.com/ThakkarNilesh" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/in/nilesh-thakkar-5a303814" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="https://www.facebook.com/nilesh.thakkar.37" target="_blank"><i class="fa fa-facebook"></i></a></li>
-
-                                    </ul>
-                                </div>
-
+                                </p>
                             </div>
-                            <!-- item 01 -->
+
+                            <div class="jx-footer-social" style="padding: 15px; !important">
+                                <ul>
+
+                                    <li><a href="https://twitter.com/ThakkarNilesh" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/nilesh-thakkar-5a303814" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.facebook.com/nilesh.thakkar.37" target="_blank"><i class="fa fa-facebook"></i></a></li>
+
+                                </ul>
+                            </div>
+
+                        </div>
+                        <!-- item 01 -->
 
 
-                            <div class="one-third columns jx-service-item">
-                                <div class="image">
-                                    <img src="images/pradeep.jpg" style="height: 200px; width: 206px" alt="">
-                                </div>
-                                <div class="service-title jx-uppercase"><a href="#">Pradeep Shukla</a></div>
-                                <div class="service-title-border"></div>
-                                <div class="service-description">
-                                    <p>
-                                        Pradeep is Sitecore Certified, Digital Marketing specialist, Architect.
+                        <div class="one-third columns jx-service-item">
+                            <div class="image">
+                                <img src="images/pradeep.jpg" style="height: 200px; width: 206px" alt="">
+                            </div>
+                            <div class="service-title jx-uppercase"><a href="#">Pradeep Shukla</a></div>
+                            <div class="service-title-border"></div>
+                            <div class="service-description">
+                                <p>
+                                    Pradeep is Sitecore Certified, Digital Marketing specialist, Architect.
                                         As a Technical manager he is faciliatating the digital marketing strategy
                                          for one of giant tourism body of Dubai.
 
                                          Pradeep enables community to learn Sitecore via his <a href="https://learningsitecorecms.blogspot.ae/" target="_blank">blog</a>
-                                    </p>
-                                </div>
-
-                                <div class="jx-footer-social" style="padding: 15px; !important">
-                                    <ul>
-
-                                        <li><a href="https://twitter.com/pradsir" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="https://ae.linkedin.com/in/shuklapradeep" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="https://www.facebook.com/pradeepshukla1984" target="_blank"><i class="fa fa-facebook"></i></a></li>
-
-                                    </ul>
-                                </div>
-
-                            </div>
-                            <!-- item 01 -->
-
-                            <div class="row"></div>
-
-                            <div class="one-third columns jx-service-item">
-                                <div class="image">
-                                    <img src="images/ayman.png" alt="">
-                                </div>
-                                <div class="service-title jx-uppercase"><a href="#">Ayman Barhoum</a></div>
-                                <div class="service-title-border"></div>
-                                <div class="service-description">
-                                    <p>
-                                        Ayman is Senior Sitecore certified developer, he currently leads many Sitecore projects. He has more than eight years of
-experience in .NET, and four years focused on Sitecore. He has implemented more than 10 Sitecore websites. He writes about Sitecore on his <a href="https://abarhoum.wordpress.com/">Blog</a>
-                                    </p>
-                                </div>
-
-                                <div class="jx-footer-social" style="padding: 15px; !important">
-                                    <ul>
-
-                                        <li><a href="https://twitter.com/AymanBarhoum" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/in/ayman-barhoum-a0555328" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="https://www.facebook.com/ayman.barhoum.9" target="_blank"><i class="fa fa-facebook"></i></a></li>
-
-                                    </ul>
-                                </div>
-
-
-                            </div>
-                            <!-- item 01 -->
-
-
-                            <div class="one-third columns jx-service-item">
-                                <div class="image">
-                                    <img src="images/ahmad.png" alt="">
-                                </div>
-                                <div class="service-title jx-uppercase"><a href="#">Ahmad Harb</a></div>
-                                <div class="service-title-border"></div>
-                                <div class="service-description">
-                                    <p>
-                                        Ahmad is a Sitecore enthusiast, currently he leads
-Sitecore projects. He has seven years of professional experience and involved with over than 10 Sitecore solutions. He holds a master degree in Information Security. He shares his Sitecore expirence on his <a href="http://aharb.me">Blog</a>
-                                    </p>
-                                </div>
-
-                                <div class="jx-footer-social" style="padding: 15px; !important">
-                                    <ul>
-
-                                        <li><a href="https://twitter.com/_aharb_" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/in/harb89" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="https://www.facebook.com/Harb89" target="_blank"><i class="fa fa-facebook"></i></a></li>
-
-                                    </ul>
-                                </div>
-
-                            </div>
-                            <!-- item 01 -->
-
-
-
-
-                        </div>
-                        <!-- EOF Servicebox -->
-
-
-
-                    </div>
-                    <!-- EOF container -->
-
-
-                </div>
-                <!-- EOF Services Box -->
-                <!-- BOF Our Team -->
-                <div id='speakers' class="jx-container container-no-margin jx-padding jx-grey-bg ">
-                    <!-- Background Image -->
-                    <!-- Background Icon -->
-                    <div class="container ">
-                        <div class="jx-speaker">
-
-                            <div class="jx-speaker-item jx-speaker-box-content">
-                                <div class="jx-title jx-uppercase">Meet Our <span>Speakers</span></div>
-                                <div class="jx-hr-title"></div>
-                                <p>Meet our industry experts to scale up your knowledge and discuss your challenages.</p>
+                                </p>
                             </div>
 
-                            <div class="jx-speaker-item">
-                                <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/Sheetal.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                                    <div class="jx-speaker-overlayer"></div>
-                                    <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Sheetal Jain</div>
-                                        <div class="jx-speaker-pos">Solutions Architect, Sitecore MVP</div>
-                                        <div class="jx-speaker-pos">Horizontal Integration</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Item -->
-                            <!-- Item Content Box-->
-                            <div class="jx-speaker-item">
-                                <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/Dave.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                                    <div class="jx-speaker-overlayer"></div>
-                                    <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Dave Michela</div>
-                                        <div class="jx-speaker-pos">VP, Client Services</div>
-                                        <div class="jx-speaker-pos">Horizontal Integration</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Item -->
+                            <div class="jx-footer-social" style="padding: 15px; !important">
+                                <ul>
 
-                            <!-- Item Content Box-->
-                            <div class="jx-speaker-item">
-                                <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/mike.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                                    <div class="jx-speaker-overlayer"></div>
-                                    <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Michael Reynolds</div>
-                                        <div class="jx-speaker-pos">Sitecore Architect / Sitecore MVP</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Item -->
+                                    <li><a href="https://twitter.com/pradsir" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="https://ae.linkedin.com/in/shuklapradeep" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.facebook.com/pradeepshukla1984" target="_blank"><i class="fa fa-facebook"></i></a></li>
 
-                            <div class="jx-speaker-item">
-                                <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/jason.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                                    <div class="jx-speaker-overlayer"></div>
-                                    <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Jason Wilkerson</div>
-                                        <div class="jx-speaker-pos">Sitecore MVP</div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            <div class="jx-speaker-item">
-                                <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                                    <div class="jx-speaker-overlayer"></div>
-                                    <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Meet Expertise</div>
-                                        <div class="jx-speaker-pos">Announcing soon...</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Item -->
-
-                            <div class="jx-speaker-item">
-                                <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                                    <div class="jx-speaker-overlayer"></div>
-                                    <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Meet Expertise</div>
-                                        <div class="jx-speaker-pos">Announcing soon...</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Item -->
-
-                            <div class="jx-speaker-item">
-                                <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                                    <div class="jx-speaker-overlayer"></div>
-                                    <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Meet Expertise</div>
-                                        <div class="jx-speaker-pos">Announcing soon...</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Item -->
-
-                            <div class="jx-speaker-item">
-                                <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                                    <div class="jx-speaker-overlayer"></div>
-                                    <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Meet Expertise</div>
-                                        <div class="jx-speaker-pos">Announcing soon...</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Item -->
-
-
-                        </div>
-                    </div>
-                </div>
-                <!-- EOF Our Team -->
-                <!-- BOF Counter Up -->
-                <div class="jx-container container-no-margin jx-padding jx-grey-bg ">
-                    <div class='parallax-no-height jx-tint-black' style='background-image: url(http://janxcode.com/ievent/images/stock-3.jpg);'></div>
-                    <!-- Background Image -->
-                    <!-- Background Icon -->
-                    <div class="container ">
-                        <div class="jx-countup ">
-                            <div class="four columns count-item">
-
-                                <div class="jx-counter-item">
-                                    <div class="jx-counter-icon"><i class="line-icon icon-paper-plane"></i></div>
-                                    <!-- Counter icon -->
-
-                                    <div class="jx-counter-info">
-                                        <div class="jx-counter-text">Free</div>
-                                        <div class="jx-counter-number jx-counter-up">Tickets</div>
-                                    </div>
-                                    <!-- Counter info -->
-                                </div>
-                            </div>
-                            <!-- Item 01 -->
-
-
-                            <div class="four columns count-item">
-
-                                <div class="jx-counter-item">
-                                    <div class="jx-counter-icon"><i class="line-icon icon-tag"></i></div>
-                                    <!-- Counter icon -->
-
-                                    <div class="jx-counter-info">
-                                        <div class="jx-counter-text">Awesome</div>
-                                        <div class="jx-counter-number jx-counter-up">Topics</div>
-                                    </div>
-                                    <!-- Counter info -->
-                                </div>
-                            </div>
-                            <!-- Item 01 -->
-
-
-                            <div class="four columns count-item">
-
-                                <div class="jx-counter-item">
-                                    <div class="jx-counter-icon"><i class="line-icon icon-photo"></i></div>
-                                    <!-- Counter icon -->
-
-                                    <div class="jx-counter-info">
-                                        <div class="jx-counter-text">Industry</div>
-                                        <div class="jx-counter-number jx-counter-up">Experts</div>
-                                    </div>
-                                    <!-- Counter info -->
-                                </div>
-                            </div>
-                            <!-- Item 01 -->
-
-
-                            <div class="four columns count-item">
-
-                                <div class="jx-counter-item">
-                                    <div class="jx-counter-icon"><i class="line-icon icon-user"></i></div>
-                                    <!-- Counter icon -->
-
-                                    <div class="jx-counter-info">
-                                        <div class="jx-counter-text">World wide</div>
-                                        <div class="jx-counter-number jx-counter-up">Visitors</div>
-                                    </div>
-                                    <!-- Counter info -->
-                                </div>
-                            </div>
-                            <!-- Item 01 -->
-
-                        </div>
-                    </div>
-                </div>
-                <!-- EOF Counter Up -->
-                <!-- Schedule Tab-->
-                <div id='schedule' class="jx-container container-no-margin jx-padding jx-grey-bg ">
-
-                    <!-- Background Image -->
-                    <!-- Background Icon -->
-                    <div class="container ">
-                        <div class="jx-section-title-1 jx-dark">
-                            <div class="jx-pre-title jx-short-border">
-                                <div class="jx-title-border left"></div>
-                                <div class="jx-title-icon"><i class="line-icon icon-calendar"></i></div>
-                                <div class="jx-title-border right"></div>
-                            </div>
-                            <div class="jx-title jx-uppercase">SCHEDULE</div>
-                            <div class="jx-subtitle">
-                                <p>Most awaited time is over now! Get ready to hang out with Sitecore Experts in Dubai.</p>
-                            </div>
-                            <!-- Section Title -->
-
-                        </div>
-
-                        <div class="shortcode_tab_e jx-white-tab jx-arrow-tab">
-
-                            <div id="ParentTab">
-                                <ul class="resp-tabs-list parenttab_1">
-                                    <li class="resp-tab-item">
-                                        <div class="jx-tab-date jx-uppercase">02 Nov</div>
-                                    </li>
-                                    <li class="resp-tab-item">
-                                        <div class="jx-tab-date jx-uppercase">06 Aug</div>
-                                    </li>
                                 </ul>
-
-                                <div class="resp-tabs-container parenttab_1">
-                                    <div>
-                                        <div id="ChildTab-1">
-
-                                            <ul class="resp-tabs-list jx-subtab childtab_1">
-
-                                                <li>
-                                                    <div class="jx-tab-title">Agenda</div>
-                                                </li>
-                                            </ul>
-                                            <!-- EOF Child Tab Head -->
-                                            <div class="resp-tabs-container jx-event-schedule childtab_1">
-                                                <div>
-                                                    <div data-accordion-group class="jx-accordion-box">
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <!--<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-10.jpg" alt=""></div>-->
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-                                                            <div class="right-position">
-                                                                <div data-accordion class="head open">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>4.00PM – 4.30PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
-                                                                    <div class="title" data-control>Have a coffee and meet with people!</div>
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            &nbsp;
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="date">
-                                                                        <i class="fa fa-clock-o"></i><span>4.30PM – 5.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
-                                                                    </div>
-                                                                    <div class="title" data-control>Explore how UnitedHealth Group Personalized their Digital Customer Experience Using Sitecore</div>
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>
-                                                                                Dave Michela (VP, Client Services - Horizontal integration)
-                                                                                <br />
-                                                                                Sheetal Jain (Solution Architect - Horizontal integration)
-                                                                            </p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>5.30PM – 6.00PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Short Break</span></div>
-                                                                    <div class="title"></div>
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            &nbsp;
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="date">
-                                                                        <i class="fa fa-clock-o"></i><span>6.00PM – 7.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
-                                                                    </div>
-                                                                    <div class="title" data-control>Sitecore Experience Accelerator (SXA) for Sitecore Developers</div>
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Kern Herskind  (Senior Product Manager - Sitecore) </p>
-                                                                        </div>
-                                                                    </div>
-
-                                                                    <div class="date">
-                                                                        <i class="fa fa-clock-o"></i><span>7.00PM – 7.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-3</span>
-                                                                    </div>
-                                                                    <div class="title" data-control>Open Discussion on Sitecore Migration strategy from 7.x to 8.x</div>
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>
-                                                                                Nilesh Thakkar  (Sitecore MVP)<br />
-                                                                                Ashish Bansal    (Sitecore Architect)<br />
-                                                                                Pradeep Shukla (Sitecore Delivery Manager)
-                                                                            </p>
-                                                                        </div>
-                                                                    </div>
-
-
-                                                                    <div class="date">
-                                                                        <i class="fa fa-clock-o"></i><span>7.30PM – 8.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea/Closing</span>
-                                                                    </div>
-                                                                    <div class="title" data-control>Eat and Meet!</div>
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>
-                                                                                The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
-                                                                            </p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-
-
-
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <div id="ChildTab-2">
-
-                                            <ul class="resp-tabs-list jx-subtab childtab_1">
-
-                                                <li>
-                                                    <div class="jx-tab-title">Agenda</div>
-                                                </li>
-                                            </ul>
-                                            <!-- EOF Child Tab Head -->
-                                            <div class="resp-tabs-container jx-event-schedule childtab_1">
-                                                <div>
-                                                    <div data-accordion-group class="jx-accordion-box">
-                                                        <div class="item">
-                                                            <div class="left-position">
-                                                                <!--<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-10.jpg" alt=""></div>-->
-                                                                <!-- Image -->
-                                                            </div>
-                                                            <!-- Left item Position -->
-                                                            <div class="right-position">
-                                                                <div data-accordion class="head open">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>5.00PM – 5.30PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
-                                                                    <div class="title" data-control>Have a coffee and meet with people!</div>
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            &nbsp;
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="date">
-                                                                        <i class="fa fa-clock-o"></i><span>5.30PM – 6.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
-                                                                    </div>
-                                                                    <div class="title" data-control>Jason Wilkerson, Sitecore MVP</div>
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Introduction/Technical Presentation on IoT, Event Hubs and xDB, oh my!</p>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>6.00PM – 6.15PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Short Break</span></div>
-                                                                    <div class="title"></div>
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            &nbsp;
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="date">
-                                                                        <i class="fa fa-clock-o"></i><span>6.15PM – 6.45PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
-                                                                    </div>
-                                                                    <div class="title" data-control>Mike Reynolds, Sitecore MVP.</div>
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>Technical Presentation on Buckets, Buckets Everywhere! (In this presentation on Sitecore Item Buckets, Sitecore MVP Mike Reynolds will give a quick tour of the Item Buckets feature, and also show how you can customize different parts of this major feature in Sitecore)</p>
-                                                                        </div>
-                                                                    </div>
-
-                                                                    <div class="date">
-                                                                        <i class="fa fa-clock-o"></i><span>6.45PM – 7.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Keynote by SUGUAE Sponsor</span>
-                                                                    </div>
-                                                                    <div class="title" data-control></div>
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>
-                                                                            </p>
-                                                                        </div>
-                                                                    </div>
-
-                                                                    <div class="date">
-                                                                        <i class="fa fa-clock-o"></i><span>7.00PM – 7.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea</span>
-                                                                    </div>
-                                                                    <div class="title" data-control>Eat and Meet!</div>
-                                                                    <div data-content>
-                                                                        <div class="content">
-                                                                            <p>
-                                                                                The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
-                                                                            </p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-
-
-
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-
-
-
-                                <%--<div class="mb60"></div>--%>
                             </div>
+
                         </div>
+                        <!-- item 01 -->
+
+                        <div class="row"></div>
+
+                        <div class="one-third columns jx-service-item">
+                            <div class="image">
+                                <img src="images/ayman.png" alt="">
+                            </div>
+                            <div class="service-title jx-uppercase"><a href="#">Ayman Barhoum</a></div>
+                            <div class="service-title-border"></div>
+                            <div class="service-description">
+                                <p>
+                                    Ayman is Senior Sitecore certified developer, he currently leads many Sitecore projects. He has more than eight years of
+experience in .NET, and four years focused on Sitecore. He has implemented more than 10 Sitecore websites. He writes about Sitecore on his <a href="https://abarhoum.wordpress.com/">Blog</a>
+                                </p>
+                            </div>
+
+                            <div class="jx-footer-social" style="padding: 15px; !important">
+                                <ul>
+
+                                    <li><a href="https://twitter.com/AymanBarhoum" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/ayman-barhoum-a0555328" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.facebook.com/ayman.barhoum.9" target="_blank"><i class="fa fa-facebook"></i></a></li>
+
+                                </ul>
+                            </div>
+
+
+                        </div>
+                        <!-- item 01 -->
+
+
+                        <div class="one-third columns jx-service-item">
+                            <div class="image">
+                                <img src="images/ahmad.png" alt="">
+                            </div>
+                            <div class="service-title jx-uppercase"><a href="#">Ahmad Harb</a></div>
+                            <div class="service-title-border"></div>
+                            <div class="service-description">
+                                <p>
+                                    Ahmad is a Sitecore enthusiast, currently he leads
+Sitecore projects. He has seven years of professional experience and involved with over than 10 Sitecore solutions. He holds a master degree in Information Security. He shares his Sitecore expirence on his <a href="http://aharb.me">Blog</a>
+                                </p>
+                            </div>
+
+                            <div class="jx-footer-social" style="padding: 15px; !important">
+                                <ul>
+
+                                    <li><a href="https://twitter.com/_aharb_" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/harb89" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.facebook.com/Harb89" target="_blank"><i class="fa fa-facebook"></i></a></li>
+
+                                </ul>
+                            </div>
+
+                        </div>
+                        <!-- item 01 -->
+
+
+
+
                     </div>
+                    <!-- EOF Servicebox -->
+
+
+
                 </div>
-                <!-- EOF Schedule tab -->
-                <!-- Floor Plan -->
-                <!-- Background Image -->
-                <!-- Background Icon -->
+                <!-- EOF container -->
+
 
             </div>
-            <!-- EOF Floor Plan -->
-            <!-- BOF MEDIA CENTER -->
         </div>
+        <!-- EOF Services Box -->
+        <!-- BOF Our Team -->
+        <div id='speakers' class="jx-container container-no-margin jx-padding jx-grey-bg ">
+            <!-- Background Image -->
+            <!-- Background Icon -->
+            <div class="container ">
+                <div class="jx-speaker">
+
+                    <div class="jx-speaker-item jx-speaker-box-content">
+                        <div class="jx-title jx-uppercase">Meet Our <span>Speakers</span></div>
+                        <div class="jx-hr-title"></div>
+                        <p>Meet our industry experts to scale up your knowledge and discuss your challenages.</p>
+                    </div>
+
+                    <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/kern.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Kern Herskind Nightingale</div>
+                                <div class="jx-speaker-pos">Senior Product Manager,</div>
+                                <div class="jx-speaker-pos">Sitecore</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/Sheetal.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Sheetal Jain</div>
+                                <div class="jx-speaker-pos">Solutions Architect, Sitecore MVP</div>
+                                <div class="jx-speaker-pos">Horizontal Integration</div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+                    <!-- Item Content Box-->
+                    <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/Dave.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Dave Michela</div>
+                                <div class="jx-speaker-pos">VP, Client Services</div>
+                                <div class="jx-speaker-pos">Horizontal Integration</div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+
+                    <!-- Item Content Box-->
+                    <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/mike.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Michael Reynolds</div>
+                                <div class="jx-speaker-pos">Sitecore Architect / Sitecore MVP</div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+
+                    <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/jason.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Jason Wilkerson</div>
+                                <div class="jx-speaker-pos">Sitecore MVP</div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Meet Expertise</div>
+                                <div class="jx-speaker-pos">Announcing soon...</div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+
+                    <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Meet Expertise</div>
+                                <div class="jx-speaker-pos">Announcing soon...</div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+
+                    <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Meet Expertise</div>
+                                <div class="jx-speaker-pos">Announcing soon...</div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+
+                    <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Meet Expertise</div>
+                                <div class="jx-speaker-pos">Announcing soon...</div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Item -->
+
+
+                </div>
+            </div>
+        </div>
+        <!-- EOF Our Team -->
+        <!-- BOF Counter Up -->
+        <div class="jx-container container-no-margin jx-padding jx-grey-bg ">
+            <div class='parallax-no-height jx-tint-black' style='background-image: url(http://janxcode.com/ievent/images/stock-3.jpg);'></div>
+            <!-- Background Image -->
+            <!-- Background Icon -->
+            <div class="container ">
+                <div class="jx-countup ">
+                    <div class="four columns count-item">
+
+                        <div class="jx-counter-item">
+                            <div class="jx-counter-icon"><i class="line-icon icon-paper-plane"></i></div>
+                            <!-- Counter icon -->
+
+                            <div class="jx-counter-info">
+                                <div class="jx-counter-text">Free</div>
+                                <div class="jx-counter-number jx-counter-up">Tickets</div>
+                            </div>
+                            <!-- Counter info -->
+                        </div>
+                    </div>
+                    <!-- Item 01 -->
+
+
+                    <div class="four columns count-item">
+
+                        <div class="jx-counter-item">
+                            <div class="jx-counter-icon"><i class="line-icon icon-tag"></i></div>
+                            <!-- Counter icon -->
+
+                            <div class="jx-counter-info">
+                                <div class="jx-counter-text">Awesome</div>
+                                <div class="jx-counter-number jx-counter-up">Topics</div>
+                            </div>
+                            <!-- Counter info -->
+                        </div>
+                    </div>
+                    <!-- Item 01 -->
+
+
+                    <div class="four columns count-item">
+
+                        <div class="jx-counter-item">
+                            <div class="jx-counter-icon"><i class="line-icon icon-photo"></i></div>
+                            <!-- Counter icon -->
+
+                            <div class="jx-counter-info">
+                                <div class="jx-counter-text">Industry</div>
+                                <div class="jx-counter-number jx-counter-up">Experts</div>
+                            </div>
+                            <!-- Counter info -->
+                        </div>
+                    </div>
+                    <!-- Item 01 -->
+
+
+                    <div class="four columns count-item">
+
+                        <div class="jx-counter-item">
+                            <div class="jx-counter-icon"><i class="line-icon icon-user"></i></div>
+                            <!-- Counter icon -->
+
+                            <div class="jx-counter-info">
+                                <div class="jx-counter-text">World wide</div>
+                                <div class="jx-counter-number jx-counter-up">Visitors</div>
+                            </div>
+                            <!-- Counter info -->
+                        </div>
+                    </div>
+                    <!-- Item 01 -->
+
+                </div>
+            </div>
+        </div>
+        <!-- EOF Counter Up -->
+        <!-- Schedule Tab-->
+        <div id='schedule' class="jx-container container-no-margin jx-padding jx-grey-bg ">
+
+            <!-- Background Image -->
+            <!-- Background Icon -->
+            <div class="container ">
+                <div class="jx-section-title-1 jx-dark">
+                    <div class="jx-pre-title jx-short-border">
+                        <div class="jx-title-border left"></div>
+                        <div class="jx-title-icon"><i class="line-icon icon-calendar"></i></div>
+                        <div class="jx-title-border right"></div>
+                    </div>
+                    <div class="jx-title jx-uppercase">SCHEDULE</div>
+                    <div class="jx-subtitle">
+                        <p>Most awaited time is over now! Get ready to hang out with Sitecore Experts in Dubai.</p>
+                    </div>
+                    <!-- Section Title -->
+
+                </div>
+
+                <div class="shortcode_tab_e jx-white-tab jx-arrow-tab">
+
+                    <div id="ParentTab">
+                        <ul class="resp-tabs-list parenttab_1">
+                            <li class="resp-tab-item">
+                                <div class="jx-tab-date jx-uppercase">02 Nov</div>
+                            </li>
+                            <li class="resp-tab-item">
+                                <div class="jx-tab-date jx-uppercase">06 Aug</div>
+                            </li>
+                        </ul>
+
+                        <div class="resp-tabs-container parenttab_1">
+                            <div>
+                                <div id="ChildTab-1">
+
+                                    <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                        <li>
+                                            <div class="jx-tab-title">Agenda</div>
+                                        </li>
+                                    </ul>
+                                    <!-- EOF Child Tab Head -->
+                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                        <div>
+                                            <div data-accordion-group class="jx-accordion-box">
+                                                <div class="item">
+                                                    <div class="left-position">
+                                                        <!--<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-10.jpg" alt=""></div>-->
+                                                        <!-- Image -->
+                                                    </div>
+                                                    <!-- Left item Position -->
+                                                    <div class="right-position">
+                                                        <div data-accordion class="head open">
+                                                            <div class="date"><i class="fa fa-clock-o"></i><span>4.00PM – 4.30PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    &nbsp;
+                                                                </div>
+                                                            </div>
+                                                            <div class="date">
+                                                                <i class="fa fa-clock-o"></i><span>4.30PM – 5.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
+                                                            </div>
+                                                            <div class="title" data-control>Explore how UnitedHealth Group Personalized their Digital Customer Experience Using Sitecore</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                        Dave Michela - VP, Client Services<br />
+                                                                        Horizontal integration (SUGUAE Platinum Sponsor)
+                                                                                <br />
+                                                                        <br />
+                                                                        Sheetal Jain - Solution Architect<br />
+                                                                        Horizontal integration (SUGUAE Platinum Sponsor)
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="date"><i class="fa fa-clock-o"></i><span>5.30PM – 6.00PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Short Break</span></div>
+                                                            <div class="title"></div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    &nbsp;
+                                                                </div>
+                                                            </div>
+                                                            <div class="date">
+                                                                <i class="fa fa-clock-o"></i><span>6.00PM – 7.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
+                                                            </div>
+                                                            <div class="title" data-control>Sitecore Experience Accelerator (SXA) for Sitecore Developers</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>Kern Herskind  (Senior Product Manager - Sitecore) </p>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="date">
+                                                                <i class="fa fa-clock-o"></i><span>7.00PM – 7.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-3</span>
+                                                            </div>
+                                                            <div class="title" data-control>Open Discussion on Sitecore Migration strategy from 7.x to 8.x</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                        Nilesh Thakkar  (Sitecore MVP)<br />
+                                                                        Ashish Bansal    (Sitecore Architect)<br />
+                                                                        Pradeep Shukla (Sitecore Delivery Manager)
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+
+
+                                                            <div class="date">
+                                                                <i class="fa fa-clock-o"></i><span>7.30PM – 8.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea/Closing</span>
+                                                            </div>
+                                                            <div class="title" data-control>Eat and Meet!</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+
+
+                                                            <div class="date">
+                                                                <i class="fa fa-map-marker"></i><span>Event Venue</span>
+                                                            </div>
+                                                            <div class="title" data-control>The Address Hotel</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                       Dubai Marina,
+                                                                       Dubai, UAE
+                                                                       04 436 7777 
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div>
+                                <div id="ChildTab-2">
+
+                                    <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                        <li>
+                                            <div class="jx-tab-title">Agenda</div>
+                                        </li>
+                                    </ul>
+                                    <!-- EOF Child Tab Head -->
+                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                        <div>
+                                            <div data-accordion-group class="jx-accordion-box">
+                                                <div class="item">
+                                                    <div class="left-position">
+                                                        <!--<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-10.jpg" alt=""></div>-->
+                                                        <!-- Image -->
+                                                    </div>
+                                                    <!-- Left item Position -->
+                                                    <div class="right-position">
+                                                        <div data-accordion class="head open">
+                                                            <div class="date"><i class="fa fa-clock-o"></i><span>5.00PM – 5.30PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    &nbsp;
+                                                                </div>
+                                                            </div>
+                                                            <div class="date">
+                                                                <i class="fa fa-clock-o"></i><span>5.30PM – 6.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
+                                                            </div>
+                                                            <div class="title" data-control>Jason Wilkerson, Sitecore MVP</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>Introduction/Technical Presentation on IoT, Event Hubs and xDB, oh my!</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="date"><i class="fa fa-clock-o"></i><span>6.00PM – 6.15PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Short Break</span></div>
+                                                            <div class="title"></div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    &nbsp;
+                                                                </div>
+                                                            </div>
+                                                            <div class="date">
+                                                                <i class="fa fa-clock-o"></i><span>6.15PM – 6.45PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
+                                                            </div>
+                                                            <div class="title" data-control>Mike Reynolds, Sitecore MVP.</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>Technical Presentation on Buckets, Buckets Everywhere! (In this presentation on Sitecore Item Buckets, Sitecore MVP Mike Reynolds will give a quick tour of the Item Buckets feature, and also show how you can customize different parts of this major feature in Sitecore)</p>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="date">
+                                                                <i class="fa fa-clock-o"></i><span>6.45PM – 7.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Keynote by SUGUAE Sponsor</span>
+                                                            </div>
+                                                            <div class="title" data-control></div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="date">
+                                                                <i class="fa fa-clock-o"></i><span>7.00PM – 7.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea</span>
+                                                            </div>
+                                                            <div class="title" data-control>Eat and Meet!</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <%--<div class="mb60"></div>--%>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- EOF Schedule tab -->
+        <!-- Floor Plan -->
+        <!-- Background Image -->
+        <!-- Background Icon -->
+
+
+        <!-- EOF Floor Plan -->
+        <!-- BOF MEDIA CENTER -->
+
         <!-- EOF MEDIA CENTER -->
         <!-- Price Table -->
         <!-- Background Image -->
