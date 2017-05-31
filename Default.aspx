@@ -177,13 +177,13 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">02<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">Nov 2016</div>
+                                                <div class="jx-event-day">15<span></span></div>
+                                                <div class="jx-event-month jx-uppercase">June 2017</div>
                                             </div>
 
                                             <div class="jx-event-title-box">
                                                 <div class="jx-event-pretitle">A BIG Event in Dubai!</div>
-                                                <div class="jx-event-title">SUGUAE Launch</div>
+                                                <div class="jx-event-title">Sitecore User Group Meeting</div>
                                                 <div class="jx-event-countdown">
                                                     <div class="jx-countdown">
                                                         <div class="dsb-theme-wrapper countdown">
@@ -233,8 +233,8 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">02<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">Nov 2016</div>
+                                                <div class="jx-event-day">15<span></span></div>
+                                                <div class="jx-event-month jx-uppercase">June 2017</div>
                                             </div>
                                             <div class="jx-event-title-box">
                                                 <div class="jx-event-pretitle">Sitecore User Group in Dubai now</div>
@@ -246,8 +246,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">02</div>
-                                            <div class="jx-slider-month jx-uppercase">Nov</div>
+                                            <div class="jx-slider-day">15</div>
+                                            <div class="jx-slider-month jx-uppercase">June</div>
                                         </div>
                                     </div>
 
@@ -265,11 +265,11 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">02<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">Nov 2016</div>
+                                                <div class="jx-event-day">15<span></span></div>
+                                                <div class="jx-event-month jx-uppercase">June 2017</div>
                                             </div>
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">Second Sitecore User Group Meet Up</div>
+                                                <div class="jx-event-pretitle">Third Sitecore User Group Meet Up</div>
                                                 <div class="jx-event-title">Come and Join Us</div>
                                                 <div class="jx-event-location">Dubai, UAE</div>
                                             </div>
@@ -278,8 +278,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">02</div>
-                                            <div class="jx-slider-month jx-uppercase">Nov</div>
+                                            <div class="jx-slider-day">15</div>
+                                            <div class="jx-slider-month jx-uppercase">June</div>
                                         </div>
                                     </div>
 
@@ -301,7 +301,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-calendar"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">DATE</div>
-                                        <div class="info-description">02 November 2016</div>
+                                        <div class="info-description">15 June 2017</div>
                                     </div>
                                 </li>
                                 <!-- Item 01 -->
@@ -310,7 +310,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-location"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">LOCATION</div>
-                                        <div class="info-description">The Address Dubai Marina , Dubai</div>
+                                        <div class="info-description">Dubai</div>
                                     </div>
                                 </li>
                                 <!-- Item 02 -->
@@ -328,7 +328,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-megaphone"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">SPEAKER</div>
-                                        <div class="info-description">A Sitecore Expertise</div>
+                                        <div class="info-description">Corey Smith</div>
                                     </div>
                                 </li>
                                 <!-- Item 04 -->
@@ -541,6 +541,32 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                 <div class="jx-hr-title"></div>
                                 <p>Meet our industry experts to scale up your knowledge and discuss your challenages.</p>
                             </div>
+
+                             <div class="jx-speaker-item">
+                                <div class="jx-speaker-photo jx-image-wrapper">
+                                    <img width="234" height="189" src="images/Corey Smith.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                                    <div class="jx-speaker-overlayer"></div>
+                                    <div class="jx-image-hover-info">
+                                        <div class="jx-speaker-name">Corey Smith</div>
+                                        <div class="jx-speaker-pos">Sitecore MVP & Lead Technical Consultant at Perficient</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Item -->
+
+                                                        <div class="jx-speaker-item">
+                                <div class="jx-speaker-photo jx-image-wrapper">
+                                    <img width="234" height="189" src="images/kern.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                                    <div class="jx-speaker-overlayer"></div>
+                                    <div class="jx-image-hover-info">
+                                        <div class="jx-speaker-name">Kern Herskind Nightingale</div>
+                                        <div class="jx-speaker-pos">Senior Product Manager</div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
                             <div class="jx-speaker-item">
                                 <div class="jx-speaker-photo jx-image-wrapper">
                                     <img width="234" height="189" src="images/jason.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
@@ -590,28 +616,9 @@ Sitecore projects. He has seven years of professional experience and involved wi
                             </div>
                             <!-- Item -->
 
-                            <div class="jx-speaker-item">
-                                <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                                    <div class="jx-speaker-overlayer"></div>
-                                    <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Meet Expertise</div>
-                                        <div class="jx-speaker-pos">Announcing soon...</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Item -->
+                           
 
-                            <div class="jx-speaker-item">
-                                <div class="jx-speaker-photo jx-image-wrapper">
-                                    <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                                    <div class="jx-speaker-overlayer"></div>
-                                    <div class="jx-image-hover-info">
-                                        <div class="jx-speaker-name">Meet Expertise</div>
-                                        <div class="jx-speaker-pos">Announcing soon...</div>
-                                    </div>
-                                </div>
-                            </div>
+
                             <!-- Item -->
 
                         </div>
@@ -718,7 +725,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                 <ul class="resp-tabs-list parenttab_1">
 
                                     <li class="resp-tab-item">
-                                        <div class="jx-tab-date jx-uppercase">02 Nov</div>
+                                        <div class="jx-tab-date jx-uppercase">15 June</div>
                                     </li>
 
 
@@ -747,7 +754,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                             <!-- Left item Position -->
                                                             <div class="right-position">
                                                                 <div data-accordion class="head open">
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>5.00PM – 5.30PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>2.30PM – 3.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
                                                                     <div class="title" data-control>Have a coffee and meet with people!</div>
                                                                     <div data-content>
                                                                         <div class="content">
@@ -755,15 +762,18 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                         </div>
                                                                     </div>
                                                                     <div class="date">
-                                                                        <i class="fa fa-clock-o"></i><span>5.30PM – 6.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
+                                                                        <i class="fa fa-clock-o"></i><span>3.00PM – 4.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
                                                                     </div>
-                                                                    <div class="title" data-control>Jason Wilkerson, Sitecore MVP</div>
+                                                                    <div class="title" data-control>Corey Smith, Sitecore MVP</div>
                                                                     <div data-content>
                                                                         <div class="content">
-                                                                            <p>Introduction/Technical Presentation on IoT, Event Hubs and xDB, oh my!</p>
+                                                                            <p><strong> Sitecore and MVC A-to-Z</strong></p>
+                                                                            <p>
+                                                                                Sitecore developers using MVC spend a lot of time working with models, views, and, controllers, but there are a lot of things that execute before, in between, and after those three key letters of Microsoft's web framework. In this session, Sitecore MVP Corey Smith will dive into some of MVC's extension points such as route handlers, model binders, view engines, and more, and show how you can leverage them in your Sitecore projects.
+                                                                            </p>
                                                                         </div>
                                                                     </div>
-                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>6.00PM – 6.15PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Short Break</span></div>
+<%--                                                                    <div class="date"><i class="fa fa-clock-o"></i><span>6.00PM – 6.15PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Short Break</span></div>
                                                                     <div class="title"></div>
                                                                     <div data-content>
                                                                         <div class="content">
@@ -789,10 +799,10 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                             <p>
                                                                             </p>
                                                                         </div>
-                                                                    </div>
+                                                                    </div>--%>
 
                                                                     <div class="date">
-                                                                        <i class="fa fa-clock-o"></i><span>7.00PM – 7.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea</span>
+                                                                        <i class="fa fa-clock-o"></i><span>4.00PM – 4.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea</span>
                                                                     </div>
                                                                     <div class="title" data-control>Eat and Meet!</div>
                                                                     <div data-content>
@@ -2051,6 +2061,23 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     </div>                        
                 </div>
                 
+                           <div class="jx-grid-item grid-item-height2 grid-item-width2">                    	
+                    <div class="jx-image jx-image-wrapper"><img width="400" height="400" 
+                        src="images/Eventphotos/Event2/sess21.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_23" />
+                    
+                        <div class="jx-image-overlayer"></div>
+                        <div class="jx-image-hover">
+                            <a herf="images/Eventphotos/06-Aug-2016/DSC_0036.JPG" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                        </div>
+                        <!--Image Hover -->
+                    </div>                        
+                </div>
+
+
+         
+
+
+                
       
                 
                 <div class="jx-grid-item ">                   
@@ -2071,7 +2098,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="images/Eventphotos/06-Aug-2016/DSC_0064.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="images/Eventphotos/Event2/sess22.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
@@ -2090,11 +2117,11 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 
                 <div class="jx-grid-item ">                    	
                     <div class="jx-image jx-image-wrapper"><img width="400" height="400" 
-                        src="images/Eventphotos/06-Aug-2016/DSC_0064.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_18" />
+                        src="images/Eventphotos/Event2/sess23.jpg" class="attachment-port-1 wp-post-image" alt="portfolio_18" />
                     
                         <div class="jx-image-overlayer"></div>
                         <div class="jx-image-hover">
-                            <a herf="images/Eventphotos/06-Aug-2016/DSC_0064.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
+                            <a herf="images/Eventphotos/Event2/sess23.jpg" data-rel="prettyPhoto"><i class="fa fa-expand"></i></a>
                         </div>
                         <!--Image Hover -->
                     </div>                        
@@ -2228,15 +2255,15 @@ Sitecore projects. He has seven years of professional experience and involved wi
         <!-- Google Map -->
         <div id="contacts" class="jx-container">
             <div class="container">
-                <div class="jx-venue-box">
+                <div class="jx-venue-box" style="display:none;">
 
-                    <div class="jx-hotel-name jx-uppercase">The Address Dubai Marina</div>
+                    <div class="jx-hotel-name jx-uppercase">Dubai</div>
 
                     <div class="jx-venue-address">
                         <div class="jx-venue-heading"><i class="fa fa-map-marker"></i>Address</div>
-                        <div class="jx-address-1">Dubai Marina,</div>
-                        <div class="jx-address-2">Dubai, UAE</div>
-                        <div class="jx-address-3">04 436 7777</div>
+                        <div class="jx-address-1">Dubai</div>
+                        <div class="jx-address-2">Dubai</div>
+                        <div class="jx-address-3"></div>
                     </div>
                 </div>
             </div>
@@ -2257,7 +2284,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                             <div class="jx-info">
                                 <div class="jx-bar-head">
                                     Dubai, UAE
-                                <div class="jx-bar-title">The Address Dubai Marina</div>
+                                <div class="jx-bar-title">Dubai</div>
                                 </div>
                             </div>
                         </div>
@@ -2375,7 +2402,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 /* Change the launch date according to the date you want to set.
                 Please take note that months ranges from 0-11 like an array setup.
                 */
-                var launchdate = new Date(2016, 11 - 1, 02);
+                var launchdate = new Date(2017, 06 - 1, 15);
                 $('#counter').countdown({
                     until: launchdate
                 });
