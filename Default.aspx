@@ -378,7 +378,7 @@
                             <div class="service-title-border"></div>
                             <div class="service-description">
                                 <p>
-                                    Ashish is Sitecore certified professional having a huge experience on different CMS platforms. His expertise is in architecting, designing and implementaiton.
+                                    Ashish is Sitecore MVP 2017 professional having a huge experience on different CMS platforms. His expertise is in architecting, designing and implementaiton.
                                         He shares his sitecore solutions to the community via his <a href="http://sitecoresolution.blogspot.com" target="_blank">blog</a>
                                 </p>
                             </div>
@@ -406,7 +406,7 @@
                             <div class="service-title-border"></div>
                             <div class="service-description">
                                 <p>
-                                    Nilesh is Sitecore MVP 2015-2016 with more than a decade of industry experience. He enjoys
+                                    Nilesh is Sitecore MVP 2015,2016,2017 with more than a decade of industry experience. He enjoys
 the challenge of crafting complex Sitecore solution.
                                          He has been sharing his Sitecore journey to the community via his <a href="http://sitecorejourney.nileshthakkar.in" target="_blank">blog</a>
                                 </p>
@@ -493,7 +493,7 @@ experience in .NET, and four years focused on Sitecore. He has implemented more 
                             <div class="service-title-border"></div>
                             <div class="service-description">
                                 <p>
-                                    Ahmad is a Sitecore enthusiast, currently he leads
+                                    Ahmad is a Sitecore MVP, currently he leads
 Sitecore projects. He has seven years of professional experience and involved with over than 10 Sitecore solutions. He holds a master degree in Information Security. He shares his Sitecore expirence on his <a href="http://aharb.me">Blog</a>
                                 </p>
                             </div>
@@ -550,6 +550,20 @@ Sitecore projects. He has seven years of professional experience and involved wi
                             </div>
                         </div>
                     </div>
+
+                    
+                       <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/anderslaub.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Anders Laub</div>
+                                <div class="jx-speaker-pos">Sitecore MVP</div>
+                                <div class="jx-speaker-pos">Laub</div>
+                            </div>
+                        </div>
+                    </div>
+
 
 
 
@@ -813,7 +827,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                 <i class="fa fa-clock-o"></i><span>3.00PM – 4.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
                                                             </div>
                                                             <div class="title" data-control>
-                                                               Upcoming SUGUAE webinar on 'Sitecore and MVC A-to-Z</div>
+                                                               Upcoming SUGUAE webinar on 'Sitecore and MVC A-to-Z'</div>
                                                             <div data-content>
                                                                 <div class="content">
                                                                     <p>
@@ -823,9 +837,43 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                     </p>
                                                                 </div>
                                                             </div>
+
+
+                                                                     <div class="date">
+                                                                <i class="fa fa-clock-o"></i><span>4.0PM – 4.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Networking </span>
+                                                           
+                                                            <div class="title" data-control >
+                                                                 <p>
+                                                                <br />
+ </p>
+
+                                                            </div>
+                                                             </div>
+
+
+
+
+                                                                     <div class="date">
+                                                                <i class="fa fa-clock-o"></i><span>4.30PM – 5.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
+                                                            </div>
+                                                            <div class="title" data-control>
+                                                               Upcoming SUGUAE webinar on Sitecore HELIX FAST TRACK </div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                    Anders Laub Sitecore MVP<br />
+                                                                       Laub
+                                                               
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+
+
+
+
                                                        
                                                             <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>4.00PM – 4.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea/Closing</span>
+                                                                <i class="fa fa-clock-o"></i><span>5.30PM – 6.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea/Closing</span>
                                                             </div>
                                                             <div class="title" data-control>Eat and Meet!</div>
                                                             <div data-content>
@@ -931,7 +979,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                 <div class="content">
                                                                     <p>
                                                                         Nilesh Thakkar  (Sitecore MVP)<br />
-                                                                        Ashish Bansal    (Sitecore Architect)<br />
+                                                                        Ashish Bansal    (Sitecore MVP)<br />
                                                                         Pradeep Shukla (Sitecore Delivery Manager)
                                                                     </p>
                                                                 </div>
@@ -1519,7 +1567,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                             <div class="jx-info">
                                 <div class="jx-bar-head">
                                     Dubai, UAE
-                                <div class="jx-bar-title">The Address Dubai Marina</div>
+                                <div class="jx-bar-title" style="display:none;">The Address Dubai Marina</div>
                                 </div>
                             </div>
                         </div>
