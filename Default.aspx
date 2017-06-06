@@ -559,7 +559,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                             <div class="jx-image-hover-info">
                                 <div class="jx-speaker-name">Anders Laub</div>
                                 <div class="jx-speaker-pos">Sitecore MVP</div>
-                                <div class="jx-speaker-pos">Laub</div>
+                                <div class="jx-speaker-pos">Laub + Co</div>
                             </div>
                         </div>
                     </div>
@@ -827,7 +827,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                 <i class="fa fa-clock-o"></i><span>3.00PM – 4.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
                                                             </div>
                                                             <div class="title" data-control>
-                                                               Upcoming SUGUAE webinar on 'Sitecore and MVC A-to-Z'</div>
+                                                               SUGUAE webinar on 'Sitecore and MVC A-to-Z'</div>
                                                             <div data-content>
                                                                 <div class="content">
                                                                     <p>
@@ -835,6 +835,12 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                        Perficient
                                                                
                                                                     </p>
+                                                                    <p>
+                                                                    <a  class="fa  fa-external-link" target="_blank" href="https://global.gotomeeting.com/join/625984357"> Join Us @ https://global.gotomeeting.com/join/625984357
+
+                                                                    </a>
+                                                                    <br /> <br />
+</p>
                                                                 </div>
                                                             </div>
 
@@ -857,14 +863,19 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                 <i class="fa fa-clock-o"></i><span>4.30PM – 5.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
                                                             </div>
                                                             <div class="title" data-control>
-                                                               Upcoming SUGUAE webinar on Sitecore HELIX FAST TRACK </div>
+                                                             Sitecore Helix Demystified </div>
                                                             <div data-content>
                                                                 <div class="content">
                                                                     <p>
                                                                     Anders Laub Sitecore MVP<br />
-                                                                       Laub
+                                                                       Laub + Co
                                                                
                                                                     </p>
+                                                                    <p>
+                                                                     <a  class="fa  fa-external-link" target="_blank" href="https://global.gotomeeting.com/join/717254525"> Join Us @ https://global.gotomeeting.com/join/717254525 </a>
+                                                                    <br /> <br />
+</p>
+
                                                                 </div>
                                                             </div>
 
