@@ -115,6 +115,9 @@
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png" />
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png" />
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png" />
+    
+    <script src="//demo.tac.local2/bundle/beacon"></script>
+    
 </head>
 <body>
     <form id="form1" runat="server">
