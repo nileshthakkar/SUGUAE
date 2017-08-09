@@ -16,7 +16,7 @@
             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
                 (i[r].q = i[r].q || []).push(arguments)
             }, i[r].l = 1 * new Date(); a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
         })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
         ga('create', 'UA-79670856-1', 'auto');
@@ -115,9 +115,9 @@
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png" />
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png" />
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png" />
-
+    
     <script src="//demo.tac.local2/bundle/beacon"></script>
-
+    
 </head>
 <body>
     <form id="form1" runat="server">
@@ -267,7 +267,7 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">17<span></span></div>
+                                                <div class="jx-event-day">15<span></span></div>
                                                 <div class="jx-event-month jx-uppercase">Aug 2017</div>
                                             </div>
                                             <div class="jx-event-title-box">
@@ -280,7 +280,7 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">17</div>
+                                            <div class="jx-slider-day">15</div>
                                             <div class="jx-slider-month jx-uppercase">Aug</div>
                                         </div>
                                     </div>
@@ -542,7 +542,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                         <p>Meet our industry experts to scale up your knowledge and discuss your challenages.</p>
                     </div>
 
-                    <div class="jx-speaker-item">
+                       <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234" height="189" src="images/Corey%20Smith.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
@@ -554,8 +554,8 @@ Sitecore projects. He has seven years of professional experience and involved wi
                         </div>
                     </div>
 
-
-                    <div class="jx-speaker-item">
+                    
+                       <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234" height="189" src="images/anderslaub.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
@@ -784,12 +784,8 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
                     <div id="ParentTab">
                         <ul class="resp-tabs-list parenttab_1">
-                            <li class="resp-tab-item">
+                              <li class="resp-tab-item">
                                 <div class="jx-tab-date jx-uppercase">17 Aug</div>
-                            </li>
-
-                            <li class="resp-tab-item">
-                                <div class="jx-tab-date jx-uppercase">15 June</div>
                             </li>
 
                             <li class="resp-tab-item">
@@ -804,91 +800,6 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
                             <div>
                                 <div id="ChildTab-1">
-                                    <ul class="resp-tabs-list jx-subtab childtab_1">
-
-                                        <li>
-                                            <div class="jx-tab-title">Agenda</div>
-                                        </li>
-                                    </ul>
-                                    <!-- EOF Child Tab Head -->
-                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
-                                        <div>
-                                            <div data-accordion-group class="jx-accordion-box">
-                                                <div class="item">
-                                                    <div class="left-position">
-                                                        <!--<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-10.jpg" alt=""></div>-->
-                                                        <!-- Image -->
-                                                    </div>
-                                                    <!-- Left item Position -->
-                                                    <div class="right-position">
-                                                        <div data-accordion class="head open">
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>5.30 PM – 6.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
-                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>6.00 PM – 7.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
-                                                            </div>
-                                                            <div class="title" data-control>A Brand New Topic On Sitecore</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>                                                                      
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>7.00 PM – 7.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Q & A</span></div>
-                                                            <div class="title"></div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>7.15 PM – 7.30 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Closing Notes</span>
-                                                            </div>
-                                                        
-                                                            <p></p>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>7.30PM – 8.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea</span>
-                                                            </div>
-                                                            <div class="title" data-control>Eat and Meet!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-
-
-                                                            <div class="date">
-                                                                <i class="fa fa-map-marker"></i><span>Event Venue</span>
-                                                            </div>
-                                                            <div class="title" data-control>Coming Soon...</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>                                                                    
-                                                                       Dubai, UAE                                                                       
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div>
-                                <div id="ChildTab-2">
 
                                     <ul class="resp-tabs-list jx-subtab childtab_1">
 
@@ -919,58 +830,54 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                 <i class="fa fa-clock-o"></i><span>3.00PM – 4.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
                                                             </div>
                                                             <div class="title" data-control>
-                                                                SUGUAE webinar on 'Sitecore and MVC A-to-Z'
-                                                            </div>
+                                                               SUGUAE webinar on 'Sitecore and MVC A-to-Z'</div>
                                                             <div data-content>
                                                                 <div class="content">
                                                                     <p>
-                                                                        Corey Smith Sitecore MVP<br />
-                                                                        Perficient
+                                                                    Corey Smith Sitecore MVP<br />
+                                                                       Perficient
                                                                
                                                                     </p>
                                                                     <p>
-                                                                        <a class="fa  fa-external-link" target="_blank" href="https://global.gotomeeting.com/join/625984357">Join Us @ https://global.gotomeeting.com/join/625984357
+                                                                    <a  class="fa  fa-external-link" target="_blank" href="https://global.gotomeeting.com/join/625984357"> Join Us @ https://global.gotomeeting.com/join/625984357
 
-                                                                        </a>
-                                                                        <br />
-                                                                        <br />
-                                                                    </p>
+                                                                    </a>
+                                                                    <br /> <br />
+</p>
                                                                 </div>
                                                             </div>
 
 
-                                                            <div class="date">
+                                                                     <div class="date">
                                                                 <i class="fa fa-clock-o"></i><span>4.0PM – 4.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Networking </span>
+                                                           
+                                                            <div class="title" data-control >
+                                                                 <p>
+                                                                <br />
+ </p>
 
-                                                                <div class="title" data-control>
-                                                                    <p>
-                                                                        <br />
-                                                                    </p>
-
-                                                                </div>
                                                             </div>
+                                                             </div>
 
 
 
 
-                                                            <div class="date">
+                                                                     <div class="date">
                                                                 <i class="fa fa-clock-o"></i><span>4.30PM – 5.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
                                                             </div>
                                                             <div class="title" data-control>
-                                                                Sitecore Helix Demystified
-                                                            </div>
+                                                             Sitecore Helix Demystified </div>
                                                             <div data-content>
                                                                 <div class="content">
                                                                     <p>
-                                                                        Anders Laub Sitecore MVP<br />
-                                                                        Laub + Co
+                                                                    Anders Laub Sitecore MVP<br />
+                                                                       Laub + Co
                                                                
                                                                     </p>
                                                                     <p>
-                                                                        <a class="fa  fa-external-link" target="_blank" href="https://global.gotomeeting.com/join/717254525">Join Us @ https://global.gotomeeting.com/join/717254525 </a>
-                                                                        <br />
-                                                                        <br />
-                                                                    </p>
+                                                                     <a  class="fa  fa-external-link" target="_blank" href="https://global.gotomeeting.com/join/717254525"> Join Us @ https://global.gotomeeting.com/join/717254525 </a>
+                                                                    <br /> <br />
+</p>
 
                                                                 </div>
                                                             </div>
@@ -978,7 +885,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
 
 
-
+                                                       
                                                             <div class="date">
                                                                 <i class="fa fa-clock-o"></i><span>5.30PM – 6.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea/Closing</span>
                                                             </div>
@@ -999,6 +906,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                             <div data-content>
                                                                 <div class="content">
                                                                     <p>
+                                                               
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -1015,8 +923,9 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
                                 </div>
                             </div>
+
                             <div>
-                                <div id="ChildTab-3">
+                                <div id="ChildTab-2">
 
                                     <ul class="resp-tabs-list jx-subtab childtab_1">
 
@@ -1111,7 +1020,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                             <div data-content>
                                                                 <div class="content">
                                                                     <p>
-                                                                        Dubai Marina,
+                                                                       Dubai Marina,
                                                                        Dubai, UAE
                                                                        04 436 7777 
                                                                     </p>
@@ -1131,7 +1040,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                 </div>
                             </div>
                             <div>
-                                <div id="ChildTab-4">
+                                <div id="ChildTab-3">
 
                                     <ul class="resp-tabs-list jx-subtab childtab_1">
 
@@ -1643,11 +1552,11 @@ Sitecore projects. He has seven years of professional experience and involved wi
         <!-- Google Map -->
         <div id="contacts" class="jx-container">
             <div class="container">
-                <div class="jx-venue-box" style="display: none;">
+                <div class="jx-venue-box"  style="display:none;">
 
                     <div class="jx-hotel-name jx-uppercase">Dubai </div>
 
-                    <div class="jx-venue-address" style="display: none;">
+                    <div class="jx-venue-address"  style="display:none;">
                         <div class="jx-venue-heading"><i class="fa fa-map-marker"></i>Address</div>
                         <div class="jx-address-1">Dubai Marina,</div>
                         <div class="jx-address-2">Dubai, UAE</div>
@@ -1672,7 +1581,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                             <div class="jx-info">
                                 <div class="jx-bar-head">
                                     Dubai, UAE
-                                <div class="jx-bar-title" style="display: none;">The Address Dubai Marina</div>
+                                <div class="jx-bar-title" style="display:none;">The Address Dubai Marina</div>
                                 </div>
                             </div>
                         </div>
@@ -1790,7 +1699,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 /* Change the launch date according to the date you want to set.
                 Please take note that months ranges from 0-11 like an array setup.
                 */
-                var launchdate = new Date(2017, 8 - 1, 17);
+                var launchdate = new Date(2017, 06 - 1, 15);
                 $('#counter').countdown({
                     until: launchdate
                 });

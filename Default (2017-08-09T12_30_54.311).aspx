@@ -789,10 +789,6 @@ Sitecore projects. He has seven years of professional experience and involved wi
                             </li>
 
                             <li class="resp-tab-item">
-                                <div class="jx-tab-date jx-uppercase">15 June</div>
-                            </li>
-
-                            <li class="resp-tab-item">
                                 <div class="jx-tab-date jx-uppercase">02 Nov</div>
                             </li>
                             <li class="resp-tab-item">
@@ -804,91 +800,6 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
                             <div>
                                 <div id="ChildTab-1">
-                                    <ul class="resp-tabs-list jx-subtab childtab_1">
-
-                                        <li>
-                                            <div class="jx-tab-title">Agenda</div>
-                                        </li>
-                                    </ul>
-                                    <!-- EOF Child Tab Head -->
-                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
-                                        <div>
-                                            <div data-accordion-group class="jx-accordion-box">
-                                                <div class="item">
-                                                    <div class="left-position">
-                                                        <!--<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-10.jpg" alt=""></div>-->
-                                                        <!-- Image -->
-                                                    </div>
-                                                    <!-- Left item Position -->
-                                                    <div class="right-position">
-                                                        <div data-accordion class="head open">
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>5.30 PM – 6.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
-                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>6.00 PM – 7.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
-                                                            </div>
-                                                            <div class="title" data-control>A Brand New Topic On Sitecore</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>                                                                      
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>7.00 PM – 7.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Q & A</span></div>
-                                                            <div class="title"></div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>7.15 PM – 7.30 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Closing Notes</span>
-                                                            </div>
-                                                        
-                                                            <p></p>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>7.30PM – 8.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea</span>
-                                                            </div>
-                                                            <div class="title" data-control>Eat and Meet!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-
-
-                                                            <div class="date">
-                                                                <i class="fa fa-map-marker"></i><span>Event Venue</span>
-                                                            </div>
-                                                            <div class="title" data-control>Coming Soon...</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>                                                                    
-                                                                       Dubai, UAE                                                                       
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div>
-                                <div id="ChildTab-2">
 
                                     <ul class="resp-tabs-list jx-subtab childtab_1">
 
@@ -1015,8 +926,9 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
                                 </div>
                             </div>
+
                             <div>
-                                <div id="ChildTab-3">
+                                <div id="ChildTab-2">
 
                                     <ul class="resp-tabs-list jx-subtab childtab_1">
 
@@ -1131,7 +1043,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                 </div>
                             </div>
                             <div>
-                                <div id="ChildTab-4">
+                                <div id="ChildTab-3">
 
                                     <ul class="resp-tabs-list jx-subtab childtab_1">
 
@@ -1790,7 +1702,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 /* Change the launch date according to the date you want to set.
                 Please take note that months ranges from 0-11 like an array setup.
                 */
-                var launchdate = new Date(2017, 8 - 1, 17);
+                var launchdate = new Date(2017, 06 - 1, 15);
                 $('#counter').countdown({
                     until: launchdate
                 });
