@@ -460,7 +460,7 @@ the challenge of crafting complex Sitecore solution.
 
                         <div class="row"></div>
 
-                        <div class="one-third columns jx-service-item">
+                <%--        <div class="one-third columns jx-service-item">
                             <div class="image">
                                 <img src="images/ayman.png" alt="">
                             </div>
@@ -484,11 +484,11 @@ experience in .NET, and four years focused on Sitecore. He has implemented more 
                             </div>
 
 
-                        </div>
+                        </div>--%>
                         <!-- item 01 -->
 
 
-                        <div class="one-third columns jx-service-item">
+                        <%--<div class="one-third columns jx-service-item">
                             <div class="image">
                                 <img src="images/ahmad.png" alt="">
                             </div>
@@ -511,7 +511,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                 </ul>
                             </div>
 
-                        </div>
+                        </div>--%>
                         <!-- item 01 -->
 
 
@@ -832,7 +832,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                             <div class="date">
                                                                 <i class="fa fa-clock-o"></i><span>6.00 PM – 7.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
                                                             </div>
-                                                            <div class="title" data-control>Sitecore Commerce by Sitecore Expert</div>
+                                                            <div class="title" data-control>Sitecore Commerce by the Expert</div>
                                                             <div data-content>
                                                                 <div class="content">
                                                                     <p>  
@@ -851,6 +851,8 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                 <i class="fa fa-clock-o"></i><span>7.15 PM – 7.30 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Closing Notes</span>
                                                             </div>
                                                         
+                                                            <div class="title" data-control> By Our Guest Sabin Ebpherm</div>
+                                                            <div class="data-content">‎Founder/President & CEO | Horizontal Integration, USA </div>
                                                             <p></p>
                                                             <div class="date">
                                                                 <i class="fa fa-clock-o"></i><span>7.30PM – 8.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea</span>
