@@ -193,15 +193,15 @@
                                                                 <div id="counter1" class="counter-wrapper">
                                                                     <ul>
                                                                         <li>
-                                                                            <div class="days count">10</div>
+                                                                            <div class="days count">5</div>
                                                                             <div class="textDays count-text">Days</div>
                                                                         </li>
                                                                         <li>
-                                                                            <div class="hours count">00</div>
+                                                                            <div class="hours count">22</div>
                                                                             <div class="textHours count-text">Hours</div>
                                                                         </li>
                                                                         <li>
-                                                                            <div class="minutes count">00</div>
+                                                                            <div class="minutes count">51</div>
                                                                             <div class="textmins count-text">Mins</div>
                                                                         </li>
                                                                         <li>
@@ -832,10 +832,11 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                             <div class="date">
                                                                 <i class="fa fa-clock-o"></i><span>6.00 PM – 7.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
                                                             </div>
-                                                            <div class="title" data-control>A Brand New Topic On Sitecore</div>
+                                                            <div class="title" data-control>Sitecore Commerce by Sitecore Expert</div>
                                                             <div data-content>
                                                                 <div class="content">
-                                                                    <p>                                                                      
+                                                                    <p>  
+                                                                        Sheetal Kumar Jain | Solutions Architect, Sitecore MVP                                                                
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -865,9 +866,9 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
 
                                                             <div class="date">
-                                                                <i class="fa fa-map-marker"></i><span>Event Venue</span>
+                                                                <i class="fa fa-map-marker"></i><span>Towers Rotana</span>
                                                             </div>
-                                                            <div class="title" data-control>Coming Soon...</div>
+                                                            <div class="title" data-control>Sheikh Zayed Road</div>
                                                             <div data-content>
                                                                 <div class="content">
                                                                     <p>                                                                    
@@ -1648,10 +1649,10 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     <div class="jx-hotel-name jx-uppercase">Dubai </div>
 
                     <div class="jx-venue-address" style="display: none;">
-                        <div class="jx-venue-heading"><i class="fa fa-map-marker"></i>Address</div>
-                        <div class="jx-address-1">Dubai Marina,</div>
+                        <div class="jx-venue-heading"><i class="fa fa-map-marker"></i>Towers Rotana</div>
+                        <div class="jx-address-1">Sheikh Zayed Road</div>
                         <div class="jx-address-2">Dubai, UAE</div>
-                        <div class="jx-address-3">04 436 7777</div>
+                        <div class="jx-address-3">04 343 8000</div>
                     </div>
                 </div>
             </div>
@@ -1761,7 +1762,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     // How zoomed in you want the map to start at (always required)
                     zoom: 17,
                     // The latitude and longitude to center the map (always required)
-                    center: new google.maps.LatLng(25.07717, 55.140997), // New York
+                    center: new google.maps.LatLng(25.212967, 55.27455), // Towers Rotana
                     // How you would like to style the map.
                     // This is where you would paste any style found on Snazzy Maps.
                     // styles: [{ "featureType": "water", "elementType": "geometry.fill", "stylers": [{ "color": "#d3d3d3" }] }, { "featureType": "transit", "stylers": [{ "color": "#808080" }, { "visibility": "off" }] }, { "featureType": "road.highway", "elementType": "geometry.stroke", "stylers": [{ "visibility": "on" }, { "color": "#b3b3b3" }] }, { "featureType": "road.highway", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "road.local", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#ffffff" }, { "weight": 1.8 }] }, { "featureType": "road.local", "elementType": "geometry.stroke", "stylers": [{ "color": "#d7d7d7" }] }, { "featureType": "poi", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#ebebeb" }] }, { "featureType": "administrative", "elementType": "geometry", "stylers": [{ "color": "#a7a7a7" }] }, { "featureType": "road.arterial", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "road.arterial", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "landscape", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#efefef" }] }, { "featureType": "road", "elementType": "labels.text.fill", "stylers": [{ "color": "#696969" }] }, { "featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{ "visibility": "on" }, { "color": "#737373" }] }, { "featureType": "poi", "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] }, { "featureType": "poi", "elementType": "labels", "stylers": [{ "visibility": "off" }] }, { "featureType": "road.arterial", "elementType": "geometry.stroke", "stylers": [{ "color": "#d6d6d6" }] }, { "featureType": "road", "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] }, {}, { "featureType": "poi", "elementType": "geometry.fill", "stylers": [{ "color": "#dadada" }] }]
@@ -1777,7 +1778,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 var map = new google.maps.Map(mapElement, mapOptions);
                 // Lets also add a marker while we are at it
                 var marker = new google.maps.Marker({
-                    position: new google.maps.LatLng(25.07717, 55.140997),
+                    position: new google.maps.LatLng(25.212967, 55.27455),
                     map: map,
                     title: "Sitecore User Group Dubai (SUGUAE)"
                 });
@@ -1790,7 +1791,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 /* Change the launch date according to the date you want to set.
                 Please take note that months ranges from 0-11 like an array setup.
                 */
-                var launchdate = new Date(2017, 8 - 1, 17);
+                var launchdate = new Date("2017-08-17T17:30:00");
                 $('#counter').countdown({
                     until: launchdate
                 });
