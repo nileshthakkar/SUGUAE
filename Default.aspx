@@ -851,7 +851,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                 <i class="fa fa-clock-o"></i><span>7.15 PM – 7.30 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Closing Notes</span>
                                                             </div>
                                                         
-                                                            <div class="title" data-control> By Our Guest Sabin Ebpherm</div>
+                                                            <div class="title" data-control> By Our Guest Sabin Ephrem</div>
                                                             <div class="data-content">‎Founder/President & CEO | Horizontal Integration, USA </div>
                                                             <p></p>
                                                             <div class="date">
