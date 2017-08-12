@@ -688,7 +688,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
         <!-- EOF Our Team -->
         <!-- BOF Counter Up -->
         <div class="jx-container container-no-margin jx-padding jx-grey-bg ">
-            <div class='parallax-no-height jx-tint-black' style='background-image: url(http://janxcode.com/ievent/images/stock-3.jpg);'></div>
+            <div class='parallax-no-height jx-tint-black' style='background-image: url(images/Eventphotos/06-Aug-2016/4.JPG);'></div>
             <!-- Background Image -->
             <!-- Background Icon -->
             <div class="container ">
@@ -1215,16 +1215,10 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
                                             </div>
                                         </div>
-
-
-
                                     </div>
-
                                 </div>
                             </div>
                         </div>
-
-
 
                         <%--<div class="mb60"></div>--%>
                     </div>
@@ -1248,7 +1242,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
         <!-- BOF Countdown + Form -->
         <div id='register' class="jx-container container-no-margin   jx-countdown-form">
 
-            <div class='parallax-no-height' style='background-image: url(http://ievent.janxcode.com/wp-content/uploads/2015/09/portfolio_24.jpg);'></div>
+            <div class='parallax-no-height' style='background-image: url(images/Eventphotos/06-Aug-2016/4.JPG);'></div>
             <!-- Background Image -->
             <!-- Background Icon -->
             <div class="container ">
