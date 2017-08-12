@@ -71,7 +71,7 @@
 
     <!-- Theme Style -->
     <link rel="stylesheet" href="css/theme-2.css" />
-    <link rel="stylesheet" href="css/theme-animate-2.css" />
+    <link rel="stylesheet" href="css/theme-animate.css" />
     <link rel="stylesheet" href="css/theme-elements-2.css" />
     <link rel="stylesheet" href="css/plugins.css" />
     <link href="tools/style.css" rel="stylesheet" type="text/css" media="screen" />
@@ -97,7 +97,7 @@
     <script src="vendor/modernizr.js"></script>
 
     <!-- Google Map -->
-    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>
 
     <!-- Pricing Table -->
     <!--[if IE]>
@@ -116,7 +116,7 @@
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png" />
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png" />
 
-    <script src="//demo.tac.local2/bundle/beacon"></script>
+    <%--<script src="//demo.tac.local2/bundle/beacon"></script>--%>
 
 </head>
 <body>
@@ -816,7 +816,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                             <div data-accordion-group class="jx-accordion-box">
                                                 <div class="item">
                                                     <div class="left-position">
-                                                        <!--<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-10.jpg" alt=""></div>-->
+                                                        <!--<div class="image"><img src="" alt=""></div>-->
                                                         <!-- Image -->
                                                     </div>
                                                     <!-- Left item Position -->
@@ -905,7 +905,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                             <div data-accordion-group class="jx-accordion-box">
                                                 <div class="item">
                                                     <div class="left-position">
-                                                        <!--<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-10.jpg" alt=""></div>-->
+                                                        <!--<div class="image"><img src="" alt=""></div>-->
                                                         <!-- Image -->
                                                     </div>
                                                     <!-- Left item Position -->
@@ -1033,7 +1033,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                             <div data-accordion-group class="jx-accordion-box">
                                                 <div class="item">
                                                     <div class="left-position">
-                                                        <!--<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-10.jpg" alt=""></div>-->
+                                                        <!--<div class="image"><img src="" alt=""></div>-->
                                                         <!-- Image -->
                                                     </div>
                                                     <!-- Left item Position -->
@@ -1148,7 +1148,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                             <div data-accordion-group class="jx-accordion-box">
                                                 <div class="item">
                                                     <div class="left-position">
-                                                        <!--<div class="image"><img src="http://ievent.janxcode.com/wp-content/uploads/2015/09/team-10.jpg" alt=""></div>-->
+                                                        <!--<div class="image"><img src="" alt=""></div>-->
                                                         <!-- Image -->
                                                     </div>
                                                     <!-- Left item Position -->
@@ -1534,7 +1534,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
         <!-- Testimonial -->
 
         <div class="jx-container container-no-margin  jx-grey-bg ">
-            <div class='parallax-no-height ' style='background-image: url(http://ievent.janxcode.com/wp-content/uploads/2015/09/16587287897_f41418b5be_o.jpg); background-position: 0px -342px;'></div>
+            <div class='parallax-no-height ' style='background-image: url(images/Eventphotos/06-Aug-2016/4.JPG); background-position: 0px -342px;'></div>
             <!-- Background Image -->
             <!-- Background Icon -->
             <div class="container ">
@@ -1795,7 +1795,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 $('#counter1').countdown({
                     until: launchdate
                 });
-            })(jQuery);
+            });
         </script>
     </form>
 </body>
