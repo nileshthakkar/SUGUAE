@@ -832,11 +832,11 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                             <div class="date">
                                                                 <i class="fa fa-clock-o"></i><span>6.00 PM – 7.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
                                                             </div>
-                                                            <div class="title" data-control>Sitecore Commerce by the Expert</div>
+                                                            <div class="title" data-control>Redefining Digital Shopping with Sitecore Commerce</div>
                                                             <div data-content>
                                                                 <div class="content">
                                                                     <p>  
-                                                                        Sheetal Kumar Jain | Solutions Architect, Sitecore MVP                                                                
+                                                                        by Sitecore Leader - Sabin & Sheetal | Solutions Architect, Sitecore MVP                                                                
                                                                     </p>
                                                                 </div>
                                                             </div>
