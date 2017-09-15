@@ -47,13 +47,6 @@
     <meta property="og:description"
         content="Sitecore User Group UAE is established to share knowledge and inspire
          Sitecore developers, architects, administrators, designers, business , marketers and managers to avail best offering from Sitecore. We are a passionate team of MVP, developers, architects & strategic thinkers , digital marketer who are passionate about helping Sitecore community" />
-
-
-
-
-
-
-
     <title>Sitecore User Group Dubai - SUGUAE</title>
     <meta name="keywords" content="Sitecore User Group, SUGUAE,Sitecore Dubai,Meet Up in Dubai" />
     <meta name="description" content="Sitecore User Group UAE is established to share knowledge and inspire Sitecore developers, architects, administrators, designers, business , marketers and managers to avail best offering from Sitecore. We are a passionate team of MVP, developers, architects & strategic thinkers , digital marketer who are passionate about helping Sitecore community" />
@@ -179,8 +172,8 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">17<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">Aug 2017</div>
+                                                <div class="jx-event-day">29<span></span></div>
+                                                <div class="jx-event-month jx-uppercase">Sep 2017</div>
                                             </div>
 
                                             <div class="jx-event-title-box">
@@ -235,11 +228,11 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">17<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">Aug 2017</div>
+                                                <div class="jx-event-day">29<span></span></div>
+                                                <div class="jx-event-month jx-uppercase">Sep 2017</div>
                                             </div>
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">SUGUAE Session on Brand New Topic - Stay tuned!</div>
+                                                <div class="jx-event-pretitle">SUGUAE Brand New Session on "SXA IN REAL WORLD"</div>
                                                 <div class="jx-event-title"></div>
                                                 <div class="jx-event-location">Dubai, UAE</div>
                                             </div>
@@ -248,8 +241,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">17</div>
-                                            <div class="jx-slider-month jx-uppercase">Aug</div>
+                                            <div class="jx-slider-day">29</div>
+                                            <div class="jx-slider-month jx-uppercase">Sep</div>
                                         </div>
                                     </div>
 
@@ -267,8 +260,8 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">17<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">Aug 2017</div>
+                                                <div class="jx-event-day">29<span></span></div>
+                                                <div class="jx-event-month jx-uppercase">Sep 2017</div>
                                             </div>
                                             <div class="jx-event-title-box">
                                                 <div class="jx-event-pretitle">Sitecore User Group Webinar</div>
@@ -280,8 +273,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">17</div>
-                                            <div class="jx-slider-month jx-uppercase">Aug</div>
+                                            <div class="jx-slider-day">29</div>
+                                            <div class="jx-slider-month jx-uppercase">Sep</div>
                                         </div>
                                     </div>
 
@@ -303,7 +296,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-calendar"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">DATE</div>
-                                        <div class="info-description">17 Aug 2017</div>
+                                        <div class="info-description">29 Sep 2017</div>
                                     </div>
                                 </li>
                                 <!-- Item 01 -->
@@ -541,6 +534,20 @@ Sitecore projects. He has seven years of professional experience and involved wi
                         <div class="jx-hr-title"></div>
                         <p>Meet our industry experts to scale up your knowledge and discuss your challenages.</p>
                     </div>
+
+                <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/Una Verhoeven.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Una Verhoeven</div>
+                                <div class="jx-speaker-pos">Senior Solutions Developer Hedgehog</div>
+                                <div class="jx-speaker-pos">Hedgehog</div>
+                            </div>
+                        </div>
+                    </div>
+
+
 
                     <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
@@ -784,6 +791,11 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
                     <div id="ParentTab">
                         <ul class="resp-tabs-list parenttab_1">
+
+                              <li class="resp-tab-item">
+                                <div class="jx-tab-date jx-uppercase">29 Sep</div>
+                            </li>
+
                             <li class="resp-tab-item">
                                 <div class="jx-tab-date jx-uppercase">17 Aug</div>
                             </li>
@@ -822,6 +834,89 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                     <!-- Left item Position -->
                                                     <div class="right-position">
                                                         <div data-accordion class="head open">
+                                                            <div class="date"><i class="fa fa-clock-o"></i><span>6.45 PM – 7.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    &nbsp;
+                                                                </div>
+                                                            </div>
+                                                            <div class="date">
+                                                                <i class="fa fa-clock-o"></i><span>7.00 PM – 8.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
+                                                            </div>
+                                                            <div class="title" data-control>Sitecore SXA in real world</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>  
+                                                                        by Una Verhoeven 
+                                                                        
+                                                                        <br />
+
+                                                                        Una is a Sitecore consultant and developer at Hedgehog. After 5 years of development on different .Net platforms, her main focus is helping out Sitecore clients and partners to get the best possible Sitecore experience. She is also member of the SUGNL organization and one of the founders of SML- Community Resource. Una is also a speaker at various Sitecore User Groups.
+
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="date"><i class="fa fa-clock-o"></i><span>8.00 PM – 8.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Q & A</span></div>
+                                                            <div class="title"></div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    &nbsp;
+                                                                </div>
+                                                            </div>
+                                                           
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+
+
+                                                            <div class="date">
+                                                                <i class="fa fa-map-marker"></i><span>Towers Rotana</span>
+                                                            </div>
+                                                            <div class="title" data-control>Sheikh Zayed Road</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>                                                                    
+                                                                       Dubai, UAE                                                                       
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div>
+                                <div id="ChildTab-1">
+                                    <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                        <li>
+                                            <div class="jx-tab-title">Agenda</div>
+                                        </li>
+                                    </ul>
+                                    <!-- EOF Child Tab Head -->
+                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                        <div>
+                                            <div data-accordion-group class="jx-accordion-box">
+                                                <div class="item">
+                                                    <div class="left-position">
+                                                        <!--<div class="image"><img src="" alt=""></div>-->
+                                                        <!-- Image -->
+                                                    </div>
+                                                    <!-- Left item Position -->
+                                                    <div class="right-position">
+                                                        <div data-accordion class="head open">
                                                             <div class="date"><i class="fa fa-clock-o"></i><span>5.30 PM – 6.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
                                                             <div class="title" data-control>Have a coffee and meet with people!</div>
                                                             <div data-content>
@@ -830,6 +925,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                 </div>
                                                             </div>
                                                             <div class="date">
+
                                                                 <i class="fa fa-clock-o"></i><span>6.00 PM – 7.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
                                                             </div>
                                                             <div class="title" data-control>Redefining Digital Shopping with Sitecore Commerce</div>
@@ -1787,7 +1883,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 /* Change the launch date according to the date you want to set.
                 Please take note that months ranges from 0-11 like an array setup.
                 */
-                var launchdate = new Date("2017-08-17T17:30:00");
+                var launchdate = new Date("2017-09-29T17:30:00");
                 $('#counter').countdown({
                     until: launchdate
                 });

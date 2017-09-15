@@ -567,7 +567,7 @@ margin-bottom: 5px;
     position: relative;
     padding: 24px 52px 25px;
     /*width: 33.7%;*/
-    width: 23.7%;
+    width: 18%;
 }
 
 .shortcode_tab_e.jx-white-tab.jx-arrow-tab ul li:last-child {
@@ -597,7 +597,7 @@ margin-bottom: 5px;
     background-color: #EE163A;
     color: #fff;
     /*width: 30%;*/
-    width: 23%;
+    width: 18%;
 }
 .shortcode_tab_e.jx-white-tab.jx-arrow-tab ul li {
     border: none;
@@ -607,7 +607,7 @@ margin-bottom: 5px;
 }
 .jx-tab-date{
   font-family:oswald;
-  font-size:50px;
+  font-size:35px;
   line-height: 1    
 }
 .jx-tab-day{
