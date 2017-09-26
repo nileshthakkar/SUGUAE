@@ -111,7 +111,6 @@
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png" />
 
     <%--<script src="//demo.tac.local2/bundle/beacon"></script>--%>
-
 </head>
 <body>
     <form id="form1" runat="server">
@@ -454,7 +453,7 @@ the challenge of crafting complex Sitecore solution.
 
                         <div class="row"></div>
 
-                <%--        <div class="one-third columns jx-service-item">
+                        <%--        <div class="one-third columns jx-service-item">
                             <div class="image">
                                 <img src="images/ayman.png" alt="">
                             </div>
@@ -536,7 +535,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                         <p>Meet our industry experts to scale up your knowledge and discuss your challenages.</p>
                     </div>
 
-                <div class="jx-speaker-item">
+                    <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234" height="189" src="images/Una Verhoeven.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
@@ -793,7 +792,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     <div id="ParentTab">
                         <ul class="resp-tabs-list parenttab_1">
 
-                              <li class="resp-tab-item">
+                            <li class="resp-tab-item">
                                 <div class="jx-tab-date jx-uppercase">29 Sep</div>
                             </li>
 
@@ -848,13 +847,27 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                             <div class="title" data-control>Sitecore SXA in real world</div>
                                                             <div data-content>
                                                                 <div class="content">
-                                                                    <p>  
+                                                                    <p>
                                                                         by Una Verhoeven 
                                                                         
                                                                         <br />
 
                                                                         Una is a Sitecore consultant and developer at Hedgehog. After 5 years of development on different .Net platforms, her main focus is helping out Sitecore clients and partners to get the best possible Sitecore experience. She is also member of the SUGNL organization and one of the founders of SML- Community Resource. Una is also a speaker at various Sitecore User Groups.
 
+
+
+                                                                        <div>
+                                                                            Sitecore SXA in real world - By UNA          
+                                                                        <br />          
+                                                                        <br />
+                                                                                Fri, Sep 29, 2017 7:00 PM - 8:00 PM GST           
+                                                                        <br />         
+                                                                        <br />
+
+                                                                                Please join  - GoToMeeting Details
+                                                                            <a href="https://www.gotomeet.me/SUGUAEUNA" title="GoToMeeting Details " >  - https://www.gotomeet.me/SUGUAEUNA</a>
+                                                                                
+                                                                        </div>
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -865,7 +878,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                     &nbsp;
                                                                 </div>
                                                             </div>
-                                                           
+
                                                             <div data-content>
                                                                 <div class="content">
                                                                     <p>
@@ -876,13 +889,13 @@ Sitecore projects. He has seven years of professional experience and involved wi
 
 
                                                             <div class="date">
-                                                                <i class="fa fa-map-marker"></i><span>Towers Rotana</span>
+                                                                <i class="fa fa-map-marker"></i><span>Online Webinar</span>
                                                             </div>
-                                                            <div class="title" data-control>Sheikh Zayed Road</div>
+                                                            <div class="title" data-control>Dubai-UAE </div>
                                                             <div data-content>
                                                                 <div class="content">
-                                                                    <p>                                                                    
-                                                                       Dubai, UAE                                                                       
+                                                                    <p>
+                                                                                                                                   
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -932,7 +945,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                             <div class="title" data-control>Redefining Digital Shopping with Sitecore Commerce</div>
                                                             <div data-content>
                                                                 <div class="content">
-                                                                    <p>  
+                                                                    <p>
                                                                         by Sitecore Leader - Sabin & Sheetal | Solutions Architect, Sitecore MVP                                                                
                                                                     </p>
                                                                 </div>
@@ -947,8 +960,8 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                             <div class="date">
                                                                 <i class="fa fa-clock-o"></i><span>7.15 PM – 7.30 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Closing Notes</span>
                                                             </div>
-                                                        
-                                                            <div class="title" data-control> By Our Guest Sabin Ephrem</div>
+
+                                                            <div class="title" data-control>By Our Guest Sabin Ephrem</div>
                                                             <div class="data-content">‎Founder/President & CEO | Horizontal Integration, USA </div>
                                                             <p></p>
                                                             <div class="date">
@@ -970,8 +983,8 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                             <div class="title" data-control>Sheikh Zayed Road</div>
                                                             <div data-content>
                                                                 <div class="content">
-                                                                    <p>                                                                    
-                                                                       Dubai, UAE                                                                       
+                                                                    <p>
+                                                                        Dubai, UAE                                                                       
                                                                     </p>
                                                                 </div>
                                                             </div>
