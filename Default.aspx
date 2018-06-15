@@ -172,13 +172,13 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">29<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">Sep 2017</div>
+                                                <div class="jx-event-day">22<span></span></div>
+                                                <div class="jx-event-month jx-uppercase">June 2018</div>
                                             </div>
 
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">Meet Someone Special At</div>
-                                                <div class="jx-event-title">SUGUAE Event</div>
+                                                <div class="jx-event-pretitle">Meet Kiran Patil Sitecore Ninja</div>
+                                                <div class="jx-event-title">This SUGUAE Event</div>
                                                 <div class="jx-event-countdown">
                                                     <div class="jx-countdown">
                                                         <div class="dsb-theme-wrapper countdown">
@@ -228,11 +228,11 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">29<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">Sep 2017</div>
+                                                <div class="jx-event-day">22<span></span></div>
+                                                <div class="jx-event-month jx-uppercase">June 2018</div>
                                             </div>
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">SUGUAE Brand New Session on "SXA IN REAL WORLD"</div>
+                                                <div class="jx-event-pretitle">"Troubleshoot Sitecore like a Ninja"</div>
                                                 <div class="jx-event-title"></div>
                                                 <div class="jx-event-location">Dubai, UAE</div>
                                             </div>
@@ -241,8 +241,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">29</div>
-                                            <div class="jx-slider-month jx-uppercase">Sep</div>
+                                            <div class="jx-slider-day">22</div>
+                                            <div class="jx-slider-month jx-uppercase">June</div>
                                         </div>
                                     </div>
 
@@ -260,8 +260,8 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">29<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">Sep 2017</div>
+                                                <div class="jx-event-day">22<span></span></div>
+                                                <div class="jx-event-month jx-uppercase">June 2018</div>
                                             </div>
                                             <div class="jx-event-title-box">
                                                 <div class="jx-event-pretitle">Sitecore User Group Webinar</div>
@@ -273,8 +273,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">29</div>
-                                            <div class="jx-slider-month jx-uppercase">Sep</div>
+                                            <div class="jx-slider-day">22</div>
+                                            <div class="jx-slider-month jx-uppercase">June</div>
                                         </div>
                                     </div>
 
@@ -296,7 +296,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-calendar"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">DATE</div>
-                                        <div class="info-description">29 Sep 2017</div>
+                                        <div class="info-description">22 June 2018</div>
                                     </div>
                                 </li>
                                 <!-- Item 01 -->
@@ -374,7 +374,7 @@
                             <div class="service-title-border"></div>
                             <div class="service-description">
                                 <p>
-                                    Ashish is Sitecore MVP 2017 professional having a huge experience on different CMS platforms. His expertise is in architecting, designing and implementaiton.
+                                    Ashish is Sitecore MVP 2017,2018 professional having a huge experience on different CMS platforms. His expertise is in architecting, designing and implementaiton.
                                         He shares his sitecore solutions to the community via his <a href="http://sitecoresolution.blogspot.com" target="_blank">blog</a>
                                 </p>
                             </div>
@@ -424,16 +424,14 @@ the challenge of crafting complex Sitecore solution.
 
                         <div class="one-third columns jx-service-item">
                             <div class="image">
-                                <img src="images/pradeep.jpg" style="height: 200px; width: 206px" alt="">
+                                <img src="images/pradeep sitecore.jpg" style="height: 200px; width: 206px" alt="">
                             </div>
                             <div class="service-title jx-uppercase"><a href="#">Pradeep Shukla</a></div>
                             <div class="service-title-border"></div>
                             <div class="service-description">
                                 <p>
-                                    Pradeep is Sitecore Certified, Digital Marketing specialist, Architect.
-                                        As a Technical manager he is faciliatating the digital marketing strategy
-                                         for one of giant tourism body of Dubai.
-
+                                    Pradeep is Sitecore Certified Architect, Digital Marketing specialist ; As a Head of Technology  he is faciliatating the digital marketing strategy
+                                         for top notch clients of Dubai acoss sector such as holding ,destination,retails,malls.
                                          Pradeep enables community to learn Sitecore via his <a href="https://learningsitecorecms.blogspot.ae/" target="_blank">blog</a>
                                 </p>
                             </div>
@@ -442,7 +440,7 @@ the challenge of crafting complex Sitecore solution.
                                 <ul>
 
                                     <li><a href="https://twitter.com/pradsir" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="https://ae.linkedin.com/in/shuklapradeep" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://ae.linkedin.com/in/shuklJuneadeep" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                                     <li><a href="https://www.facebook.com/pradeepshukla1984" target="_blank"><i class="fa fa-facebook"></i></a></li>
 
                                 </ul>
@@ -514,7 +512,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     <!-- EOF Servicebox -->
 
 
-
+                        
                 </div>
                 <!-- EOF container -->
 
@@ -534,6 +532,35 @@ Sitecore projects. He has seven years of professional experience and involved wi
                         <div class="jx-hr-title"></div>
                         <p>Meet our industry experts to scale up your knowledge and discuss your challenages.</p>
                     </div>
+
+                                    <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/kiran.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Kiran Patil</div>
+                                <div class="jx-speaker-pos">Technology Director</div>
+                                <div class="jx-speaker-pos">Horizontal Integration</div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+                           <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/rob.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Rob Habraken</div>
+                                <div class="jx-speaker-pos">Technical Manager & Consultant </div>
+                                <div class="jx-speaker-pos">Colours</div>
+                            </div>
+                        </div>
+                    </div>
+
+
 
                     <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
@@ -792,6 +819,16 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     <div id="ParentTab">
                         <ul class="resp-tabs-list parenttab_1">
 
+
+                               <li class="resp-tab-item">
+                                <div class="jx-tab-date jx-uppercase">22 June</div>
+                            </li>
+
+
+                              <li class="resp-tab-item">
+                                <div class="jx-tab-date jx-uppercase">06 Apr</div>
+                            </li>
+
                             <li class="resp-tab-item">
                                 <div class="jx-tab-date jx-uppercase">29 Sep</div>
                             </li>
@@ -807,12 +844,237 @@ Sitecore projects. He has seven years of professional experience and involved wi
                             <li class="resp-tab-item">
                                 <div class="jx-tab-date jx-uppercase">02 Nov</div>
                             </li>
-                            <li class="resp-tab-item">
+                            <%--<li class="resp-tab-item">
                                 <div class="jx-tab-date jx-uppercase">06 Aug</div>
-                            </li>
+                            </li>--%>
                         </ul>
 
                         <div class="resp-tabs-container parenttab_1">
+
+                                               <div>
+                                <div id="ChildTab-1">
+                                    <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                        <li>
+                                            <div class="jx-tab-title">Agenda</div>
+                                        </li>
+                                    </ul>
+                                    <!-- EOF Child Tab Head -->
+                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                        <div>
+                                            <div data-accordion-group class="jx-accordion-box">
+                                                <div class="item">
+                                                    <div class="left-position">
+                                                        <!--<div class="image"><img src="" alt=""></div>-->
+                                                        <!-- Image -->
+                                                    </div>
+                                                    <!-- Left item Position -->
+                                                    <div class="right-position">
+                                                        <div data-accordion class="head open">
+                                                            <div class="date"><i class="fa fa-clock-o"></i><span>5.45 PM – 6.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    &nbsp;
+                                                                </div>
+                                                            </div>
+                                                            <div class="date">
+                                                                <i class="fa fa-clock-o"></i><span>6.00 PM – 7.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
+                                                            </div>
+                                                            <div class="title" data-control>Troubleshoot Sitecore like a Ninja</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                        by Kiran Patil
+                                                                           <br />
+
+
+                                                                        <p>Kiran has spent nearly a decade crafting quality solution for end users.
+                                                                            Initial couple of years he spent on pure .NET platform and rest of the years in developing Sitecore based Enterprise level solutions for few of the Fortune 100 clients. He is Sitecore and Microsoft certified.</p>
+<p>He could earn Sitecore MVP award since last 5 years. He got first Sitecore MVP award when there were fewer than 100 Sitecore MVPs 
+    throughout the world and he is the First Sitecore MVP from India. The country which has 1.25 billion people!</p>
+<p>Kiran is co-founder of Sitecore User group India 
+    
+    <a href="http://sugin.org/" target="_blank" title="Sugin " >  - http://sugin.org/ </a>
+    
+    and he shares his Sitecore learnings via : <a href="https://sitecorebasics.wordpress.com" target="_blank" title=" https://sitecorebasics.wordpress.com  " >  - https://sitecorebasics.wordpress.com  </a></p>
+
+<p>Kiran is working as a Regional Technology Lead for Horizontal Integration India located at Vadodara (Gujarat)</p>
+<p>Links to your social media accounts :<br /><br />
+    
+    Twitter :
+    
+
+
+    <a href="http://twitter.com/kiranpatils" target="_blank" title="http://twitter.com/kiranpatils" >  http://twitter.com/kiranpatils </a>
+
+    <br />
+    
+    LinkedIn : 
+    
+
+    <a href="https://in.linkedin.com/in/kiranpatils" target="_blank" title="https://in.linkedin.com/in/kiranpatils" > https://in.linkedin.com/in/kiranpatils </a>
+
+
+
+</p>
+
+                                                                        <div>
+                                                                          
+                                                                            Troubleshoot Sitecore like a Ninja By Kiran Patil
+                                                                        <br />          
+                                                                        <br />
+                                                                                Fri, June 22, 2018 6:00 PM - 7:00 PM GST           
+                                                                        <br />         
+                                                                        <br />
+
+                                                                                Please join  - GoToMeeting Details
+                                           <a href="https://www.gotomeet.me/SUGUAEKIRAN" target="_blank" title="GoToMeeting Details " >  - https://www.gotomeet.me/SUGUAEKIRAN </a>
+                                                                                
+                                                                        </div>
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="date"><i class="fa fa-clock-o"></i><span>7.00 PM – 7.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Q & A</span></div>
+                                                            <div class="title"></div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    &nbsp;
+                                                                </div>
+                                                            </div>
+
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+
+
+                                                            <div class="date">
+                                                                <i class="fa fa-map-marker"></i><span>Online Webinar</span>
+                                                            </div>
+                                                            <div class="title" data-control>Dubai-UAE </div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                                                                                   
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+
+
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+
+                                      <div>
+                                <div id="ChildTab-1">
+                                    <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                        <li>
+                                            <div class="jx-tab-title">Agenda</div>
+                                        </li>
+                                    </ul>
+                                    <!-- EOF Child Tab Head -->
+                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                        <div>
+                                            <div data-accordion-group class="jx-accordion-box">
+                                                <div class="item">
+                                                    <div class="left-position">
+                                                        <!--<div class="image"><img src="" alt=""></div>-->
+                                                        <!-- Image -->
+                                                    </div>
+                                                    <!-- Left item Position -->
+                                                    <div class="right-position">
+                                                        <div data-accordion class="head open">
+                                                            <div class="date"><i class="fa fa-clock-o"></i><span>2.45 PM – 3.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    &nbsp;
+                                                                </div>
+                                                            </div>
+                                                            <div class="date">
+                                                                <i class="fa fa-clock-o"></i><span>3.00 PM – 4.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
+                                                            </div>
+                                                            <div class="title" data-control>Blue Green Sitecore Deployments on Azure </div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                        by Rob Habraken 
+                                                                           <br />
+Rob is CTO and Technical Consultant at Colours, one of the leading digital agencies in the Netherlands. He has a passion for creation and technology, loves to learn, share, to challenge and to be challenged. With over 14 years of web development experience, still always looking for new possibilities and techniques, he is keen on sharing his knowledge and learning from others. He presented on several user group sessions and events internationally, covering a wide range of topics. For his contributions to the Sitecore community, he has been awarded the Sitecore MVP award three times in a row (2016 - 2018).
+
+
+
+                                                                        <div>
+                                                                          Blue Green Sitecore Deployments on Azure By    Rob Habraken    
+                                                                        <br />          
+                                                                        <br />
+                                                                                Fri, June 03, 2018 3:00 PM - 4:00 PM GST           
+                                                                        <br />         
+                                                                        <br />
+
+                                                                                Please join  - GoToMeeting Details
+                                                                            <a href="https://www.gotomeet.me/SUGUAEROB" target="_blank" title="GoToMeeting Details " >  - https://www.gotomeet.me/SUGUAEROB </a>
+                                                                                
+                                                                        </div>
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="date"><i class="fa fa-clock-o"></i><span>4.00 PM – 4.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Q & A</span></div>
+                                                            <div class="title"></div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    &nbsp;
+                                                                </div>
+                                                            </div>
+
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+
+
+                                                            <div class="date">
+                                                                <i class="fa fa-map-marker"></i><span>Online Webinar</span>
+                                                            </div>
+                                                            <div class="title" data-control>Dubai-UAE </div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                                                                                   
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+
+
+                                    </div>
+                                </div>
+                            </div>
+
 
                             <div>
                                 <div id="ChildTab-1">
@@ -1469,14 +1731,14 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     </div>
                 </div>
 
-                <div class="jx-grid-item">
+               <%-- <div class="jx-grid-item">
 
                     <div class="jx-date-box">
                         <div class="jx-date">6 Aug</div>
                         <div class="jx-day">Event</div>
                     </div>
 
-                </div>
+                </div>--%>
 
                 <div class="jx-grid-item grid-item-height2 grid-item-width2">
                     <div class="jx-image jx-image-wrapper">
@@ -1651,7 +1913,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 <div class="jx-testimonial">
                     <div class="flexslider">
                         <ul class="slides">
-                            <li>
+                          <%--  <li>
                                 <div class="jx-testimonial-item">
 
                                     <div class="jx-photo">
@@ -1675,7 +1937,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                     <div class="clearfix"></div>
 
                                 </div>
-                            </li>
+                            </li>--%>
                             <li>
                                 <div class="jx-testimonial-item">
 
@@ -1832,7 +2094,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                         </ul>
                     </div>
                     <div class="jx-footer-copyright">
-                        Copyrights &copy; 2016 - SUGUAE
+                        Copyrights &copy; 2018 - SUGUAE
                     </div>
                 </div>
             </div>
@@ -1897,7 +2159,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                 /* Change the launch date according to the date you want to set.
                 Please take note that months ranges from 0-11 like an array setup.
                 */
-                var launchdate = new Date("2017-09-29T17:30:00");
+                var launchdate = new Date("2018-06-22T18:00:00");
                 $('#counter').countdown({
                     until: launchdate
                 });
