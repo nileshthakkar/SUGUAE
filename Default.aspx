@@ -172,13 +172,13 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">22<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">June 2018</div>
+                                                <div class="jx-event-day">1<span></span></div>
+                                                <div class="jx-event-month jx-uppercase">Sept 2018</div>
                                             </div>
 
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">Meet Kiran Patil Sitecore Ninja</div>
-                                                <div class="jx-event-title">This SUGUAE Event</div>
+                                                <div class="jx-event-pretitle">Using Sitecore to put an organization on the path to AI</div>
+                                                <div class="jx-event-title">SUGUAE Event Sept </div>
                                                 <div class="jx-event-countdown">
                                                     <div class="jx-countdown">
                                                         <div class="dsb-theme-wrapper countdown">
@@ -228,11 +228,11 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">22<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">June 2018</div>
+                                                <div class="jx-event-day">1<span></span></div>
+                                                <div class="jx-event-month jx-uppercase">Sept 2018</div>
                                             </div>
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">"Troubleshoot Sitecore like a Ninja"</div>
+                                                <div class="jx-event-pretitle">"Sitecore 9 Insights by Ashish,Nilesh and Pradeep"</div>
                                                 <div class="jx-event-title"></div>
                                                 <div class="jx-event-location">Dubai, UAE</div>
                                             </div>
@@ -241,8 +241,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">22</div>
-                                            <div class="jx-slider-month jx-uppercase">June</div>
+                                            <div class="jx-slider-day">1</div>
+                                            <div class="jx-slider-month jx-uppercase">Sept</div>
                                         </div>
                                     </div>
 
@@ -260,8 +260,8 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">22<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">June 2018</div>
+                                                <div class="jx-event-day">1<span></span></div>
+                                                <div class="jx-event-month jx-uppercase">September 2018</div>
                                             </div>
                                             <div class="jx-event-title-box">
                                                 <div class="jx-event-pretitle">Sitecore User Group Webinar</div>
@@ -273,8 +273,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">22</div>
-                                            <div class="jx-slider-month jx-uppercase">June</div>
+                                            <div class="jx-slider-day">1</div>
+                                            <div class="jx-slider-month jx-uppercase">Sept</div>
                                         </div>
                                     </div>
 
@@ -296,7 +296,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-calendar"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">DATE</div>
-                                        <div class="info-description">22 June 2018</div>
+                                        <div class="info-description">1  September 2018</div>
                                     </div>
                                 </li>
                                 <!-- Item 01 -->
@@ -314,7 +314,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-tag"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">TICKETS</div>
-                                        <div class="info-description">Free Tickets</div>
+                                        <div class="info-description">Free Tickets </div>
                                     </div>
                                 </li>
                                 <!-- Item 03 -->
@@ -533,6 +533,24 @@ Sitecore projects. He has seven years of professional experience and involved wi
                         <p>Meet our industry experts to scale up your knowledge and discuss your challenages.</p>
                     </div>
 
+
+
+
+                    
+                                    <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/a.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">George Smith</div>
+                                <div class="jx-speaker-pos">Regional Director (Middle East, India & Africa)</div>
+                                <div class="jx-speaker-pos">Horizontal Integration</div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
                                     <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234" height="189" src="images/kiran.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
@@ -691,29 +709,6 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     </div>
                     <!-- Item -->
 
-                    <div class="jx-speaker-item">
-                        <div class="jx-speaker-photo jx-image-wrapper">
-                            <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                            <div class="jx-speaker-overlayer"></div>
-                            <div class="jx-image-hover-info">
-                                <div class="jx-speaker-name">Meet Expertise</div>
-                                <div class="jx-speaker-pos">Announcing soon...</div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Item -->
-
-                    <div class="jx-speaker-item">
-                        <div class="jx-speaker-photo jx-image-wrapper">
-                            <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                            <div class="jx-speaker-overlayer"></div>
-                            <div class="jx-image-hover-info">
-                                <div class="jx-speaker-name">Meet Expertise</div>
-                                <div class="jx-speaker-pos">Announcing soon...</div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Item -->
 
 
                 </div>
@@ -798,7 +793,8 @@ Sitecore projects. He has seven years of professional experience and involved wi
         <div id='schedule' class="jx-container container-no-margin jx-padding jx-grey-bg ">
 
             <!-- Background Image -->
-            <!-- Background Icon -->
+            <!-- Background Icon 
+4.00 PM – 5.00 PM   
             <div class="container ">
                 <div class="jx-section-title-1 jx-dark">
                     <div class="jx-pre-title jx-short-border">
@@ -819,6 +815,10 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     <div id="ParentTab">
                         <ul class="resp-tabs-list parenttab_1">
 
+
+                             <li class="resp-tab-item">
+                                <div class="jx-tab-date jx-uppercase">1 Sept</div>
+                            </li>
 
                                <li class="resp-tab-item">
                                 <div class="jx-tab-date jx-uppercase">22 June</div>
@@ -850,6 +850,160 @@ Sitecore projects. He has seven years of professional experience and involved wi
                         </ul>
 
                         <div class="resp-tabs-container parenttab_1">
+
+
+                                              <div>
+                                <div id="ChildTab-1">
+                                    <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                        <li>
+                                            <div class="jx-tab-title">Agenda</div>
+                                        </li>
+                                    </ul>
+                                    <!-- EOF Child Tab Head -->
+                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                        <div>
+                                            <div data-accordion-group class="jx-accordion-box">
+                                                <div class="item">
+                                                    <div class="left-position">
+                                                        <!--<div class="image"><img src="" alt=""></div>-->
+                                                        <!-- Image -->
+                                                    </div>
+                                                    <!-- Left item Position -->
+                                                    <div class="right-position">
+                                                        <div data-accordion class="head open">
+                                                            <div class="date"><i class="fa fa-clock-o"></i><span>3.30 PM – 4.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    &nbsp;
+                                                                </div>
+                                                            </div>
+                                                            <div class="date">
+                                                                <i class="fa fa-clock-o"></i><span>4.00 PM – 5.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
+                                                            </div>
+                                                            <div class="title" data-control>Using Sitecore to put an organization on the path to AI</div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                   
+    
+
+                                                                        <div>
+                                                                          
+                                                                         Using Sitecore to put an organization on the path to AI By George Smith
+                                                                        <br />          
+                                                                        <br />
+                                                                                Sat, Sept 1, 2018 4:00 PM - 5:00 PM GST           
+                                                                        <br />         
+                                                                        <br />
+
+                                                                            <p>
+
+                                                                                Companies have become blindly aware that they produce lots of data, that they can somehow monetise, but they aren’t quite sure how to do it. They also know that in a few years machine learning and Artificial intelligence will play a key role in their customer experience, but what should they be doing now to prepare for that future? The most obvious way to build a path to this future is to evolve on your Sitecore Experience platform. George will be sharing with us his experiences of working with brands around the world trying to do this, which will hopefully spark a wider discussion amongst the group.
+                                                                            </p>
+
+
+
+
+                                                                                Please join  - GoToMeeting Details
+                                           <a href="https://www.gotomeet.me/Suguae-Sept-Event" target="_blank" title="GoToMeeting Details " >  - https://www.gotomeet.me/Suguae-Sept-Event </a>
+                                                                                
+                                                                        </div>
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+
+
+                                                             <div class="date">
+                                                                <i class="fa fa-clock-o"></i><span>5.00 PM – 6.30 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
+                                                            </div>
+                                                            <div class="title" data-control>
+                                                                                                                                         Sitecore 9 Insights By Ashish Bansal, Nilesh Thakkar, Pradeep Shukla
+
+
+                                                            </div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                   
+    
+
+                                                                        <div>
+
+                                                                            The Suguae Core Team will provide the Sitecore 9 Insights detailing about architecture , Sitecore Forms , Sitecore EXM module , Sitecore SXA, Marketign Autamation etc.
+                                                                          
+                                                                        <br />          
+                                                                        <br />
+                                                                                Sat, Sept 1, 2018 5:00 PM - 6:00 PM GST           
+                                                                        <br />         
+                                                                        <br />
+
+                                                                                Please join  - GoToMeeting Details
+                                           <a href="https://www.gotomeet.me/Suguae-Sept-Event" target="_blank" title="GoToMeeting Details " >  - https://www.gotomeet.me/Suguae-Sept-Event </a>
+                                                                                
+                                                                        </div>
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+
+                                                          <div class="date"><i class="fa fa-clock-o"></i><span>6.30 PM – 6.45 PM</span> <i class="fa fa-trophy"></i><span>&nbsp;Sitecore MVP Traphy Distribution</span></div>
+                                                            <div class="title"></div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    &nbsp;
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="date"><i class="fa fa-clock-o"></i><span>7.00 PM – 7.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Q & A</span></div>
+                                                            <div class="title"></div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    &nbsp;
+                                                                </div>
+                                                            </div>
+
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  
+                                                                         <br />
+                                                                        <br />
+                                                                        The agenda is flexible to accommodate attendee participation.
+                                                                         <br />
+                                                                        <br />
+                                                                        Thanks! We look forward to seeing everyone! 
+                                                                        <br />
+                                                                        <br />
+
+
+                                                                        Please note invitaion is only applicable for enrolled particiapants. Please register your self @ Eventbrite.
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+
+
+                                                            <div class="date">
+                                                                <i class="fa fa-map-marker"></i><span>See you at </span>
+                                                            </div>
+                                                            <div class="title" data-control>Towers Rotana, Sheikh Zayed Road Dubai-UAE </div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    <p>
+                                                                                                                                   
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+
+
+                                    </div>
+                                </div>
+                            </div>
 
                                                <div>
                                 <div id="ChildTab-1">
@@ -2159,7 +2313,7 @@ Rob is CTO and Technical Consultant at Colours, one of the leading digital agenc
                 /* Change the launch date according to the date you want to set.
                 Please take note that months ranges from 0-11 like an array setup.
                 */
-                var launchdate = new Date("2018-06-22T18:00:00");
+                var launchdate = new Date("2018-09-01T16:00:00");
                 $('#counter').countdown({
                     until: launchdate
                 });
