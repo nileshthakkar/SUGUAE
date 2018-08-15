@@ -368,7 +368,7 @@
 
                         <div class="one-third columns jx-service-item">
                             <div class="image">
-                                <img src="images/ashish.jpg" alt="">
+                                <img src="images/aa.jpg"  style="height: 200px; width: 206px" alt="">
                             </div>
                             <div class="service-title jx-uppercase"><a href="#">Ashish Bansal</a></div>
                             <div class="service-title-border"></div>
@@ -424,7 +424,7 @@ the challenge of crafting complex Sitecore solution.
 
                         <div class="one-third columns jx-service-item">
                             <div class="image">
-                                <img src="images/pradeep sitecore.jpg" style="height: 200px; width: 206px" alt="">
+                                <img src="images/bb.jpg" style="height: 200px; width: 206px" alt="">
                             </div>
                             <div class="service-title jx-uppercase"><a href="#">Pradeep Shukla</a></div>
                             <div class="service-title-border"></div>
@@ -539,7 +539,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     
                                     <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
-                            <img width="234" height="189" src="images/a.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <img width="234" height="189" src="images/c.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
                             <div class="jx-image-hover-info">
                                 <div class="jx-speaker-name">George Smith</div>
@@ -872,7 +872,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                     <!-- Left item Position -->
                                                     <div class="right-position">
                                                         <div data-accordion class="head open">
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>3.30 PM – 4.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                            <div class="date"><i class="fa fa-clock-o"></i><span>4.00 PM – 4.15PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
                                                             <div class="title" data-control>Have a coffee and meet with people!</div>
                                                             <div data-content>
                                                                 <div class="content">
@@ -880,7 +880,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                 </div>
                                                             </div>
                                                             <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>4.00 PM – 5.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
+                                                                <i class="fa fa-clock-o"></i><span>4.15 PM – 5.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
                                                             </div>
                                                             <div class="title" data-control>Using Sitecore to put an organization on the path to AI</div>
                                                             <div data-content>
@@ -893,7 +893,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                          Using Sitecore to put an organization on the path to AI By George Smith
                                                                         <br />          
                                                                         <br />
-                                                                                Sat, Sept 1, 2018 4:00 PM - 5:00 PM GST           
+                                                                                Sat, Sept 1, 2018 4:15 PM - 5:00 PM GST           
                                                                         <br />         
                                                                         <br />
 
@@ -903,11 +903,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                             </p>
 
 
-
-
-                                                                                Please join  - GoToMeeting Details
-                                           <a href="https://www.gotomeet.me/Suguae-Sept-Event" target="_blank" title="GoToMeeting Details " >  - https://www.gotomeet.me/Suguae-Sept-Event </a>
-                                                                                
+         
                                                                         </div>
                                                                     </p>
                                                                 </div>
@@ -937,15 +933,12 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                         <br />         
                                                                         <br />
 
-                                                                                Please join  - GoToMeeting Details
-                                           <a href="https://www.gotomeet.me/Suguae-Sept-Event" target="_blank" title="GoToMeeting Details " >  - https://www.gotomeet.me/Suguae-Sept-Event </a>
-                                                                                
-                                                                        </div>
+                                                      </div>
                                                                     </p>
                                                                 </div>
                                                             </div>
 
-                                                          <div class="date"><i class="fa fa-clock-o"></i><span>6.30 PM – 6.45 PM</span> <i class="fa fa-trophy"></i><span>&nbsp;Sitecore MVP Traphy Distribution</span></div>
+                                                          <div class="date"><i class="fa fa-clock-o"></i><span>6.30 PM – 6.45 PM</span> <i class="fa fa-trophy"></i><span>&nbsp;Sitecore MVP Trophy Distribution</span></div>
                                                             <div class="title"></div>
                                                             <div data-content>
                                                                 <div class="content">
@@ -953,7 +946,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
                                                                 </div>
                                                             </div>
 
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>7.00 PM – 7.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Q & A</span></div>
+                                                            <div class="date"><i class="fa fa-clock-o"></i><span>6.45 PM – 7.30 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Eat and Meet!</span></div>
                                                             <div class="title"></div>
                                                             <div data-content>
                                                                 <div class="content">
