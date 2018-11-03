@@ -875,7 +875,7 @@ the challenge of crafting complex Sitecore solution.
                                                     <div class="date">
                                                         <i class="fa fa-clock-o"></i><span>5.45PM – 6.30 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session 1</span>
                                                     </div>
-                                                    <div class="title" data-control>Take Away Notes from Sitecore Symposium 2018 - By  Jannik Devantier , Peter Fellows</div>
+                                                    <div class="title" data-control>Take Away Notes from Sitecore Symposium 2018 - By  Ashish Bansal ,Jannik Devantier , Peter Fellows</div>
                                                     <div data-content>
                                                         <div class="content">
 
