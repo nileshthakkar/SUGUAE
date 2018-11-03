@@ -1,4 +1,4 @@
-﻿ <%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" MaintainScrollPositionOnPostback="true" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" MaintainScrollPositionOnPostback="true" %>
 
 <!DOCTYPE html>
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
@@ -172,13 +172,13 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">1<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">Sept 2018</div>
+                                                <div class="jx-event-day">13<span></span></div>
+                                                <div class="jx-event-month">Nov 2018</div>
                                             </div>
 
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">Using Sitecore to put an organization on the path to AI</div>
-                                                <div class="jx-event-title">SUGUAE Event Sept </div>
+                                                <div class="jx-event-pretitle">Sitecore SXA Capabilty for Enterprise Implementation</div>
+                                                <div class="jx-event-title">By Pradeep Shukla </div>
                                                 <div class="jx-event-countdown">
                                                     <div class="jx-countdown">
                                                         <div class="dsb-theme-wrapper countdown">
@@ -228,12 +228,12 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">1<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">Sept 2018</div>
+                                                <div class="jx-event-day">13<span></span></div>
+                                                <div class="jx-event-month">Nov 2018</div>
                                             </div>
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">"Sitecore 9 Insights by Ashish,Nilesh and Pradeep"</div>
-                                                <div class="jx-event-title"></div>
+                                                <div class="jx-event-pretitle">"Take Away Notes from Sitecore Symposium 2018 "</div>
+                                                <div class="jx-event-title">Sitecore Experts</div>
                                                 <div class="jx-event-location">Dubai, UAE</div>
                                             </div>
 
@@ -241,8 +241,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">1</div>
-                                            <div class="jx-slider-month jx-uppercase">Sept</div>
+                                            <div class="jx-slider-day">13</div>
+                                            <div class="jx-slider-month jx-uppercase">Nov</div>
                                         </div>
                                     </div>
 
@@ -260,8 +260,8 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">1<span></span></div>
-                                                <div class="jx-event-month jx-uppercase">September 2018</div>
+                                                <div class="jx-event-day">13<span></span></div>
+                                                <div class="jx-event-month">Nov 2018</div>
                                             </div>
                                             <div class="jx-event-title-box">
                                                 <div class="jx-event-pretitle">Sitecore User Group Webinar</div>
@@ -273,8 +273,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">1</div>
-                                            <div class="jx-slider-month jx-uppercase">Sept</div>
+                                            <div class="jx-slider-day">13</div>
+                                            <div class="jx-slider-month jx-uppercase">Nov</div>
                                         </div>
                                     </div>
 
@@ -296,7 +296,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-calendar"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">DATE</div>
-                                        <div class="info-description">1  September 2018</div>
+                                        <div class="info-description">13  November 2018</div>
                                     </div>
                                 </li>
                                 <!-- Item 01 -->
@@ -368,7 +368,7 @@
 
                         <div class="one-third columns jx-service-item">
                             <div class="image">
-                                <img src="images/aa.jpg"  style="height: 200px; width: 206px" alt="">
+                                <img src="images/aa.jpg" style="height: 200px; width: 206px" alt="">
                             </div>
                             <div class="service-title jx-uppercase"><a href="#">Ashish Bansal</a></div>
                             <div class="service-title-border"></div>
@@ -430,7 +430,7 @@ the challenge of crafting complex Sitecore solution.
                             <div class="service-title-border"></div>
                             <div class="service-description">
                                 <p>
-                                    Pradeep is Sitecore Certified Architect, Digital Marketing specialist ; As a Head of Technology  he is faciliatating the digital marketing strategy
+                                    Pradeep is Sitecore Certified Architect, Digital Marketing specialist ; As a Director of Technology  he is faciliatating the digital marketing strategy
                                          for top notch clients of Dubai acoss sector such as holding ,destination,retails,malls.
                                          Pradeep enables community to learn Sitecore via his <a href="https://learningsitecorecms.blogspot.ae/" target="_blank">blog</a>
                                 </p>
@@ -451,76 +451,15 @@ the challenge of crafting complex Sitecore solution.
 
                         <div class="row"></div>
 
-                        <%--        <div class="one-third columns jx-service-item">
-                            <div class="image">
-                                <img src="images/ayman.png" alt="">
-                            </div>
-                            <div class="service-title jx-uppercase"><a href="#">Ayman Barhoum</a></div>
-                            <div class="service-title-border"></div>
-                            <div class="service-description">
-                                <p>
-                                    Ayman is Senior Sitecore certified developer, he currently leads many Sitecore projects. He has more than eight years of
-experience in .NET, and four years focused on Sitecore. He has implemented more than 10 Sitecore websites. He writes about Sitecore on his <a href="https://abarhoum.wordpress.com/">Blog</a>
-                                </p>
-                            </div>
-
-                            <div class="jx-footer-social" style="padding: 15px; !important">
-                                <ul>
-
-                                    <li><a href="https://twitter.com/AymanBarhoum" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/in/ayman-barhoum-a0555328" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="https://www.facebook.com/ayman.barhoum.9" target="_blank"><i class="fa fa-facebook"></i></a></li>
-
-                                </ul>
-                            </div>
-
-
-                        </div>--%>
-                        <!-- item 01 -->
-
-
-                        <%--<div class="one-third columns jx-service-item">
-                            <div class="image">
-                                <img src="images/ahmad.png" alt="">
-                            </div>
-                            <div class="service-title jx-uppercase"><a href="#">Ahmad Harb</a></div>
-                            <div class="service-title-border"></div>
-                            <div class="service-description">
-                                <p>
-                                    Ahmad is a Sitecore MVP, currently he leads
-Sitecore projects. He has seven years of professional experience and involved with over than 10 Sitecore solutions. He holds a master degree in Information Security. He shares his Sitecore expirence on his <a href="http://aharb.me">Blog</a>
-                                </p>
-                            </div>
-
-                            <div class="jx-footer-social" style="padding: 15px; !important">
-                                <ul>
-
-                                    <li><a href="https://twitter.com/_aharb_" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/in/harb89" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="https://www.facebook.com/Harb89" target="_blank"><i class="fa fa-facebook"></i></a></li>
-
-                                </ul>
-                            </div>
-
-                        </div>--%>
-                        <!-- item 01 -->
-
-
-
-
                     </div>
                     <!-- EOF Servicebox -->
-
-
-                        
                 </div>
                 <!-- EOF container -->
-
-
             </div>
         </div>
         <!-- EOF Services Box -->
-        <!-- BOF Our Team -->
+
+                <!-- BOF Our Team -->
         <div id='speakers' class="jx-container container-no-margin jx-padding jx-grey-bg ">
             <!-- Background Image -->
             <!-- Background Icon -->
@@ -715,6 +654,7 @@ Sitecore projects. He has seven years of professional experience and involved wi
             </div>
         </div>
         <!-- EOF Our Team -->
+ 
         <!-- BOF Counter Up -->
         <div class="jx-container container-no-margin jx-padding jx-grey-bg ">
             <div class='parallax-no-height jx-tint-black' style='background-image: url(images/Eventphotos/06-Aug-2016/4.JPG);'></div>
@@ -808,941 +748,1083 @@ Sitecore projects. He has seven years of professional experience and involved wi
                     </div>
                     <!-- Section Title -->
 
-                </div>
+        </div>
 
-                <div class="shortcode_tab_e jx-white-tab jx-arrow-tab">
+        <div class="shortcode_tab_e jx-white-tab jx-arrow-tab">
 
-                    <div id="ParentTab">
-                        <ul class="resp-tabs-list parenttab_1">
+            <div id="ParentTab">
+                <ul class="resp-tabs-list parenttab_1">
 
-
-                             <li class="resp-tab-item">
-                                <div class="jx-tab-date jx-uppercase">1 Sept</div>
-                            </li>
-
-                               <li class="resp-tab-item">
-                                <div class="jx-tab-date jx-uppercase">22 June</div>
-                            </li>
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">13 Nov</div>
+                    </li>
 
 
-                              <li class="resp-tab-item">
-                                <div class="jx-tab-date jx-uppercase">06 Apr</div>
-                            </li>
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">1 Sept</div>
+                    </li>
 
-                            <li class="resp-tab-item">
-                                <div class="jx-tab-date jx-uppercase">29 Sep</div>
-                            </li>
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">22 June</div>
+                    </li>
 
-                            <li class="resp-tab-item">
-                                <div class="jx-tab-date jx-uppercase">17 Aug</div>
-                            </li>
 
-                            <li class="resp-tab-item">
-                                <div class="jx-tab-date jx-uppercase">15 June</div>
-                            </li>
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">06 Apr</div>
+                    </li>
 
-                            <li class="resp-tab-item">
-                                <div class="jx-tab-date jx-uppercase">02 Nov</div>
-                            </li>
-                            <%--<li class="resp-tab-item">
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">29 Sep</div>
+                    </li>
+
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">17 Aug</div>
+                    </li>
+
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">15 June</div>
+                    </li>
+
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">02 Nov</div>
+                    </li>
+                    <%--<li class="resp-tab-item">
                                 <div class="jx-tab-date jx-uppercase">06 Aug</div>
                             </li>--%>
-                        </ul>
+                </ul>
 
-                        <div class="resp-tabs-container parenttab_1">
+                <div class="resp-tabs-container parenttab_1">
 
 
-                                              <div>
-                                <div id="ChildTab-1">
-                                    <ul class="resp-tabs-list jx-subtab childtab_1">
 
-                                        <li>
-                                            <div class="jx-tab-title">Agenda</div>
-                                        </li>
-                                    </ul>
-                                    <!-- EOF Child Tab Head -->
-                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
-                                        <div>
-                                            <div data-accordion-group class="jx-accordion-box">
-                                                <div class="item">
-                                                    <div class="left-position">
-                                                        <!--<div class="image"><img src="" alt=""></div>-->
-                                                        <!-- Image -->
+
+                    <div>
+                        <div id="ChildTab-1">
+                            <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                <li>
+                                    <div class="jx-tab-title">Agenda</div>
+                                </li>
+                            </ul>
+                            <!-- EOF Child Tab Head -->
+                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                <div>
+                                    <div data-accordion-group class="jx-accordion-box">
+                                        <div class="item">
+                                            <div class="left-position">
+                                                <!--<div class="image"><img src="" alt=""></div>-->
+                                                <!-- Image -->
+                                            </div>
+                                            <!-- Left item Position -->
+                                            <div class="right-position">
+                                                <div data-accordion class="head open">
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>5.30 PM – 5.45PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                    <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
                                                     </div>
-                                                    <!-- Left item Position -->
-                                                    <div class="right-position">
-                                                        <div data-accordion class="head open">
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>4.00 PM – 4.15PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
-                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>4.15 PM – 5.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
-                                                            </div>
-                                                            <div class="title" data-control>Using Sitecore to put an organization on the path to AI</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                   
-    
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>5.45PM – 6.30 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session 1</span>
+                                                    </div>
+                                                    <div class="title" data-control>Take Away Notes from Sitecore Symposium 2018 - By  Jannik Devantier , Peter Fellows</div>
+                                                    <div data-content>
+                                                        <div class="content">
 
-                                                                        <div>
+
+
+                                                            <div>
+                                                                Take Away Notes from Sitecore Symposium 2018 - By  Jannik Devantier , Peter Fellows
+                                                                        <br />
+                                                                <br />
+                                                                Tues, Nov 13, 2018 5:45 PM - 6.30 PM GST           
+                                                                        <br />
+                                                                <br />
+
+                                                                <p>
+                                                                    Sitecore Experts will be consolidating the take away notes from Sitecore Symposium.
+                                                                                
+                                                                </p>
+
+
+
+                                                            </div>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+
+
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>6.30 PM – 7.15 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session 2</span>
+                                                    </div>
+                                                    <div class="title" data-control>
+                                                        Sitecore SXA Capabilty for Enterprise Implementation By  Pradeep Shukla
+                                                    </div>
+                                                    <div data-content>
+                                                        <div class="content">
+
+
+
+                                                            <div>
+                                                                Pradeep Shukla will be deep diving the Sitecore SXA capabilty and will be explaining how RTM can be reduced using Sitecore SXA.    
                                                                           
-                                                                         Using Sitecore to put an organization on the path to AI By George Smith
-                                                                        <br />          
                                                                         <br />
-                                                                                Sat, Sept 1, 2018 4:15 PM - 5:00 PM GST           
-                                                                        <br />         
+                                                                <br />
+                                                                Tues, Nov 13, 2018 6.30 PM - 7.15M GST           
                                                                         <br />
-
-                                                                            <p>
-
-                                                                                Companies have become blindly aware that they produce lots of data, that they can somehow monetise, but they aren’t quite sure how to do it. They also know that in a few years machine learning and Artificial intelligence will play a key role in their customer experience, but what should they be doing now to prepare for that future? The most obvious way to build a path to this future is to evolve on your Sitecore Experience platform. George will be sharing with us his experiences of working with brands around the world trying to do this, which will hopefully spark a wider discussion amongst the group.
-                                                                            </p>
-
-
-         
-                                                                        </div>
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-
-
-                                                             <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>5.00 PM – 6.30 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
-                                                            </div>
-                                                            <div class="title" data-control>
-                                                                                                                                         Sitecore 9 Insights By Ashish Bansal, Nilesh Thakkar, Pradeep Shukla
-
+                                                                <br />
 
                                                             </div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                   
-    
+                                                            </p>
+                                                        </div>
+                                                    </div>
 
-                                                                        <div>
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>7.15 PM – 8.00 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Eat and Meet!</span></div>
+                                                    <div class="title"></div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
 
-                                                                            The Suguae Core Team will provide the Sitecore 9 Insights detailing about architecture , Sitecore Forms , Sitecore EXM module , Sitecore SXA, Marketign Autamation etc.
-                                                                          
-                                                                        <br />          
-                                                                        <br />
-                                                                                Sat, Sept 1, 2018 5:00 PM - 6:00 PM GST           
-                                                                        <br />         
-                                                                        <br />
-
-                                                      </div>
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-
-                                                          <div class="date"><i class="fa fa-clock-o"></i><span>6.30 PM – 6.45 PM</span> <i class="fa fa-trophy"></i><span>&nbsp;Sitecore MVP Trophy Distribution</span></div>
-                                                            <div class="title"></div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>6.45 PM – 7.30 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Eat and Meet!</span></div>
-                                                            <div class="title"></div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  
                                                                          <br />
-                                                                        <br />
-                                                                        The agenda is flexible to accommodate attendee participation.
+                                                                <br />
+                                                                The agenda is flexible to accommodate attendee participation.
                                                                          <br />
+                                                                <br />
+                                                                Thanks! We look forward to seeing everyone! 
                                                                         <br />
-                                                                        Thanks! We look forward to seeing everyone! 
-                                                                        <br />
-                                                                        <br />
+                                                                <br />
 
 
-                                                                        Please note invitaion is only applicable for enrolled particiapants. Please register your self @ Eventbrite.
-                                                                    </p>
-                                                                </div>
-                                                            </div>
+                                                                Please note invitaion is only applicable for enrolled particiapants. Please register your self @ Eventbrite.
+                                                            </p>
+                                                        </div>
+                                                    </div>
 
 
-                                                            <div class="date">
-                                                                <i class="fa fa-map-marker"></i><span>See you at </span>
-                                                            </div>
-                                                            <div class="title" data-control>Towers Rotana, Sheikh Zayed Road Dubai-UAE </div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                                                                                   
-                                                                    </p>
-                                                                </div>
-                                                            </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-map-marker"></i><span>See you at </span>
+                                                    </div>
+                                                    <div class="title" data-control>One JLT , Above Tim Hortons, Near ADCB Bank  </div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
-
                                             </div>
                                         </div>
 
+                                    </div>
+                                </div>
 
+
+
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+                    <div>
+                        <div id="ChildTab-1">
+                            <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                <li>
+                                    <div class="jx-tab-title">Agenda</div>
+                                </li>
+                            </ul>
+                            <!-- EOF Child Tab Head -->
+                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                <div>
+                                    <div data-accordion-group class="jx-accordion-box">
+                                        <div class="item">
+                                            <div class="left-position">
+                                                <!--<div class="image"><img src="" alt=""></div>-->
+                                                <!-- Image -->
+                                            </div>
+                                            <!-- Left item Position -->
+                                            <div class="right-position">
+                                                <div data-accordion class="head open">
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>4.00 PM – 4.15PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                    <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>4.15 PM – 5.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
+                                                    </div>
+                                                    <div class="title" data-control>Using Sitecore to put an organization on the path to AI</div>
+                                                    <div data-content>
+                                                        <div class="content">
+
+
+
+                                                            <div>
+                                                                Using Sitecore to put an organization on the path to AI By George Smith
+                                                                        <br />
+                                                                <br />
+                                                                Sat, Sept 1, 2018 4:15 PM - 5:00 PM GST           
+                                                                        <br />
+                                                                <br />
+
+                                                                <p>
+                                                                    Companies have become blindly aware that they produce lots of data, that they can somehow monetise, but they aren’t quite sure how to do it. They also know that in a few years machine learning and Artificial intelligence will play a key role in their customer experience, but what should they be doing now to prepare for that future? The most obvious way to build a path to this future is to evolve on your Sitecore Experience platform. George will be sharing with us his experiences of working with brands around the world trying to do this, which will hopefully spark a wider discussion amongst the group.
+                                                                </p>
+
+
+
+                                                            </div>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+
+
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>5.00 PM – 6.30 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
+                                                    </div>
+                                                    <div class="title" data-control>
+                                                        Sitecore 9 Insights By Ashish Bansal, Nilesh Thakkar, Pradeep Shukla
+
+
+                                                    </div>
+                                                    <div data-content>
+                                                        <div class="content">
+
+
+
+                                                            <div>
+                                                                The Suguae Core Team will provide the Sitecore 9 Insights detailing about architecture , Sitecore Forms , Sitecore EXM module , Sitecore SXA, Marketign Autamation etc.
+                                                                          
+                                                                        <br />
+                                                                <br />
+                                                                Sat, Sept 1, 2018 5:00 PM - 6:00 PM GST           
+                                                                        <br />
+                                                                <br />
+
+                                                            </div>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>6.30 PM – 6.45 PM</span> <i class="fa fa-trophy"></i><span>&nbsp;Sitecore MVP Trophy Distribution</span></div>
+                                                    <div class="title"></div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>6.45 PM – 7.30 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Eat and Meet!</span></div>
+                                                    <div class="title"></div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
+
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  
+                                                                         <br />
+                                                                <br />
+                                                                The agenda is flexible to accommodate attendee participation.
+                                                                         <br />
+                                                                <br />
+                                                                Thanks! We look forward to seeing everyone! 
+                                                                        <br />
+                                                                <br />
+
+
+                                                                Please note invitaion is only applicable for enrolled particiapants. Please register your self @ Eventbrite.
+                                                            </p>
+                                                        </div>
+                                                    </div>
+
+
+                                                    <div class="date">
+                                                        <i class="fa fa-map-marker"></i><span>See you at </span>
+                                                    </div>
+                                                    <div class="title" data-control>Towers Rotana, Sheikh Zayed Road Dubai-UAE </div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
 
                                     </div>
                                 </div>
+
+
+
                             </div>
+                        </div>
+                    </div>
 
-                                               <div>
-                                <div id="ChildTab-1">
-                                    <ul class="resp-tabs-list jx-subtab childtab_1">
+                    <div>
+                        <div id="ChildTab-1">
+                            <ul class="resp-tabs-list jx-subtab childtab_1">
 
-                                        <li>
-                                            <div class="jx-tab-title">Agenda</div>
-                                        </li>
-                                    </ul>
-                                    <!-- EOF Child Tab Head -->
-                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
-                                        <div>
-                                            <div data-accordion-group class="jx-accordion-box">
-                                                <div class="item">
-                                                    <div class="left-position">
-                                                        <!--<div class="image"><img src="" alt=""></div>-->
-                                                        <!-- Image -->
+                                <li>
+                                    <div class="jx-tab-title">Agenda</div>
+                                </li>
+                            </ul>
+                            <!-- EOF Child Tab Head -->
+                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                <div>
+                                    <div data-accordion-group class="jx-accordion-box">
+                                        <div class="item">
+                                            <div class="left-position">
+                                                <!--<div class="image"><img src="" alt=""></div>-->
+                                                <!-- Image -->
+                                            </div>
+                                            <!-- Left item Position -->
+                                            <div class="right-position">
+                                                <div data-accordion class="head open">
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>5.45 PM – 6.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                    <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
                                                     </div>
-                                                    <!-- Left item Position -->
-                                                    <div class="right-position">
-                                                        <div data-accordion class="head open">
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>5.45 PM – 6.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
-                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>6.00 PM – 7.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
-                                                            </div>
-                                                            <div class="title" data-control>Troubleshoot Sitecore like a Ninja</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        by Kiran Patil
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>6.00 PM – 7.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
+                                                    </div>
+                                                    <div class="title" data-control>Troubleshoot Sitecore like a Ninja</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                by Kiran Patil
                                                                            <br />
 
 
-                                                                        <p>Kiran has spent nearly a decade crafting quality solution for end users.
-                                                                            Initial couple of years he spent on pure .NET platform and rest of the years in developing Sitecore based Enterprise level solutions for few of the Fortune 100 clients. He is Sitecore and Microsoft certified.</p>
-<p>He could earn Sitecore MVP award since last 5 years. He got first Sitecore MVP award when there were fewer than 100 Sitecore MVPs 
-    throughout the world and he is the First Sitecore MVP from India. The country which has 1.25 billion people!</p>
-<p>Kiran is co-founder of Sitecore User group India 
+                                                                <p>
+                                                                    Kiran has spent nearly a decade crafting quality solution for end users.
+                                                                            Initial couple of years he spent on pure .NET platform and rest of the years in developing Sitecore based Enterprise level solutions for few of the Fortune 100 clients. He is Sitecore and Microsoft certified.
+                                                                </p>
+                                                                <p>
+                                                                    He could earn Sitecore MVP award since last 5 years. He got first Sitecore MVP award when there were fewer than 100 Sitecore MVPs 
+    throughout the world and he is the First Sitecore MVP from India. The country which has 1.25 billion people!
+                                                                </p>
+                                                                <p>
+                                                                    Kiran is co-founder of Sitecore User group India 
     
-    <a href="http://sugin.org/" target="_blank" title="Sugin " >  - http://sugin.org/ </a>
-    
-    and he shares his Sitecore learnings via : <a href="https://sitecorebasics.wordpress.com" target="_blank" title=" https://sitecorebasics.wordpress.com  " >  - https://sitecorebasics.wordpress.com  </a></p>
+    <a href="http://sugin.org/" target="_blank" title="Sugin ">- http://sugin.org/ </a>
 
-<p>Kiran is working as a Regional Technology Lead for Horizontal Integration India located at Vadodara (Gujarat)</p>
-<p>Links to your social media accounts :<br /><br />
-    
-    Twitter :
-    
+                                                                    and he shares his Sitecore learnings via : <a href="https://sitecorebasics.wordpress.com" target="_blank" title=" https://sitecorebasics.wordpress.com  ">- https://sitecorebasics.wordpress.com  </a>
+                                                                </p>
 
+                                                                <p>Kiran is working as a Regional Technology Lead for Horizontal Integration India located at Vadodara (Gujarat)</p>
+                                                                <p>
+                                                                    Links to your social media accounts :<br />
+                                                                    <br />
 
-    <a href="http://twitter.com/kiranpatils" target="_blank" title="http://twitter.com/kiranpatils" >  http://twitter.com/kiranpatils </a>
-
-    <br />
-    
-    LinkedIn : 
+                                                                    Twitter :
     
 
-    <a href="https://in.linkedin.com/in/kiranpatils" target="_blank" title="https://in.linkedin.com/in/kiranpatils" > https://in.linkedin.com/in/kiranpatils </a>
+
+    <a href="http://twitter.com/kiranpatils" target="_blank" title="http://twitter.com/kiranpatils">http://twitter.com/kiranpatils </a>
+
+                                                                    <br />
+
+                                                                    LinkedIn : 
+    
+
+    <a href="https://in.linkedin.com/in/kiranpatils" target="_blank" title="https://in.linkedin.com/in/kiranpatils">https://in.linkedin.com/in/kiranpatils </a>
 
 
 
-</p>
+                                                                </p>
 
-                                                                        <div>
-                                                                          
-                                                                            Troubleshoot Sitecore like a Ninja By Kiran Patil
-                                                                        <br />          
+                                                                <div>
+                                                                    Troubleshoot Sitecore like a Ninja By Kiran Patil
                                                                         <br />
-                                                                                Fri, June 22, 2018 6:00 PM - 7:00 PM GST           
-                                                                        <br />         
+                                                                    <br />
+                                                                    Fri, June 22, 2018 6:00 PM - 7:00 PM GST           
                                                                         <br />
+                                                                    <br />
 
-                                                                                Please join  - GoToMeeting Details
-                                           <a href="https://www.gotomeet.me/SUGUAEKIRAN" target="_blank" title="GoToMeeting Details " >  - https://www.gotomeet.me/SUGUAEKIRAN </a>
-                                                                                
-                                                                        </div>
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>7.00 PM – 7.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Q & A</span></div>
-                                                            <div class="title"></div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
+                                                                    Please join  - GoToMeeting Details
+                                           <a href="https://www.gotomeet.me/SUGUAEKIRAN" target="_blank" title="GoToMeeting Details ">- https://www.gotomeet.me/SUGUAEKIRAN </a>
 
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
-                                                                    </p>
                                                                 </div>
-                                                            </div>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>7.00 PM – 7.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Q & A</span></div>
+                                                    <div class="title"></div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
+
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
+                                                            </p>
+                                                        </div>
+                                                    </div>
 
 
-                                                            <div class="date">
-                                                                <i class="fa fa-map-marker"></i><span>Online Webinar</span>
-                                                            </div>
-                                                            <div class="title" data-control>Dubai-UAE </div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                                                                                   
-                                                                    </p>
-                                                                </div>
-                                                            </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-map-marker"></i><span>Online Webinar</span>
+                                                    </div>
+                                                    <div class="title" data-control>Dubai-UAE </div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
-
                                             </div>
                                         </div>
 
-
-
                                     </div>
                                 </div>
+
+
+
                             </div>
+                        </div>
+                    </div>
 
 
 
 
-                                      <div>
-                                <div id="ChildTab-1">
-                                    <ul class="resp-tabs-list jx-subtab childtab_1">
+                    <div>
+                        <div id="ChildTab-1">
+                            <ul class="resp-tabs-list jx-subtab childtab_1">
 
-                                        <li>
-                                            <div class="jx-tab-title">Agenda</div>
-                                        </li>
-                                    </ul>
-                                    <!-- EOF Child Tab Head -->
-                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
-                                        <div>
-                                            <div data-accordion-group class="jx-accordion-box">
-                                                <div class="item">
-                                                    <div class="left-position">
-                                                        <!--<div class="image"><img src="" alt=""></div>-->
-                                                        <!-- Image -->
+                                <li>
+                                    <div class="jx-tab-title">Agenda</div>
+                                </li>
+                            </ul>
+                            <!-- EOF Child Tab Head -->
+                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                <div>
+                                    <div data-accordion-group class="jx-accordion-box">
+                                        <div class="item">
+                                            <div class="left-position">
+                                                <!--<div class="image"><img src="" alt=""></div>-->
+                                                <!-- Image -->
+                                            </div>
+                                            <!-- Left item Position -->
+                                            <div class="right-position">
+                                                <div data-accordion class="head open">
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>2.45 PM – 3.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                    <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
                                                     </div>
-                                                    <!-- Left item Position -->
-                                                    <div class="right-position">
-                                                        <div data-accordion class="head open">
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>2.45 PM – 3.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
-                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>3.00 PM – 4.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
-                                                            </div>
-                                                            <div class="title" data-control>Blue Green Sitecore Deployments on Azure </div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        by Rob Habraken 
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>3.00 PM – 4.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
+                                                    </div>
+                                                    <div class="title" data-control>Blue Green Sitecore Deployments on Azure </div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                by Rob Habraken 
                                                                            <br />
-Rob is CTO and Technical Consultant at Colours, one of the leading digital agencies in the Netherlands. He has a passion for creation and technology, loves to learn, share, to challenge and to be challenged. With over 14 years of web development experience, still always looking for new possibilities and techniques, he is keen on sharing his knowledge and learning from others. He presented on several user group sessions and events internationally, covering a wide range of topics. For his contributions to the Sitecore community, he has been awarded the Sitecore MVP award three times in a row (2016 - 2018).
+                                                                Rob is CTO and Technical Consultant at Colours, one of the leading digital agencies in the Netherlands. He has a passion for creation and technology, loves to learn, share, to challenge and to be challenged. With over 14 years of web development experience, still always looking for new possibilities and techniques, he is keen on sharing his knowledge and learning from others. He presented on several user group sessions and events internationally, covering a wide range of topics. For his contributions to the Sitecore community, he has been awarded the Sitecore MVP award three times in a row (2016 - 2018).
 
 
 
                                                                         <div>
-                                                                          Blue Green Sitecore Deployments on Azure By    Rob Habraken    
-                                                                        <br />          
+                                                                            Blue Green Sitecore Deployments on Azure By    Rob Habraken    
                                                                         <br />
-                                                                                Fri, June 03, 2018 3:00 PM - 4:00 PM GST           
-                                                                        <br />         
+                                                                            <br />
+                                                                            Fri, June 03, 2018 3:00 PM - 4:00 PM GST           
                                                                         <br />
+                                                                            <br />
 
-                                                                                Please join  - GoToMeeting Details
-                                                                            <a href="https://www.gotomeet.me/SUGUAEROB" target="_blank" title="GoToMeeting Details " >  - https://www.gotomeet.me/SUGUAEROB </a>
-                                                                                
+                                                                            Please join  - GoToMeeting Details
+                                                                            <a href="https://www.gotomeet.me/SUGUAEROB" target="_blank" title="GoToMeeting Details ">- https://www.gotomeet.me/SUGUAEROB </a>
+
                                                                         </div>
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>4.00 PM – 4.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Q & A</span></div>
-                                                            <div class="title"></div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>4.00 PM – 4.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Q & A</span></div>
+                                                    <div class="title"></div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
 
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
-                                                                    </p>
-                                                                </div>
-                                                            </div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
+                                                            </p>
+                                                        </div>
+                                                    </div>
 
 
-                                                            <div class="date">
-                                                                <i class="fa fa-map-marker"></i><span>Online Webinar</span>
-                                                            </div>
-                                                            <div class="title" data-control>Dubai-UAE </div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                                                                                   
-                                                                    </p>
-                                                                </div>
-                                                            </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-map-marker"></i><span>Online Webinar</span>
+                                                    </div>
+                                                    <div class="title" data-control>Dubai-UAE </div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
-
                                             </div>
                                         </div>
 
-
-
                                     </div>
                                 </div>
+
+
+
                             </div>
+                        </div>
+                    </div>
 
 
-                            <div>
-                                <div id="ChildTab-1">
-                                    <ul class="resp-tabs-list jx-subtab childtab_1">
+                    <div>
+                        <div id="ChildTab-1">
+                            <ul class="resp-tabs-list jx-subtab childtab_1">
 
-                                        <li>
-                                            <div class="jx-tab-title">Agenda</div>
-                                        </li>
-                                    </ul>
-                                    <!-- EOF Child Tab Head -->
-                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
-                                        <div>
-                                            <div data-accordion-group class="jx-accordion-box">
-                                                <div class="item">
-                                                    <div class="left-position">
-                                                        <!--<div class="image"><img src="" alt=""></div>-->
-                                                        <!-- Image -->
+                                <li>
+                                    <div class="jx-tab-title">Agenda</div>
+                                </li>
+                            </ul>
+                            <!-- EOF Child Tab Head -->
+                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                <div>
+                                    <div data-accordion-group class="jx-accordion-box">
+                                        <div class="item">
+                                            <div class="left-position">
+                                                <!--<div class="image"><img src="" alt=""></div>-->
+                                                <!-- Image -->
+                                            </div>
+                                            <!-- Left item Position -->
+                                            <div class="right-position">
+                                                <div data-accordion class="head open">
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>6.45 PM – 7.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                    <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
                                                     </div>
-                                                    <!-- Left item Position -->
-                                                    <div class="right-position">
-                                                        <div data-accordion class="head open">
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>6.45 PM – 7.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
-                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>7.00 PM – 8.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
-                                                            </div>
-                                                            <div class="title" data-control>Sitecore SXA in real world</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        by Una Verhoeven 
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>7.00 PM – 8.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
+                                                    </div>
+                                                    <div class="title" data-control>Sitecore SXA in real world</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                by Una Verhoeven 
                                                                         
                                                                         <br />
 
-                                                                        Una is a Sitecore consultant and developer at Hedgehog. After 5 years of development on different .Net platforms, her main focus is helping out Sitecore clients and partners to get the best possible Sitecore experience. She is also member of the SUGNL organization and one of the founders of SML- Community Resource. Una is also a speaker at various Sitecore User Groups.
+                                                                Una is a Sitecore consultant and developer at Hedgehog. After 5 years of development on different .Net platforms, her main focus is helping out Sitecore clients and partners to get the best possible Sitecore experience. She is also member of the SUGNL organization and one of the founders of SML- Community Resource. Una is also a speaker at various Sitecore User Groups.
 
 
 
                                                                         <div>
                                                                             Sitecore SXA in real world - By UNA          
-                                                                        <br />          
                                                                         <br />
-                                                                                Fri, Sep 29, 2017 7:00 PM - 8:00 PM GST           
-                                                                        <br />         
+                                                                            <br />
+                                                                            Fri, Sep 29, 2017 7:00 PM - 8:00 PM GST           
                                                                         <br />
+                                                                            <br />
 
-                                                                                Please join  - GoToMeeting Details
-                                                                            <a href="https://www.gotomeet.me/SUGUAEUNA" title="GoToMeeting Details " >  - https://www.gotomeet.me/SUGUAEUNA</a>
-                                                                                
+                                                                            Please join  - GoToMeeting Details
+                                                                            <a href="https://www.gotomeet.me/SUGUAEUNA" title="GoToMeeting Details ">- https://www.gotomeet.me/SUGUAEUNA</a>
+
                                                                         </div>
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>8.00 PM – 8.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Q & A</span></div>
-                                                            <div class="title"></div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>8.00 PM – 8.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Q & A</span></div>
+                                                    <div class="title"></div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
 
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
-                                                                    </p>
-                                                                </div>
-                                                            </div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
+                                                            </p>
+                                                        </div>
+                                                    </div>
 
 
-                                                            <div class="date">
-                                                                <i class="fa fa-map-marker"></i><span>Online Webinar</span>
-                                                            </div>
-                                                            <div class="title" data-control>Dubai-UAE </div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                                                                                   
-                                                                    </p>
-                                                                </div>
-                                                            </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-map-marker"></i><span>Online Webinar</span>
+                                                    </div>
+                                                    <div class="title" data-control>Dubai-UAE </div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
-
                                             </div>
                                         </div>
 
-
-
                                     </div>
                                 </div>
+
+
+
                             </div>
-                            <div>
-                                <div id="ChildTab-1">
-                                    <ul class="resp-tabs-list jx-subtab childtab_1">
+                        </div>
+                    </div>
+                    <div>
+                        <div id="ChildTab-1">
+                            <ul class="resp-tabs-list jx-subtab childtab_1">
 
-                                        <li>
-                                            <div class="jx-tab-title">Agenda</div>
-                                        </li>
-                                    </ul>
-                                    <!-- EOF Child Tab Head -->
-                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
-                                        <div>
-                                            <div data-accordion-group class="jx-accordion-box">
-                                                <div class="item">
-                                                    <div class="left-position">
-                                                        <!--<div class="image"><img src="" alt=""></div>-->
-                                                        <!-- Image -->
+                                <li>
+                                    <div class="jx-tab-title">Agenda</div>
+                                </li>
+                            </ul>
+                            <!-- EOF Child Tab Head -->
+                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                <div>
+                                    <div data-accordion-group class="jx-accordion-box">
+                                        <div class="item">
+                                            <div class="left-position">
+                                                <!--<div class="image"><img src="" alt=""></div>-->
+                                                <!-- Image -->
+                                            </div>
+                                            <!-- Left item Position -->
+                                            <div class="right-position">
+                                                <div data-accordion class="head open">
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>5.30 PM – 6.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                    <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
                                                     </div>
-                                                    <!-- Left item Position -->
-                                                    <div class="right-position">
-                                                        <div data-accordion class="head open">
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>5.30 PM – 6.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
-                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-                                                            <div class="date">
+                                                    <div class="date">
 
-                                                                <i class="fa fa-clock-o"></i><span>6.00 PM – 7.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
-                                                            </div>
-                                                            <div class="title" data-control>Redefining Digital Shopping with Sitecore Commerce</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        by Sitecore Leader - Sabin & Sheetal | Solutions Architect, Sitecore MVP                                                                
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>7.00 PM – 7.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Q & A</span></div>
-                                                            <div class="title"></div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>7.15 PM – 7.30 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Closing Notes</span>
-                                                            </div>
+                                                        <i class="fa fa-clock-o"></i><span>6.00 PM – 7.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session</span>
+                                                    </div>
+                                                    <div class="title" data-control>Redefining Digital Shopping with Sitecore Commerce</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                by Sitecore Leader - Sabin & Sheetal | Solutions Architect, Sitecore MVP                                                                
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>7.00 PM – 7.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Q & A</span></div>
+                                                    <div class="title"></div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>7.15 PM – 7.30 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Closing Notes</span>
+                                                    </div>
 
-                                                            <div class="title" data-control>By Our Guest Sabin Ephrem</div>
-                                                            <div class="data-content">‎Founder/President & CEO | Horizontal Integration, USA </div>
-                                                            <p></p>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>7.30PM – 8.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea</span>
-                                                            </div>
-                                                            <div class="title" data-control>Eat and Meet!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
-                                                                    </p>
-                                                                </div>
-                                                            </div>
+                                                    <div class="title" data-control>By Our Guest Sabin Ephrem</div>
+                                                    <div class="data-content">‎Founder/President & CEO | Horizontal Integration, USA </div>
+                                                    <p></p>
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>7.30PM – 8.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea</span>
+                                                    </div>
+                                                    <div class="title" data-control>Eat and Meet!</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
+                                                            </p>
+                                                        </div>
+                                                    </div>
 
 
-                                                            <div class="date">
-                                                                <i class="fa fa-map-marker"></i><span>Towers Rotana</span>
-                                                            </div>
-                                                            <div class="title" data-control>Sheikh Zayed Road</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        Dubai, UAE                                                                       
-                                                                    </p>
-                                                                </div>
-                                                            </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-map-marker"></i><span>Towers Rotana</span>
+                                                    </div>
+                                                    <div class="title" data-control>Sheikh Zayed Road</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                Dubai, UAE                                                                       
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
-
                                             </div>
                                         </div>
 
-
-
                                     </div>
                                 </div>
+
+
+
                             </div>
-                            <div>
-                                <div id="ChildTab-2">
+                        </div>
+                    </div>
+                    <div>
+                        <div id="ChildTab-2">
 
-                                    <ul class="resp-tabs-list jx-subtab childtab_1">
+                            <ul class="resp-tabs-list jx-subtab childtab_1">
 
-                                        <li>
-                                            <div class="jx-tab-title">Agenda</div>
-                                        </li>
-                                    </ul>
-                                    <!-- EOF Child Tab Head -->
-                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
-                                        <div>
-                                            <div data-accordion-group class="jx-accordion-box">
-                                                <div class="item">
-                                                    <div class="left-position">
-                                                        <!--<div class="image"><img src="" alt=""></div>-->
-                                                        <!-- Image -->
+                                <li>
+                                    <div class="jx-tab-title">Agenda</div>
+                                </li>
+                            </ul>
+                            <!-- EOF Child Tab Head -->
+                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                <div>
+                                    <div data-accordion-group class="jx-accordion-box">
+                                        <div class="item">
+                                            <div class="left-position">
+                                                <!--<div class="image"><img src="" alt=""></div>-->
+                                                <!-- Image -->
+                                            </div>
+                                            <!-- Left item Position -->
+                                            <div class="right-position">
+                                                <div data-accordion class="head open">
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>2.30PM – 3.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                    <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
                                                     </div>
-                                                    <!-- Left item Position -->
-                                                    <div class="right-position">
-                                                        <div data-accordion class="head open">
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>2.30PM – 3.00PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
-                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>3.00PM – 4.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
-                                                            </div>
-                                                            <div class="title" data-control>
-                                                                SUGUAE webinar on 'Sitecore and MVC A-to-Z'
-                                                            </div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        Corey Smith Sitecore MVP<br />
-                                                                        Perficient
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>3.00PM – 4.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
+                                                    </div>
+                                                    <div class="title" data-control>
+                                                        SUGUAE webinar on 'Sitecore and MVC A-to-Z'
+                                                    </div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                Corey Smith Sitecore MVP<br />
+                                                                Perficient
                                                                
-                                                                    </p>
-                                                                    <p>
-                                                                        <a class="fa  fa-external-link" target="_blank" href="https://global.gotomeeting.com/join/625984357">Join Us @ https://global.gotomeeting.com/join/625984357
+                                                            </p>
+                                                            <p>
+                                                                <a class="fa  fa-external-link" target="_blank" href="https://global.gotomeeting.com/join/625984357">Join Us @ https://global.gotomeeting.com/join/625984357
 
-                                                                        </a>
-                                                                        <br />
-                                                                        <br />
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-
-
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>4.0PM – 4.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Networking </span>
-
-                                                                <div class="title" data-control>
-                                                                    <p>
-                                                                        <br />
-                                                                    </p>
-
-                                                                </div>
-                                                            </div>
+                                                                </a>
+                                                                <br />
+                                                                <br />
+                                                            </p>
+                                                        </div>
+                                                    </div>
 
 
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>4.0PM – 4.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Networking </span>
+
+                                                        <div class="title" data-control>
+                                                            <p>
+                                                                <br />
+                                                            </p>
+
+                                                        </div>
+                                                    </div>
 
 
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>4.30PM – 5.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
-                                                            </div>
-                                                            <div class="title" data-control>
-                                                                Sitecore Helix Demystified
-                                                            </div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        Anders Laub Sitecore MVP<br />
-                                                                        Laub + Co
+
+
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>4.30PM – 5.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
+                                                    </div>
+                                                    <div class="title" data-control>
+                                                        Sitecore Helix Demystified
+                                                    </div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                Anders Laub Sitecore MVP<br />
+                                                                Laub + Co
                                                                
-                                                                    </p>
-                                                                    <p>
-                                                                        <a class="fa  fa-external-link" target="_blank" href="https://global.gotomeeting.com/join/717254525">Join Us @ https://global.gotomeeting.com/join/717254525 </a>
-                                                                        <br />
-                                                                        <br />
-                                                                    </p>
+                                                            </p>
+                                                            <p>
+                                                                <a class="fa  fa-external-link" target="_blank" href="https://global.gotomeeting.com/join/717254525">Join Us @ https://global.gotomeeting.com/join/717254525 </a>
+                                                                <br />
+                                                                <br />
+                                                            </p>
 
-                                                                </div>
-                                                            </div>
-
-
+                                                        </div>
+                                                    </div>
 
 
 
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>5.30PM – 6.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea/Closing</span>
-                                                            </div>
-                                                            <div class="title" data-control>Eat and Meet!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
-                                                                    </p>
-                                                                </div>
-                                                            </div>
 
 
-                                                            <div class="date">
-                                                                <i class="fa fa-map-marker"></i><span>Online Event </span>
-                                                            </div>
-                                                            <div class="title" data-control></div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                    </p>
-                                                                </div>
-                                                            </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>5.30PM – 6.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea/Closing</span>
+                                                    </div>
+                                                    <div class="title" data-control>Eat and Meet!</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
+                                                            </p>
+                                                        </div>
+                                                    </div>
+
+
+                                                    <div class="date">
+                                                        <i class="fa fa-map-marker"></i><span>Online Event </span>
+                                                    </div>
+                                                    <div class="title" data-control></div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
-
                                             </div>
                                         </div>
 
-
-
                                     </div>
-
                                 </div>
+
+
+
                             </div>
-                            <div>
-                                <div id="ChildTab-3">
 
-                                    <ul class="resp-tabs-list jx-subtab childtab_1">
+                        </div>
+                    </div>
+                    <div>
+                        <div id="ChildTab-3">
 
-                                        <li>
-                                            <div class="jx-tab-title">Agenda</div>
-                                        </li>
-                                    </ul>
-                                    <!-- EOF Child Tab Head -->
-                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
-                                        <div>
-                                            <div data-accordion-group class="jx-accordion-box">
-                                                <div class="item">
-                                                    <div class="left-position">
-                                                        <!--<div class="image"><img src="" alt=""></div>-->
-                                                        <!-- Image -->
+                            <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                <li>
+                                    <div class="jx-tab-title">Agenda</div>
+                                </li>
+                            </ul>
+                            <!-- EOF Child Tab Head -->
+                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                <div>
+                                    <div data-accordion-group class="jx-accordion-box">
+                                        <div class="item">
+                                            <div class="left-position">
+                                                <!--<div class="image"><img src="" alt=""></div>-->
+                                                <!-- Image -->
+                                            </div>
+                                            <!-- Left item Position -->
+                                            <div class="right-position">
+                                                <div data-accordion class="head open">
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>4.00PM – 4.30PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                    <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
                                                     </div>
-                                                    <!-- Left item Position -->
-                                                    <div class="right-position">
-                                                        <div data-accordion class="head open">
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>4.00PM – 4.30PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
-                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>4.30PM – 5.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
-                                                            </div>
-                                                            <div class="title" data-control>Explore how UnitedHealth Group Personalized their Digital Customer Experience Using Sitecore</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        Dave Michela - VP, Client Services<br />
-                                                                        Horizontal integration (SUGUAE Platinum Sponsor)
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>4.30PM – 5.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
+                                                    </div>
+                                                    <div class="title" data-control>Explore how UnitedHealth Group Personalized their Digital Customer Experience Using Sitecore</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                Dave Michela - VP, Client Services<br />
+                                                                Horizontal integration (SUGUAE Platinum Sponsor)
                                                                                 <br />
-                                                                        <br />
-                                                                        Sheetal Jain - Solution Architect<br />
-                                                                        Horizontal integration (SUGUAE Platinum Sponsor)
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>5.30PM – 6.00PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Short Break</span></div>
-                                                            <div class="title"></div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>6.00PM – 7.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
-                                                            </div>
-                                                            <div class="title" data-control>Sitecore Experience Accelerator (SXA) for Sitecore Developers</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>Kern Herskind  (Senior Product Manager - Sitecore) </p>
-                                                                </div>
-                                                            </div>
+                                                                <br />
+                                                                Sheetal Jain - Solution Architect<br />
+                                                                Horizontal integration (SUGUAE Platinum Sponsor)
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>5.30PM – 6.00PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Short Break</span></div>
+                                                    <div class="title"></div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>6.00PM – 7.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
+                                                    </div>
+                                                    <div class="title" data-control>Sitecore Experience Accelerator (SXA) for Sitecore Developers</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>Kern Herskind  (Senior Product Manager - Sitecore) </p>
+                                                        </div>
+                                                    </div>
 
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>7.00PM – 7.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-3</span>
-                                                            </div>
-                                                            <div class="title" data-control>Open Discussion on Sitecore Migration strategy from 7.x to 8.x</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        Nilesh Thakkar  (Sitecore MVP)<br />
-                                                                        Ashish Bansal    (Sitecore MVP)<br />
-                                                                        Pradeep Shukla (Sitecore Delivery Manager)
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-
-
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>7.30PM – 8.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea/Closing</span>
-                                                            </div>
-                                                            <div class="title" data-control>Eat and Meet!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
-                                                                    </p>
-                                                                </div>
-                                                            </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>7.00PM – 7.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-3</span>
+                                                    </div>
+                                                    <div class="title" data-control>Open Discussion on Sitecore Migration strategy from 7.x to 8.x</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                Nilesh Thakkar  (Sitecore MVP)<br />
+                                                                Ashish Bansal    (Sitecore MVP)<br />
+                                                                Pradeep Shukla (Sitecore Delivery Manager)
+                                                            </p>
+                                                        </div>
+                                                    </div>
 
 
-                                                            <div class="date">
-                                                                <i class="fa fa-map-marker"></i><span>Event Venue</span>
-                                                            </div>
-                                                            <div class="title" data-control>The Address Hotel</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        Dubai Marina,
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>7.30PM – 8.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea/Closing</span>
+                                                    </div>
+                                                    <div class="title" data-control>Eat and Meet!</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
+                                                            </p>
+                                                        </div>
+                                                    </div>
+
+
+                                                    <div class="date">
+                                                        <i class="fa fa-map-marker"></i><span>Event Venue</span>
+                                                    </div>
+                                                    <div class="title" data-control>The Address Hotel</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                Dubai Marina,
                                                                        Dubai, UAE
                                                                        04 436 7777 
-                                                                    </p>
-                                                                </div>
-                                                            </div>
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
-
                                             </div>
                                         </div>
-
-
 
                                     </div>
-
                                 </div>
+
+
+
                             </div>
-                            <div>
-                                <div id="ChildTab-4">
 
-                                    <ul class="resp-tabs-list jx-subtab childtab_1">
+                        </div>
+                    </div>
+                    <div>
+                        <div id="ChildTab-4">
 
-                                        <li>
-                                            <div class="jx-tab-title">Agenda</div>
-                                        </li>
-                                    </ul>
-                                    <!-- EOF Child Tab Head -->
-                                    <div class="resp-tabs-container jx-event-schedule childtab_1">
-                                        <div>
-                                            <div data-accordion-group class="jx-accordion-box">
-                                                <div class="item">
-                                                    <div class="left-position">
-                                                        <!--<div class="image"><img src="" alt=""></div>-->
-                                                        <!-- Image -->
+                            <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                <li>
+                                    <div class="jx-tab-title">Agenda</div>
+                                </li>
+                            </ul>
+                            <!-- EOF Child Tab Head -->
+                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                <div>
+                                    <div data-accordion-group class="jx-accordion-box">
+                                        <div class="item">
+                                            <div class="left-position">
+                                                <!--<div class="image"><img src="" alt=""></div>-->
+                                                <!-- Image -->
+                                            </div>
+                                            <!-- Left item Position -->
+                                            <div class="right-position">
+                                                <div data-accordion class="head open">
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>5.00PM – 5.30PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                    <div class="title" data-control>Have a coffee and meet with people!</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
                                                     </div>
-                                                    <!-- Left item Position -->
-                                                    <div class="right-position">
-                                                        <div data-accordion class="head open">
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>5.00PM – 5.30PM</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
-                                                            <div class="title" data-control>Have a coffee and meet with people!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>5.30PM – 6.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
-                                                            </div>
-                                                            <div class="title" data-control>Jason Wilkerson, Sitecore MVP</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>Introduction/Technical Presentation on IoT, Event Hubs and xDB, oh my!</p>
-                                                                </div>
-                                                            </div>
-                                                            <div class="date"><i class="fa fa-clock-o"></i><span>6.00PM – 6.15PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Short Break</span></div>
-                                                            <div class="title"></div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    &nbsp;
-                                                                </div>
-                                                            </div>
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>6.15PM – 6.45PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
-                                                            </div>
-                                                            <div class="title" data-control>Mike Reynolds, Sitecore MVP.</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>Technical Presentation on Buckets, Buckets Everywhere! (In this presentation on Sitecore Item Buckets, Sitecore MVP Mike Reynolds will give a quick tour of the Item Buckets feature, and also show how you can customize different parts of this major feature in Sitecore)</p>
-                                                                </div>
-                                                            </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>5.30PM – 6.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-1</span>
+                                                    </div>
+                                                    <div class="title" data-control>Jason Wilkerson, Sitecore MVP</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>Introduction/Technical Presentation on IoT, Event Hubs and xDB, oh my!</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>6.00PM – 6.15PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Short Break</span></div>
+                                                    <div class="title"></div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>6.15PM – 6.45PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session-2</span>
+                                                    </div>
+                                                    <div class="title" data-control>Mike Reynolds, Sitecore MVP.</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>Technical Presentation on Buckets, Buckets Everywhere! (In this presentation on Sitecore Item Buckets, Sitecore MVP Mike Reynolds will give a quick tour of the Item Buckets feature, and also show how you can customize different parts of this major feature in Sitecore)</p>
+                                                        </div>
+                                                    </div>
 
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>6.45PM – 7.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Keynote by SUGUAE Sponsor</span>
-                                                            </div>
-                                                            <div class="title" data-control></div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                    </p>
-                                                                </div>
-                                                            </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>6.45PM – 7.00PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Keynote by SUGUAE Sponsor</span>
+                                                    </div>
+                                                    <div class="title" data-control></div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                            </p>
+                                                        </div>
+                                                    </div>
 
-                                                            <div class="date">
-                                                                <i class="fa fa-clock-o"></i><span>7.00PM – 7.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea</span>
-                                                            </div>
-                                                            <div class="title" data-control>Eat and Meet!</div>
-                                                            <div data-content>
-                                                                <div class="content">
-                                                                    <p>
-                                                                        The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
-                                                                    </p>
-                                                                </div>
-                                                            </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>7.00PM – 7.30PM</span> <i class="fa fa-microphone"></i><span>&nbsp;HI-Tea</span>
+                                                    </div>
+                                                    <div class="title" data-control>Eat and Meet!</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  The agenda is flexible to accommodate attendee participation. Thanks! We look forward to seeing everyone! 
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
-
                                             </div>
                                         </div>
+
                                     </div>
                                 </div>
                             </div>
                         </div>
-
-                        <%--<div class="mb60"></div>--%>
                     </div>
                 </div>
+
+                <%--<div class="mb60"></div>--%>
             </div>
+        </div>
+        </div>
         </div>
         <!-- EOF Schedule tab -->
         <!-- Floor Plan -->
@@ -1878,7 +1960,7 @@ Rob is CTO and Technical Consultant at Colours, one of the leading digital agenc
                     </div>
                 </div>
 
-               <%-- <div class="jx-grid-item">
+                <%-- <div class="jx-grid-item">
 
                     <div class="jx-date-box">
                         <div class="jx-date">6 Aug</div>
@@ -2060,7 +2142,7 @@ Rob is CTO and Technical Consultant at Colours, one of the leading digital agenc
                 <div class="jx-testimonial">
                     <div class="flexslider">
                         <ul class="slides">
-                          <%--  <li>
+                            <%--  <li>
                                 <div class="jx-testimonial-item">
 
                                     <div class="jx-photo">
@@ -2306,7 +2388,7 @@ Rob is CTO and Technical Consultant at Colours, one of the leading digital agenc
                 /* Change the launch date according to the date you want to set.
                 Please take note that months ranges from 0-11 like an array setup.
                 */
-                var launchdate = new Date("2018-09-01T16:00:00");
+                var launchdate = new Date("2018-11-13T17:00:00");
                 $('#counter').countdown({
                     until: launchdate
                 });
