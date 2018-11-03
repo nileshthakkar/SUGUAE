@@ -473,6 +473,75 @@ the challenge of crafting complex Sitecore solution.
                     </div>
 
 
+                                                         <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/aa.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Ashish Bansal</div>
+                                <div class="jx-speaker-pos">Digital Content Manager</div>
+                                <div class="jx-speaker-pos">ENBD</div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    
+
+
+                                               <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/nilesh.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Nilesh Thakkar</div>
+                                <div class="jx-speaker-pos">Solution Architect</div>
+                                <div class="jx-speaker-pos">Sitecore</div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    
+                                    <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/bb.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Pradeep Shukla</div>
+                                <div class="jx-speaker-pos">Director of Technology</div>
+                                <div class="jx-speaker-pos">Belong Interactive</div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                                      <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/Yanik.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Jannik Devantier</div>
+                                <div class="jx-speaker-pos">Head of Value Engineering EMEA</div>
+                                <div class="jx-speaker-pos">Sitecore</div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                                    <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234px" height="234px" src="images/peter.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Peter Fellows</div>
+                                <div class="jx-speaker-pos">Sales Lead - Sitecore Commerce</div>
+                                <div class="jx-speaker-pos">Sitecore</div>
+                            </div>
+                        </div>
+                    </div>
+
+
 
 
                     
@@ -624,29 +693,7 @@ the challenge of crafting complex Sitecore solution.
                     </div>
 
 
-                    <div class="jx-speaker-item">
-                        <div class="jx-speaker-photo jx-image-wrapper">
-                            <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                            <div class="jx-speaker-overlayer"></div>
-                            <div class="jx-image-hover-info">
-                                <div class="jx-speaker-name">Meet Expertise</div>
-                                <div class="jx-speaker-pos">Announcing soon...</div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Item -->
-
-                    <div class="jx-speaker-item">
-                        <div class="jx-speaker-photo jx-image-wrapper">
-                            <img width="234" height="189" src="images/speaker-1.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                            <div class="jx-speaker-overlayer"></div>
-                            <div class="jx-image-hover-info">
-                                <div class="jx-speaker-name">Meet Expertise</div>
-                                <div class="jx-speaker-pos">Announcing soon...</div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Item -->
+                
 
 
 
