@@ -172,13 +172,13 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">14<span></span></div>
-                                                <div class="jx-event-month">Dec 2018</div>
+                                                <div class="jx-event-day">11<span></span></div>
+                                                <div class="jx-event-month">Jan 2019</div>
                                             </div>
 
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">Finding Value in Your Data: Sitecore Analytics and Business Impact</div>
-                                                <div class="jx-event-title">By Jacqueline Baxter​ </div>
+                                                <div class="jx-event-pretitle">Offline tracking with the Sitecore Universal Tracker  </div>
+                                                <div class="jx-event-title">By Akshay Sura</div>
                                                 <div class="jx-event-countdown">
                                                     <div class="jx-countdown">
                                                         <div class="dsb-theme-wrapper countdown">
@@ -228,12 +228,12 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">14<span></span></div>
-                                                <div class="jx-event-month">Dec 2018</div>
+                                                <div class="jx-event-day">11<span></span></div>
+                                                <div class="jx-event-month">Jan 2019</div>
                                             </div>
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">"Finding Value in Your Data: Sitecore Analytics and Business Impact"</div>
-                                                <div class="jx-event-title">Sitecore MVP Jacqueline Baxter​</div>
+                                                <div class="jx-event-pretitle">"Offline tracking with the Sitecore Universal Tracker"</div>
+                                                <div class="jx-event-title">Sitecore MVP Akshay Sura​</div>
                                                 <div class="jx-event-location">Dubai, UAE</div>
                                             </div>
 
@@ -241,8 +241,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">14</div>
-                                            <div class="jx-slider-month jx-uppercase">Dec</div>
+                                            <div class="jx-slider-day">11</div>
+                                            <div class="jx-slider-month jx-uppercase">Jan</div>
                                         </div>
                                     </div>
 
@@ -260,8 +260,8 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">14<span></span></div>
-                                                <div class="jx-event-month">Dec 2018</div>
+                                                <div class="jx-event-day">11<span></span></div>
+                                                <div class="jx-event-month">Jan 2019</div>
                                             </div>
                                             <div class="jx-event-title-box">
                                                 <div class="jx-event-pretitle">Sitecore User Group Webinar</div>
@@ -273,8 +273,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">14</div>
-                                            <div class="jx-slider-month jx-uppercase">Dec</div>
+                                            <div class="jx-slider-day">11</div>
+                                            <div class="jx-slider-month jx-uppercase">Jan</div>
                                         </div>
                                     </div>
 
@@ -296,7 +296,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-calendar"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">DATE</div>
-                                        <div class="info-description">14 Dec 2018</div>
+                                        <div class="info-description">11 Jan 2019</div>
                                     </div>
                                 </li>
                                 <!-- Item 01 -->
@@ -323,7 +323,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-megaphone"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">SPEAKER</div>
-                                        <div class="info-description">Jacqueline Baxter​</div>
+                                        <div class="info-description"> Akshay Sura​</div>
                                     </div>
                                 </li>
                                 <!-- Item 04 -->
@@ -434,7 +434,7 @@ the challenge of crafting complex Sitecore solution.
                             <div class="service-title-border"></div>
                             <div class="service-description">
                                 <p>
-                                    Pradeep is Sitecore Certified Architect, Digital Marketing specialist ; As a Director of Technology  he is faciliatating the digital marketing strategy
+                                    Pradeep Shukla is Sitecore Certified Architect, Digital Marketing specialist ; As Director of Technology  he is faciliatating the digital marketing strategy
                                          for top notch clients of Dubai acoss sector such as holding ,destination,retails,malls.
                                          Pradeep enables community to learn Sitecore via his <a href="https://learningsitecorecms.blogspot.ae/" target="_blank">blog</a>
                                 </p>
@@ -475,6 +475,22 @@ the challenge of crafting complex Sitecore solution.
                         <div class="jx-hr-title"></div>
                         <p>Meet our industry experts to scale up your knowledge and discuss your challenages.</p>
                     </div>
+
+
+
+                    
+                                                                          <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/akshay.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Akshay Sura​</div>
+                                <div class="jx-speaker-pos">Partner</div>
+                                <div class="jx-speaker-pos">konabos</div>
+                            </div>
+                        </div>
+                    </div>
+
 
 
                                                                           <div class="jx-speaker-item">
@@ -821,6 +837,12 @@ the challenge of crafting complex Sitecore solution.
             <div id="ParentTab">
                 <ul class="resp-tabs-list parenttab_1">
 
+
+                      <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">11 Jan</div>
+                    </li>
+
+
                        <li class="resp-tab-item">
                         <div class="jx-tab-date jx-uppercase">14 Dec</div>
                     </li>
@@ -865,6 +887,111 @@ the challenge of crafting complex Sitecore solution.
                 </ul>
 
                 <div class="resp-tabs-container parenttab_1">
+
+
+
+                      <div>
+                        <div id="ChildTab-1">
+                            <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                <li>
+                                    <div class="jx-tab-title">Agenda</div>
+                                </li>
+                            </ul>
+                            <!-- EOF Child Tab Head -->
+                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                <div>
+                                    <div data-accordion-group class="jx-accordion-box">
+                                        <div class="item">
+                                            <div class="left-position">
+                                                <!--<div class="image"><img src="" alt=""></div>-->
+                                                <!-- Image -->
+                                            </div>
+                                            <!-- Left item Position -->
+                                            <div class="right-position">
+                                                <div data-accordion class="head open">
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>5.30 PM –6.00M</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                    <div class="title" data-control>Have Your coffee and meet with people Virtually !</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>6.00PM – 7.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session 1</span>
+                                                    </div>
+                                                    <div class="title" data-control>Offline tracking with the Sitecore Universal Tracker  </div>
+                                                    <div data-content>
+                                                        <div class="content">
+
+
+
+                                                            <div>
+Offline tracking with the Sitecore Universal Tracker                                                                          <br />
+                                                                <br />
+                                                                Fri, Jan 11, 2019 6:00 PM - 7.00 PM GST           
+                                                                        <br />
+                                                                <br />
+                                                                Akshay is a five-time Sitecore MVP who has spent more than a decade working exclusively on Sitecore projects. In addition to his work as a solution architect, Akshay is also one of the founders of SUGCON NA 2015 and the Sitecore Slack Group, which has more than 4300 members from around the world.
+                                                          
+
+                                                            </div>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+
+
+                                    
+
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>7.00 PM – 7.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Vote of Thanks and Closing Notes!</span></div>
+                                                    <div class="title"></div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
+
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  
+                                                                         <br />
+                                                                <br />
+                                                                The agenda is flexible to accommodate attendee participation.
+                                                                         <br />
+                                                                <br />
+                                                                Thanks! We look forward to seeing everyone! 
+                                                                        <br />
+                                                                <br />
+
+                                                            </p>
+                                                        </div>
+                                                    </div>
+
+
+                                                    <div class="date">
+                                                        <i class="fa fa-map-marker"></i><span >See you online <a href="https://www.gotomeet.me/SUGUAE-Akshay" target="_blank">
+                                                            https://www.gotomeet.me/SUGUAE-Akshay </a> </span>
+                                                    </div>
+                                                    <div class="title" data-control> </div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                    </div>
 
 
                                     <div>
@@ -2562,7 +2689,7 @@ the challenge of crafting complex Sitecore solution.
                 /* Change the launch date according to the date you want to set.
                 Please take note that months ranges from 0-11 like an array setup.
                 */
-                var launchdate = new Date("2018-12-14T18:30:00");
+                var launchdate = new Date("2019-01-11T18:00:00");
                 $('#counter').countdown({
                     until: launchdate
                 });
