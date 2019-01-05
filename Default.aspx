@@ -177,7 +177,7 @@
                                             </div>
 
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">Offline tracking with the Sitecore Universal Tracker  </div>
+                                                <div class="jx-event-pretitle">Sitecore Commerce  </div>
                                                 <div class="jx-event-title">By Akshay Sura</div>
                                                 <div class="jx-event-countdown">
                                                     <div class="jx-countdown">
@@ -232,7 +232,7 @@
                                                 <div class="jx-event-month">Jan 2019</div>
                                             </div>
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">"Offline tracking with the Sitecore Universal Tracker"</div>
+                                                <div class="jx-event-pretitle">Sitecore Commerce</div>
                                                 <div class="jx-event-title">Sitecore MVP Akshay Sura​</div>
                                                 <div class="jx-event-location">Dubai, UAE</div>
                                             </div>
@@ -920,7 +920,7 @@ the challenge of crafting complex Sitecore solution.
                                                     <div class="date">
                                                         <i class="fa fa-clock-o"></i><span>6.00PM – 7.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session 1</span>
                                                     </div>
-                                                    <div class="title" data-control>Offline tracking with the Sitecore Universal Tracker  </div>
+                                                    <div class="title" data-control>Sitecore Commerce</div>
                                                     <div data-content>
                                                         <div class="content">
 
