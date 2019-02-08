@@ -172,13 +172,13 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">11<span></span></div>
-                                                <div class="jx-event-month">Jan 2019</div>
+                                                <div class="jx-event-day">15<span></span></div>
+                                                <div class="jx-event-month">Feb 2019</div>
                                             </div>
 
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">Sitecore Commerce  </div>
-                                                <div class="jx-event-title">By Akshay Sura</div>
+                                                <div class="jx-event-pretitle">Elevated customer experiences using Sitecore Marketing Automation! </div>
+                                                <div class="jx-event-title">By Ishraq Al Fataftah </div>
                                                 <div class="jx-event-countdown">
                                                     <div class="jx-countdown">
                                                         <div class="dsb-theme-wrapper countdown">
@@ -228,12 +228,12 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">11<span></span></div>
-                                                <div class="jx-event-month">Jan 2019</div>
+                                                <div class="jx-event-day">15<span></span></div>
+                                                <div class="jx-event-month">Feb 2019</div>
                                             </div>
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">Sitecore Commerce</div>
-                                                <div class="jx-event-title">Sitecore MVP Akshay Sura​</div>
+                                                <div class="jx-event-pretitle">Elevated customer experiences using Sitecore Marketing Automation!</div>
+                                                <div class="jx-event-title">Sitecore MVP Ishraq Al Fataftah </div>
                                                 <div class="jx-event-location">Dubai, UAE</div>
                                             </div>
 
@@ -241,8 +241,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">11</div>
-                                            <div class="jx-slider-month jx-uppercase">Jan</div>
+                                            <div class="jx-slider-day">15</div>
+                                            <div class="jx-slider-month jx-uppercase">Feb</div>
                                         </div>
                                     </div>
 
@@ -260,8 +260,8 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">11<span></span></div>
-                                                <div class="jx-event-month">Jan 2019</div>
+                                                <div class="jx-event-day">15<span></span></div>
+                                                <div class="jx-event-month">Feb 2019</div>
                                             </div>
                                             <div class="jx-event-title-box">
                                                 <div class="jx-event-pretitle">Sitecore User Group Webinar</div>
@@ -273,8 +273,8 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">11</div>
-                                            <div class="jx-slider-month jx-uppercase">Jan</div>
+                                            <div class="jx-slider-day">15</div>
+                                            <div class="jx-slider-month jx-uppercase">Feb</div>
                                         </div>
                                     </div>
 
@@ -296,7 +296,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-calendar"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">DATE</div>
-                                        <div class="info-description">11 Jan 2019</div>
+                                        <div class="info-description">15 Feb 2019</div>
                                     </div>
                                 </li>
                                 <!-- Item 01 -->
@@ -323,7 +323,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-megaphone"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">SPEAKER</div>
-                                        <div class="info-description"> Akshay Sura​</div>
+                                        <div class="info-description"> Ishraq Al Fataftah ​</div>
                                     </div>
                                 </li>
                                 <!-- Item 04 -->
@@ -374,7 +374,7 @@
                             <div class="service-title-border"></div>
                             <div class="service-description">
                                 <p>
-                                    Ashish is Sitecore MVP 2017,2018 professional having a huge experience on different CMS platforms. His expertise is in architecting, designing and implementaiton.
+                                    Ashish is Sitecore MVP 2017,2018,2019 professional having a huge experience on different CMS platforms. His expertise is in architecting, designing and implementaiton.
                                         He shares his sitecore solutions to the community via his <a href="http://sitecoresolution.blogspot.com" target="_blank">blog</a>
                                 </p>
                             </div>
@@ -434,7 +434,7 @@ the challenge of crafting complex Sitecore solution.
                             <div class="service-title-border"></div>
                             <div class="service-description">
                                 <p>
-                                    Pradeep Shukla is Sitecore Certified Architect, Digital Marketing specialist ; As Director of Technology  he is faciliatating the digital marketing strategy
+                                    Pradeep Shukla is Sitecore MVP 2019,Sitecore Certified Architect, Digital Marketing specialist ; As Director of Technology  he is faciliatating the digital marketing strategy
                                          for top notch clients of Dubai acoss sector such as holding ,destination,retails,malls.
                                          Pradeep enables community to learn Sitecore via his <a href="https://learningsitecorecms.blogspot.ae/" target="_blank">blog</a>
                                 </p>
@@ -476,6 +476,18 @@ the challenge of crafting complex Sitecore solution.
                         <p>Meet our industry experts to scale up your knowledge and discuss your challenages.</p>
                     </div>
 
+
+                           <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/0.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Ishraq Al Fataftah </div>
+                                <div class="jx-speaker-pos">Technology Evangelist / Sitecore MVP / uCommerce MVP</div>
+                                <div class="jx-speaker-pos">ApplezTech</div>
+                            </div>
+                        </div>
+                    </div>
 
 
                     
@@ -838,6 +850,11 @@ the challenge of crafting complex Sitecore solution.
                 <ul class="resp-tabs-list parenttab_1">
 
 
+                         <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">15 Feb</div>
+                    </li>
+
+
                       <li class="resp-tab-item">
                         <div class="jx-tab-date jx-uppercase">11 Jan</div>
                     </li>
@@ -888,6 +905,111 @@ the challenge of crafting complex Sitecore solution.
 
                 <div class="resp-tabs-container parenttab_1">
 
+
+
+
+                       <div>
+                        <div id="ChildTab-1">
+                            <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                <li>
+                                    <div class="jx-tab-title">Agenda</div>
+                                </li>
+                            </ul>
+                            <!-- EOF Child Tab Head -->
+                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                <div>
+                                    <div data-accordion-group class="jx-accordion-box">
+                                        <div class="item">
+                                            <div class="left-position">
+                                                <!--<div class="image"><img src="" alt=""></div>-->
+                                                <!-- Image -->
+                                            </div>
+                                            <!-- Left item Position -->
+                                            <div class="right-position">
+                                                <div data-accordion class="head open">
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>7.30 PM –8.00M</span> <i class="fa fa-group"></i><span>&nbsp;Arrival</span></div>
+                                                    <div class="title" data-control>Have Your coffee and meet with people Virtually !</div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>8.00PM – 9.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session 1</span>
+                                                    </div>
+                                                    <div class="title" data-control> Elevated customer experiences using Sitecore Marketing Automation!</div>
+                                                    <div data-content>
+                                                        <div class="content">
+
+
+
+                                                            <div>
+                                                                       <br />
+                                                                <br />
+                                                                Fri, Feb 15, 2019 8:00 PM - 9.00 PM GST           
+                                                                        <br />
+                                                                <br />
+
+                                                               Ishraq Al Fataftah (@ifataftah) is the CTO at ApplezTech, a digital customer experience agency based in Amman, Jordan. Ishraq has played the roles of digital consultant, technology evangelist, solution architect and technical director during her 15 years in the industry. She has been the first named female MVP from the MENA region
+
+                                                            </div>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+
+
+                                    
+
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>9.00 PM – 9.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Vote of Thanks and Closing Notes!</span></div>
+                                                    <div class="title"></div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
+
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                                The purpose of the User Group is to allow Sitecore users to come together and share their experiences with others.  
+                                                                         <br />
+                                                                <br />
+                                                                The agenda is flexible to accommodate attendee participation.
+                                                                         <br />
+                                                                <br />
+                                                                Thanks! We look forward to seeing everyone! 
+                                                                        <br />
+                                                                <br />
+
+                                                            </p>
+                                                        </div>
+                                                    </div>
+
+
+                                                    <div class="date">
+                                                        <i class="fa fa-map-marker"></i><span >See you online <a href="https://www.gotomeet.me/Suguae-Ishraq" target="_blank">
+                                                         https://www.gotomeet.me/Suguae-Ishraq </a> </span>
+                                                    </div>
+                                                    <div class="title" data-control> </div>
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            <p>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                    </div>
 
 
                       <div>
@@ -2689,7 +2811,7 @@ Offline tracking with the Sitecore Universal Tracker                            
                 /* Change the launch date according to the date you want to set.
                 Please take note that months ranges from 0-11 like an array setup.
                 */
-                var launchdate = new Date("2019-01-11T18:00:00");
+                var launchdate = new Date("2019-02-15T20:00:00");
                 $('#counter').countdown({
                     until: launchdate
                 });
