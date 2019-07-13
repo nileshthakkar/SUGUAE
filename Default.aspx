@@ -297,7 +297,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-calendar"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">DATE</div>
-                                        <div class="info-description">15 Feb 2019</div>
+                                        <div class="info-description">27 July 2019</div>
                                     </div>
                                 </li>
                                 <!-- Item 01 -->
