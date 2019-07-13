@@ -172,13 +172,13 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">15<span></span></div>
-                                                <div class="jx-event-month">Feb 2019</div>
+                                                <div class="jx-event-day">27<span></span></div>
+                                                <div class="jx-event-month">July 2019</div>
                                             </div>
-
+                                            
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">Elevated customer experiences using Sitecore Marketing Automation! </div>
-                                                <div class="jx-event-title">By Ishraq Al Fataftah </div>
+                                                <div class="jx-event-pretitle"></div>
+                                                <div class="jx-event-title">Headless CMS with Sitecore JSS </div>
                                                 <div class="jx-event-countdown">
                                                     <div class="jx-countdown">
                                                         <div class="dsb-theme-wrapper countdown">
@@ -212,7 +212,8 @@
                                             </div>
 
                                         </div>
-                                    </div>
+                                    
+                                            </div>
 
 
                                 </div>
@@ -228,21 +229,21 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">15<span></span></div>
-                                                <div class="jx-event-month">Feb 2019</div>
+                                                <div class="jx-event-day">27<span></span></div>
+                                                <div class="jx-event-month">July 2019</div>
                                             </div>
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">Elevated customer experiences using Sitecore Marketing Automation!</div>
-                                                <div class="jx-event-title">Sitecore MVP Ishraq Al Fataftah </div>
-                                                <div class="jx-event-location">Dubai, UAE</div>
+                                                <div class="jx-event-pretitle"></div>
+                                                <div class="jx-event-title">Introducing Sitecore Experience Commerce with Azure </div>
+                                                <div class="jx-event-location"></div>
                                             </div>
 
                                         </div>
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">15</div>
-                                            <div class="jx-slider-month jx-uppercase">Feb</div>
+                                            <div class="jx-slider-day">27</div>
+                                            <div class="jx-slider-month jx-uppercase">July</div>
                                         </div>
                                     </div>
 
@@ -260,21 +261,21 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">15<span></span></div>
-                                                <div class="jx-event-month">Feb 2019</div>
+                                                <div class="jx-event-day">27<span></span></div>
+                                                <div class="jx-event-month">July 2019</div>
                                             </div>
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle">Sitecore User Group Webinar</div>
-                                                <div class="jx-event-title">Come and Join Us</div>
-                                                <div class="jx-event-location">Dubai, UAE</div>
+                                                <div class="jx-event-pretitle"> </div>
+                                                <div class="jx-event-title">Image Optimization  with Dianoga and ImageMagic in Sitecore</div>
+                                                <div class="jx-event-location"></div>
                                             </div>
 
                                         </div>
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">15</div>
-                                            <div class="jx-slider-month jx-uppercase">Feb</div>
+                                            <div class="jx-slider-day">27</div>
+                                            <div class="jx-slider-month jx-uppercase">July</div>
                                         </div>
                                     </div>
 
@@ -428,7 +429,7 @@ the challenge of crafting complex Sitecore solution.
 
                         <div class="one-third columns jx-service-item">
                             <div class="image">
-                                <img src="images/bb.jpg" style="height: 200px; width: 206px" alt="">
+                                <img src="images/zz.png" style="height: 200px; width: 206px" alt="">
                             </div>
                             <div class="service-title jx-uppercase"><a href="#">Pradeep Shukla</a></div>
                             <div class="service-title-border"></div>
@@ -477,45 +478,7 @@ the challenge of crafting complex Sitecore solution.
                     </div>
 
 
-                           <div class="jx-speaker-item">
-                        <div class="jx-speaker-photo jx-image-wrapper">
-                            <img width="234" height="189" src="images/0.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                            <div class="jx-speaker-overlayer"></div>
-                            <div class="jx-image-hover-info">
-                                <div class="jx-speaker-name">Ishraq Al Fataftah </div>
-                                <div class="jx-speaker-pos">Technology Evangelist / Sitecore MVP / uCommerce MVP</div>
-                                <div class="jx-speaker-pos">ApplezTech</div>
-                            </div>
-                        </div>
-                    </div>
 
-
-                    
-                                                                          <div class="jx-speaker-item">
-                        <div class="jx-speaker-photo jx-image-wrapper">
-                            <img width="234" height="189" src="images/akshay.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                            <div class="jx-speaker-overlayer"></div>
-                            <div class="jx-image-hover-info">
-                                <div class="jx-speaker-name">Akshay Sura​</div>
-                                <div class="jx-speaker-pos">Partner</div>
-                                <div class="jx-speaker-pos">konabos</div>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-                                                                          <div class="jx-speaker-item">
-                        <div class="jx-speaker-photo jx-image-wrapper">
-                            <img width="234" height="189" src="images/Jacqueline.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
-                            <div class="jx-speaker-overlayer"></div>
-                            <div class="jx-image-hover-info">
-                                <div class="jx-speaker-name">Jacqueline Baxter​</div>
-                                <div class="jx-speaker-pos">Digital Strategist</div>
-                                <div class="jx-speaker-pos">HedgeHog</div>
-                            </div>
-                        </div>
-                    </div>
 
 
 
@@ -552,12 +515,67 @@ the challenge of crafting complex Sitecore solution.
                     
                                     <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
-                            <img width="234" height="189" src="images/bb.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <img width="234" height="189" src="images/zz.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
                             <div class="jx-image-hover-info">
                                 <div class="jx-speaker-name">Pradeep Shukla</div>
                                 <div class="jx-speaker-pos">Director of Technology</div>
                                 <div class="jx-speaker-pos">Belong Interactive</div>
+                            </div>
+                        </div>
+                    </div>
+
+                                                     <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/nn.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Nikki Punjabi</div>
+                                <div class="jx-speaker-pos">Sitecore MVP</div>
+                                <div class="jx-speaker-pos"></div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+                                               <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/0.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Ishraq Al Fataftah </div>
+                                <div class="jx-speaker-pos">Technology Evangelist / Sitecore MVP / uCommerce MVP</div>
+                                <div class="jx-speaker-pos">ApplezTech</div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    
+                                                                          <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/akshay.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Akshay Sura​</div>
+                                <div class="jx-speaker-pos">Partner</div>
+                                <div class="jx-speaker-pos">konabos</div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                                                                          <div class="jx-speaker-item">
+                        <div class="jx-speaker-photo jx-image-wrapper">
+                            <img width="234" height="189" src="images/Jacqueline.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
+                            <div class="jx-speaker-overlayer"></div>
+                            <div class="jx-image-hover-info">
+                                <div class="jx-speaker-name">Jacqueline Baxter​</div>
+                                <div class="jx-speaker-pos">Digital Strategist</div>
+                                <div class="jx-speaker-pos">HedgeHog</div>
                             </div>
                         </div>
                     </div>
@@ -849,6 +867,18 @@ the challenge of crafting complex Sitecore solution.
             <div id="ParentTab">
                 <ul class="resp-tabs-list parenttab_1">
 
+                         <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">27 July</div>
+                    </li>
+
+                        <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">28 June</div>
+                    </li>
+
+
+                        <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">15 March</div>
+                    </li>
 
                          <li class="resp-tab-item">
                         <div class="jx-tab-date jx-uppercase">15 Feb</div>
@@ -905,6 +935,264 @@ the challenge of crafting complex Sitecore solution.
 
                 <div class="resp-tabs-container parenttab_1">
 
+
+                    
+                       <div>
+                        <div id="ChildTab-1">
+                            <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                <li>
+                                    <div class="jx-tab-title">Agenda</div>
+                                </li>
+                            </ul>
+                            <!-- EOF Child Tab Head -->
+                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                <div>
+                                    <div data-accordion-group class="jx-accordion-box">
+                                        <div class="item">
+                                            <div class="left-position">
+                                                <!--<div class="image"><img src="" alt=""></div>-->
+                                                <!-- Image -->
+                                            </div>
+                                            <!-- Left item Position -->
+                                            <div class="right-position">
+                                                <div data-accordion class="head open">
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>4.45 PM –5.00M</span> <i class="fa fa-group"></i><span>&nbsp;Have Your coffee and connect with people !</span></div>
+                                                    
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>5.00PM – 5.40 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Introducing Sitecore Experience Commerce with Azure</span>
+                                                    </div>
+                                                    
+                                                    <div data-content>
+                                                        <div class="content">
+
+
+
+                                                            <div>
+                                                                       <br />
+                                                                <br />
+                                                                SAT, July 27, 2019 5:00 PM - 5.40 PM GST           
+                                                                        <br />
+                                                                <br />
+                                                    Ashish Bansal, Sitecore Technology MVP, will showcase an overview of Sitecore Experience Commerce including the key features and technical architecture of the product. Also will discuss how to get certified on the Sitecore commerce platform with roadmap.
+This session will also showcase the running Sitecore commerce platform with Microsoft Azure PaaS.
+Audience will gain good understanding of Sitecore XP Commerce product and its key benefits and architecture.
+                                                            </div>
+                                                           
+                                                        </div>
+                                                    </div>
+
+                                                    <br />
+
+                                                        <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>5.40PM – 6.20 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Headless CMS with Sitecore JSS</span>
+                                                    </div>
+                                                          <div data-content>
+                                                        <div class="content">
+
+
+
+                                                            <div>
+                                                                       <br />
+                                                                <br />
+                                                                SAT, July 27, 2019 5:40 PM - 6.20 PM GST           
+                                                                        <br />
+                                                                <br />
+                                                                The headless CMS space has gained grip in modern years, leading to the revitalize excitement around a content management model that can help brands handle the endless number of emerging devices and channels.
+
+In this session we will see how to build Headless application using Sitecore JSS. It's architecture and integration with Sitecore. Different modes of creating an application and Step by Step guide for Sitecore JSS application.
+                            
+
+                                                            </div>
+                                                           
+                                                        </div>
+                                                    </div>
+
+                                                        <br />
+
+                                                         <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>6.20PM – 6.50 PM</span> <i class="fa fa-microphone"></i><span>Image Optimization  with Dianoga and ImageMagic in Sitecore</span>
+                                                    </div>
+                                                          <div data-content>
+                                                        <div class="content">
+
+
+
+                                                            <div>
+                                                                       <br />
+                                                                <br />
+                                                                SAT, July 27, 2019 6.20PM – 6.50 PM GST           
+                                                                        <br />
+                                                                <br />
+         
+                                                                Improve Your Sitecore Website Page Load Speed By Utilizing Dinoga With Dianoga.ImageMagick Module.
+                                                            </div>
+                                                           
+                                                        </div>
+                                                    </div>
+
+
+
+                                                          <br />
+
+                                                         <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>6.50PM – 7 PM</span> <i class="fa fa-microphone"></i><span>
+                                                            Vote of thanks and closing notes.
+                                                            
+                                                        </span>
+                                                    </div>
+                                                          <div data-content>
+                                                        <div class="content">
+
+
+
+                                                            <div>
+                                                           
+                                                            </div>
+                                                           
+                                                        </div>
+                                                    </div>
+
+
+                                    
+
+
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                     <div>
+                        <div id="ChildTab-1">
+                            <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                <li>
+                                    <div class="jx-tab-title">Agenda</div>
+                                </li>
+                            </ul>
+                            <!-- EOF Child Tab Head -->
+                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                <div>
+                                    <div data-accordion-group class="jx-accordion-box">
+                                        <div class="item">
+                                            <div class="left-position">
+                                                <!--<div class="image"><img src="" alt=""></div>-->
+                                                <!-- Image -->
+                                            </div>
+                                            <!-- Left item Position -->
+                                            <div class="right-position">
+                                                <div data-accordion class="head open">
+                                             
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>8.00PM – 9 PM</span> 
+                                                        <i class="fa fa-microphone"></i><span>&nbsp;Introducing Sitecore Identity Capability </span>
+                                                    </div>
+                                                    
+                                                    <div data-content>
+                                                        <div class="content">
+
+
+
+                                                            <div>
+                                                                       <br />
+                                                                <br />
+                                                                Friday, June 28, 2019 8:00 PM - 9 PM GST           
+                                                                        <br />
+                                                                <br />
+                                              Himadri Chakrabarti
+                                                            </div>
+                                                           
+                                                        </div>
+                                                    </div>
+
+                                                                                  
+
+
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div id="ChildTab-1">
+                            <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                <li>
+                                    <div class="jx-tab-title">Agenda</div>
+                                </li>
+                            </ul>
+                            <!-- EOF Child Tab Head -->
+                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                <div>
+                                    <div data-accordion-group class="jx-accordion-box">
+                                        <div class="item">
+                                            <div class="left-position">
+                                                <!--<div class="image"><img src="" alt=""></div>-->
+                                                <!-- Image -->
+                                            </div>
+                                            <!-- Left item Position -->
+                                            <div class="right-position">
+                                                <div data-accordion class="head open">
+                                             
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>8.00PM – 9 PM</span> 
+                                                        <i class="fa fa-microphone"></i><span>&nbsp;Authentication and Authorization in context of Sitecore Commerance </span>
+                                                    </div>
+                                                    
+                                                    <div data-content>
+                                                        <div class="content">
+
+
+
+                                                            <div>
+                                                                       <br />
+                                                                <br />
+                                                                FRI, March 15, 2019 8.00PM – 9 PM GST           
+                                                                        <br />
+                                                                <br />
+                                              Hetal Dave
+                                                            </div>
+                                                           
+                                                        </div>
+                                                    </div>
+
+                                                                                  
+
+
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                    </div>
 
 
 
@@ -1116,7 +1404,7 @@ Offline tracking with the Sitecore Universal Tracker                            
                     </div>
 
 
-                                    <div>
+                   <div>
                         <div id="ChildTab-1">
                             <ul class="resp-tabs-list jx-subtab childtab_1">
 
@@ -2643,15 +2931,15 @@ Offline tracking with the Sitecore Universal Tracker                            
                     <center>
                           <h5 style="margin-bottom:20px" class="jx-subtitle">Our Platinum Sponsors</h5>
                     <ul>                        
-                        <li style="border:none"><a target="_blank" href="http://www.horizontalintegration.com/">
+             <%--           <li style="border:none"><a target="_blank" href="http://www.horizontalintegration.com/">
                             <div class="slide-contents">
                              
                             <img  style="background-color:#143857" src="images/HI_logo.png"  alt=""/>
                                 <img src="images/HI.png"  alt=""/></div>
-                            </a></li>   
+                            </a></li>   --%>
                               <li style="border:none"><a href="mailto:suguae@yahoo.com">
                             <div>
-                                <img src="images/sitecore.png" alt="" /></div>
+                                <img  src="images/sitecore.png" alt="" /></div>
                         </a></li>
                         </ul>
                         </center>
@@ -2811,7 +3099,7 @@ Offline tracking with the Sitecore Universal Tracker                            
                 /* Change the launch date according to the date you want to set.
                 Please take note that months ranges from 0-11 like an array setup.
                 */
-                var launchdate = new Date("2019-02-15T20:00:00");
+                var launchdate = new Date("2019-07-29T17:00:00");
                 $('#counter').countdown({
                     until: launchdate
                 });
