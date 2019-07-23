@@ -91,7 +91,8 @@
     <script src="vendor/modernizr.js"></script>
 
     <!-- Google Map -->
-    <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>
+    <!-- <script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyDsMOhuwwON-ky70wSU5vBsTXBLgGUhozw" async defer></script> -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.27&key=AIzaSyDsMOhuwwON-ky70wSU5vBsTXBLgGUhozw" async defer></script>
 
     <!-- Pricing Table -->
     <!--[if IE]>
@@ -144,7 +145,6 @@
                                         <li><a href="#register">Register</a></li>
                                         <li><a href="#gallery">Photo Gallery</a></li>
                                         <li><a href="#sponsors">Sponsors</a></li>
-                                        <li><a href="#contacts">Contact Us</a></li>
                                     </ul>
                                 </div>
 
@@ -175,7 +175,7 @@
                                                 <div class="jx-event-day">27<span></span></div>
                                                 <div class="jx-event-month">July 2019</div>
                                             </div>
-                                            
+
                                             <div class="jx-event-title-box">
                                                 <div class="jx-event-pretitle"></div>
                                                 <div class="jx-event-title">Headless CMS with Sitecore JSS </div>
@@ -212,8 +212,8 @@
                                             </div>
 
                                         </div>
-                                    
-                                            </div>
+
+                                    </div>
 
 
                                 </div>
@@ -265,7 +265,7 @@
                                                 <div class="jx-event-month">July 2019</div>
                                             </div>
                                             <div class="jx-event-title-box">
-                                                <div class="jx-event-pretitle"> </div>
+                                                <div class="jx-event-pretitle"></div>
                                                 <div class="jx-event-title">Image Optimization  with Dianoga and ImageMagic in Sitecore</div>
                                                 <div class="jx-event-location"></div>
                                             </div>
@@ -324,7 +324,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-megaphone"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">SPEAKER</div>
-                                        <div class="info-description"> Ishraq Al Fataftah ​</div>
+                                        <div class="info-description">Ishraq Al Fataftah ​</div>
                                     </div>
                                 </li>
                                 <!-- Item 04 -->
@@ -464,7 +464,7 @@ the challenge of crafting complex Sitecore solution.
         </div>
         <!-- EOF Services Box -->
 
-                <!-- BOF Our Team -->
+        <!-- BOF Our Team -->
         <div id='speakers' class="jx-container container-no-margin jx-padding jx-grey-bg ">
             <!-- Background Image -->
             <!-- Background Icon -->
@@ -483,7 +483,7 @@ the challenge of crafting complex Sitecore solution.
 
 
 
-                                                         <div class="jx-speaker-item">
+                    <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234" height="189" src="images/aa.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
@@ -496,10 +496,10 @@ the challenge of crafting complex Sitecore solution.
                     </div>
 
 
-                    
 
 
-                                               <div class="jx-speaker-item">
+
+                    <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234" height="189" src="images/nilesh.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
@@ -512,8 +512,8 @@ the challenge of crafting complex Sitecore solution.
                     </div>
 
 
-                    
-                                    <div class="jx-speaker-item">
+
+                    <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234" height="189" src="images/zz.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
@@ -525,7 +525,7 @@ the challenge of crafting complex Sitecore solution.
                         </div>
                     </div>
 
-                                                     <div class="jx-speaker-item">
+                    <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234" height="189" src="images/nn.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
@@ -540,7 +540,7 @@ the challenge of crafting complex Sitecore solution.
 
 
 
-                                               <div class="jx-speaker-item">
+                    <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234" height="189" src="images/0.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
@@ -553,8 +553,8 @@ the challenge of crafting complex Sitecore solution.
                     </div>
 
 
-                    
-                                                                          <div class="jx-speaker-item">
+
+                    <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234" height="189" src="images/akshay.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
@@ -568,7 +568,7 @@ the challenge of crafting complex Sitecore solution.
 
 
 
-                                                                          <div class="jx-speaker-item">
+                    <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234" height="189" src="images/Jacqueline.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
@@ -581,7 +581,7 @@ the challenge of crafting complex Sitecore solution.
                     </div>
 
 
-                                      <div class="jx-speaker-item">
+                    <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234" height="189" src="images/Yanik.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
@@ -594,7 +594,7 @@ the challenge of crafting complex Sitecore solution.
                     </div>
 
 
-                                    <div class="jx-speaker-item">
+                    <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234px" height="234px" src="images/peter.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
@@ -609,8 +609,8 @@ the challenge of crafting complex Sitecore solution.
 
 
 
-                    
-                                    <div class="jx-speaker-item">
+
+                    <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234" height="189" src="images/c.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
@@ -624,7 +624,7 @@ the challenge of crafting complex Sitecore solution.
 
 
 
-                                    <div class="jx-speaker-item">
+                    <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234" height="189" src="images/kiran.jpg" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
@@ -639,7 +639,7 @@ the challenge of crafting complex Sitecore solution.
 
 
 
-                           <div class="jx-speaker-item">
+                    <div class="jx-speaker-item">
                         <div class="jx-speaker-photo jx-image-wrapper">
                             <img width="234" height="189" src="images/rob.png" class="attachment-speaker-image wp-post-image" alt="team-1" />
                             <div class="jx-speaker-overlayer"></div>
@@ -758,7 +758,7 @@ the challenge of crafting complex Sitecore solution.
                     </div>
 
 
-                
+
 
 
 
@@ -766,7 +766,7 @@ the challenge of crafting complex Sitecore solution.
             </div>
         </div>
         <!-- EOF Our Team -->
- 
+
         <!-- BOF Counter Up -->
         <div class="jx-container container-no-margin jx-padding jx-grey-bg ">
             <div class='parallax-no-height jx-tint-black' style='background-image: url(images/Eventphotos/06-Aug-2016/4.JPG);'></div>
@@ -867,66 +867,66 @@ the challenge of crafting complex Sitecore solution.
             <div id="ParentTab">
                 <ul class="resp-tabs-list parenttab_1">
 
-                         <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">27 July</div>
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">27 July 2019</div>
                     </li>
 
-                        <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">28 June</div>
-                    </li>
-
-
-                        <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">15 March</div>
-                    </li>
-
-                         <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">15 Feb</div>
-                    </li>
-
-
-                      <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">11 Jan</div>
-                    </li>
-
-
-                       <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">14 Dec</div>
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">28 June 2019</div>
                     </li>
 
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">13 Nov</div>
+                        <div class="jx-tab-date jx-uppercase">15 March 2019</div>
+                    </li>
+
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">15 Feb 2019</div>
                     </li>
 
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">1 Sept</div>
-                    </li>
-
-                    <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">22 June</div>
+                        <div class="jx-tab-date jx-uppercase">11 Jan 2019</div>
                     </li>
 
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">06 Apr</div>
+                        <div class="jx-tab-date jx-uppercase">14 Dec 2018</div>
+                    </li>
+
+
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">13 Nov 2018</div>
+                    </li>
+
+
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">1 Sept 2018</div>
                     </li>
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">29 Sep</div>
+                        <div class="jx-tab-date jx-uppercase">22 June 2018</div>
+                    </li>
+
+
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">06 Apr 2018</div>
                     </li>
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">17 Aug</div>
+                        <div class="jx-tab-date jx-uppercase">29 Sep 2017</div>
                     </li>
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">15 June</div>
+                        <div class="jx-tab-date jx-uppercase">17 Aug 2017</div>
                     </li>
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">02 Nov</div>
+                        <div class="jx-tab-date jx-uppercase">15 June 2017</div>
+                    </li>
+
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">02 Nov 2016</div>
                     </li>
                     <%--<li class="resp-tab-item">
                                 <div class="jx-tab-date jx-uppercase">06 Aug</div>
@@ -936,8 +936,8 @@ the challenge of crafting complex Sitecore solution.
                 <div class="resp-tabs-container parenttab_1">
 
 
-                    
-                       <div>
+
+                    <div>
                         <div id="ChildTab-1">
                             <ul class="resp-tabs-list jx-subtab childtab_1">
 
@@ -958,7 +958,7 @@ the challenge of crafting complex Sitecore solution.
                                             <div class="right-position">
                                                 <div data-accordion class="head open">
                                                     <div class="date"><i class="fa fa-clock-o"></i><span>4.45 PM –5.00M</span> <i class="fa fa-group"></i><span>&nbsp;Have Your coffee and connect with people !</span></div>
-                                                    
+
                                                     <div data-content>
                                                         <div class="content">
                                                             &nbsp;
@@ -967,38 +967,38 @@ the challenge of crafting complex Sitecore solution.
                                                     <div class="date">
                                                         <i class="fa fa-clock-o"></i><span>5.00PM – 5.40 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Introducing Sitecore Experience Commerce with Azure</span>
                                                     </div>
-                                                    
+
                                                     <div data-content>
                                                         <div class="content">
 
 
 
                                                             <div>
-                                                                       <br />
+                                                                <br />
                                                                 <br />
                                                                 SAT, July 27, 2019 5:00 PM - 5.40 PM GST           
                                                                         <br />
                                                                 <br />
-                                                    Ashish Bansal, Sitecore Technology MVP, will showcase an overview of Sitecore Experience Commerce including the key features and technical architecture of the product. Also will discuss how to get certified on the Sitecore commerce platform with roadmap.
+                                                                Ashish Bansal, Sitecore Technology MVP, will showcase an overview of Sitecore Experience Commerce including the key features and technical architecture of the product. Also will discuss how to get certified on the Sitecore commerce platform with roadmap.
 This session will also showcase the running Sitecore commerce platform with Microsoft Azure PaaS.
 Audience will gain good understanding of Sitecore XP Commerce product and its key benefits and architecture.
                                                             </div>
-                                                           
+
                                                         </div>
                                                     </div>
 
                                                     <br />
 
-                                                        <div class="date">
+                                                    <div class="date">
                                                         <i class="fa fa-clock-o"></i><span>5.40PM – 6.20 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Headless CMS with Sitecore JSS</span>
                                                     </div>
-                                                          <div data-content>
+                                                    <div data-content>
                                                         <div class="content">
 
 
 
                                                             <div>
-                                                                       <br />
+                                                                <br />
                                                                 <br />
                                                                 SAT, July 27, 2019 5:40 PM - 6.20 PM GST           
                                                                         <br />
@@ -1009,62 +1009,83 @@ In this session we will see how to build Headless application using Sitecore JSS
                             
 
                                                             </div>
-                                                           
+
                                                         </div>
                                                     </div>
 
-                                                        <br />
+                                                    <br />
 
-                                                         <div class="date">
+                                                    <div class="date">
                                                         <i class="fa fa-clock-o"></i><span>6.20PM – 6.50 PM</span> <i class="fa fa-microphone"></i><span>Image Optimization  with Dianoga and ImageMagic in Sitecore</span>
                                                     </div>
-                                                          <div data-content>
+                                                    <div data-content>
                                                         <div class="content">
 
 
 
                                                             <div>
-                                                                       <br />
+                                                                <br />
                                                                 <br />
                                                                 SAT, July 27, 2019 6.20PM – 6.50 PM GST           
                                                                         <br />
                                                                 <br />
-         
+
                                                                 Improve Your Sitecore Website Page Load Speed By Utilizing Dinoga With Dianoga.ImageMagick Module.
                                                             </div>
-                                                           
+
                                                         </div>
                                                     </div>
 
 
 
-                                                          <br />
+                                                    <br />
 
-                                                         <div class="date">
-                                                        <i class="fa fa-clock-o"></i><span>6.50PM – 7 PM</span> <i class="fa fa-microphone"></i><span>
-                                                            Vote of thanks and closing notes.
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>6.50PM – 7 PM</span> <i class="fa fa-microphone"></i><span>Vote of thanks and closing notes.
                                                             
                                                         </span>
                                                     </div>
-                                                          <div data-content>
+
+                                                    <br />
+                                                    <br />
+                                                    <div data-content>
                                                         <div class="content">
 
-
-
-                                                            <div>
-                                                           
+                                                            <div class="date">
+                                                                <i class="fa fa-map-marker"></i><span>Event Venue</span>
                                                             </div>
-                                                           
+                                                            <div class="title"><a href="https://goo.gl/maps/zh8ssGwq7MmK4Dtx7" target="_blank">Emirates Towers</a></div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                       Area 2071, <br />
+                                                                       Ground Floor, Emirates Towers, <br />
+                                                                       Sheikh Zayed Road, <br />
+                                                                       Dubai, UAE
+                                                                </div>
+                                                            </div>
+
                                                         </div>
                                                     </div>
 
+                                                    <br />
+                                                    <br />
+                                                    
+                                                    <div data-content>
+                                                        <div class="content">
 
-                                    
+                                                            <div class="date">
+                                                                <i class="fa fa-users"></i><span><a href="https://www.meetup.com/Microsoft-Developers-UAE-Meetup/events/263139716/" target="_blank">Confirm your seat at Meetup</a></span>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
 
 
                                                 </div>
                                             </div>
                                         </div>
+                                                                                            <iframe  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1804.7890904734222!2d55.28183815809841!3d25.217443977716833!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f4292edb8ef63%3A0xfe69627f9d080836!2sEmirates+Towers!5e0!3m2!1sen!2sae!4v1563556896722!5m2!1sen!2sae" width="600" height="450" frameborder="0" style="border: 0" allowfullscreen></iframe>
+
 
                                     </div>
                                 </div>
@@ -1072,11 +1093,14 @@ In this session we will see how to build Headless application using Sitecore JSS
 
 
                             </div>
+
+
+
                         </div>
                     </div>
 
 
-                     <div>
+                    <div>
                         <div id="ChildTab-1">
                             <ul class="resp-tabs-list jx-subtab childtab_1">
 
@@ -1096,30 +1120,30 @@ In this session we will see how to build Headless application using Sitecore JSS
                                             <!-- Left item Position -->
                                             <div class="right-position">
                                                 <div data-accordion class="head open">
-                                             
+
                                                     <div class="date">
-                                                        <i class="fa fa-clock-o"></i><span>8.00PM – 9 PM</span> 
+                                                        <i class="fa fa-clock-o"></i><span>8.00PM – 9 PM</span>
                                                         <i class="fa fa-microphone"></i><span>&nbsp;Introducing Sitecore Identity Capability </span>
                                                     </div>
-                                                    
+
                                                     <div data-content>
                                                         <div class="content">
 
 
 
                                                             <div>
-                                                                       <br />
+                                                                <br />
                                                                 <br />
                                                                 Friday, June 28, 2019 8:00 PM - 9 PM GST           
                                                                         <br />
                                                                 <br />
-                                              Himadri Chakrabarti
+                                                                Himadri Chakrabarti
                                                             </div>
-                                                           
+
                                                         </div>
                                                     </div>
 
-                                                                                  
+
 
 
                                                 </div>
@@ -1155,30 +1179,30 @@ In this session we will see how to build Headless application using Sitecore JSS
                                             <!-- Left item Position -->
                                             <div class="right-position">
                                                 <div data-accordion class="head open">
-                                             
+
                                                     <div class="date">
-                                                        <i class="fa fa-clock-o"></i><span>8.00PM – 9 PM</span> 
+                                                        <i class="fa fa-clock-o"></i><span>8.00PM – 9 PM</span>
                                                         <i class="fa fa-microphone"></i><span>&nbsp;Authentication and Authorization in context of Sitecore Commerance </span>
                                                     </div>
-                                                    
+
                                                     <div data-content>
                                                         <div class="content">
 
 
 
                                                             <div>
-                                                                       <br />
+                                                                <br />
                                                                 <br />
                                                                 FRI, March 15, 2019 8.00PM – 9 PM GST           
                                                                         <br />
                                                                 <br />
-                                              Hetal Dave
+                                                                Hetal Dave
                                                             </div>
-                                                           
+
                                                         </div>
                                                     </div>
 
-                                                                                  
+
 
 
                                                 </div>
@@ -1196,7 +1220,7 @@ In this session we will see how to build Headless application using Sitecore JSS
 
 
 
-                       <div>
+                    <div>
                         <div id="ChildTab-1">
                             <ul class="resp-tabs-list jx-subtab childtab_1">
 
@@ -1226,20 +1250,20 @@ In this session we will see how to build Headless application using Sitecore JSS
                                                     <div class="date">
                                                         <i class="fa fa-clock-o"></i><span>8.00PM – 9.00 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session 1</span>
                                                     </div>
-                                                    <div class="title" data-control> Elevated customer experiences using Sitecore Marketing Automation!</div>
+                                                    <div class="title" data-control>Elevated customer experiences using Sitecore Marketing Automation!</div>
                                                     <div data-content>
                                                         <div class="content">
 
 
 
                                                             <div>
-                                                                       <br />
+                                                                <br />
                                                                 <br />
                                                                 Fri, Feb 15, 2019 8:00 PM - 9.00 PM GST           
                                                                         <br />
                                                                 <br />
 
-                                                               Ishraq Al Fataftah (@ifataftah) is the CTO at ApplezTech, a digital customer experience agency based in Amman, Jordan. Ishraq has played the roles of digital consultant, technology evangelist, solution architect and technical director during her 15 years in the industry. She has been the first named female MVP from the MENA region
+                                                                Ishraq Al Fataftah (@ifataftah) is the CTO at ApplezTech, a digital customer experience agency based in Amman, Jordan. Ishraq has played the roles of digital consultant, technology evangelist, solution architect and technical director during her 15 years in the industry. She has been the first named female MVP from the MENA region
 
                                                             </div>
                                                             </p>
@@ -1247,7 +1271,7 @@ In this session we will see how to build Headless application using Sitecore JSS
                                                     </div>
 
 
-                                    
+
 
                                                     <div class="date"><i class="fa fa-clock-o"></i><span>9.00 PM – 9.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Vote of Thanks and Closing Notes!</span></div>
                                                     <div class="title"></div>
@@ -1276,10 +1300,9 @@ In this session we will see how to build Headless application using Sitecore JSS
 
 
                                                     <div class="date">
-                                                        <i class="fa fa-map-marker"></i><span >See you online <a href="https://www.gotomeet.me/Suguae-Ishraq" target="_blank">
-                                                         https://www.gotomeet.me/Suguae-Ishraq </a> </span>
+                                                        <i class="fa fa-map-marker"></i><span>See you online <a href="https://www.gotomeet.me/Suguae-Ishraq" target="_blank">https://www.gotomeet.me/Suguae-Ishraq </a></span>
                                                     </div>
-                                                    <div class="title" data-control> </div>
+                                                    <div class="title" data-control></div>
                                                     <div data-content>
                                                         <div class="content">
                                                             <p>
@@ -1300,7 +1323,7 @@ In this session we will see how to build Headless application using Sitecore JSS
                     </div>
 
 
-                      <div>
+                    <div>
                         <div id="ChildTab-1">
                             <ul class="resp-tabs-list jx-subtab childtab_1">
 
@@ -1337,7 +1360,8 @@ In this session we will see how to build Headless application using Sitecore JSS
 
 
                                                             <div>
-Offline tracking with the Sitecore Universal Tracker                                                                          <br />
+                                                                Offline tracking with the Sitecore Universal Tracker                                                                         
+                                                                <br />
                                                                 <br />
                                                                 Fri, Jan 11, 2019 6:00 PM - 7.00 PM GST           
                                                                         <br />
@@ -1351,7 +1375,7 @@ Offline tracking with the Sitecore Universal Tracker                            
                                                     </div>
 
 
-                                    
+
 
                                                     <div class="date"><i class="fa fa-clock-o"></i><span>7.00 PM – 7.15 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Vote of Thanks and Closing Notes!</span></div>
                                                     <div class="title"></div>
@@ -1380,10 +1404,9 @@ Offline tracking with the Sitecore Universal Tracker                            
 
 
                                                     <div class="date">
-                                                        <i class="fa fa-map-marker"></i><span >See you online <a href="https://www.gotomeet.me/SUGUAE-Akshay" target="_blank">
-                                                            https://www.gotomeet.me/SUGUAE-Akshay </a> </span>
+                                                        <i class="fa fa-map-marker"></i><span>See you online <a href="https://www.gotomeet.me/SUGUAE-Akshay" target="_blank">https://www.gotomeet.me/SUGUAE-Akshay </a></span>
                                                     </div>
-                                                    <div class="title" data-control> </div>
+                                                    <div class="title" data-control></div>
                                                     <div data-content>
                                                         <div class="content">
                                                             <p>
@@ -1404,7 +1427,7 @@ Offline tracking with the Sitecore Universal Tracker                            
                     </div>
 
 
-                   <div>
+                    <div>
                         <div id="ChildTab-1">
                             <ul class="resp-tabs-list jx-subtab childtab_1">
 
@@ -1434,7 +1457,7 @@ Offline tracking with the Sitecore Universal Tracker                            
                                                     <div class="date">
                                                         <i class="fa fa-clock-o"></i><span>6.30PM – 7.30 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Session 1</span>
                                                     </div>
-                                                    <div class="title" data-control> Finding Value in Your Data: Sitecore Analytics and Business Impact</div>
+                                                    <div class="title" data-control>Finding Value in Your Data: Sitecore Analytics and Business Impact</div>
                                                     <div data-content>
                                                         <div class="content">
 
@@ -1448,7 +1471,7 @@ Offline tracking with the Sitecore Universal Tracker                            
                                                                         <br />
                                                                 <br />
 
-                                                          
+
 
                                                             </div>
                                                             </p>
@@ -1456,7 +1479,7 @@ Offline tracking with the Sitecore Universal Tracker                            
                                                     </div>
 
 
-                                    
+
 
                                                     <div class="date"><i class="fa fa-clock-o"></i><span>7.30 PM – 7.45 PM</span> <i class="fa fa-coffee"></i><span>&nbsp;Vote of Thanks and Closing Notes!</span></div>
                                                     <div class="title"></div>
@@ -1485,9 +1508,9 @@ Offline tracking with the Sitecore Universal Tracker                            
 
 
                                                     <div class="date">
-                                                        <i class="fa fa-map-marker"></i><span >See you online <a href="https://www.gotomeet.me/SUGUAE-JACQUELINE" target="_blank">https://www.gotomeet.me/SUGUAE-JACQUELINE </a> </span>
+                                                        <i class="fa fa-map-marker"></i><span>See you online <a href="https://www.gotomeet.me/SUGUAE-JACQUELINE" target="_blank">https://www.gotomeet.me/SUGUAE-JACQUELINE </a></span>
                                                     </div>
-                                                    <div class="title" data-control> </div>
+                                                    <div class="title" data-control></div>
                                                     <div data-content>
                                                         <div class="content">
                                                             <p>
@@ -2948,28 +2971,6 @@ Offline tracking with the Sitecore Universal Tracker                            
 
             </div>
         </div>
-        <!-- EOF Sponsor Logo -->
-        <!-- Google Map -->
-        <div id="contacts" class="jx-container">
-            <div class="container">
-                <div class="jx-venue-box" style="display: none;">
-
-                    <div class="jx-hotel-name jx-uppercase">Dubai </div>
-
-                    <div class="jx-venue-address" style="display: none;">
-                        <div class="jx-venue-heading"><i class="fa fa-map-marker"></i>Towers Rotana</div>
-                        <div class="jx-address-1">Sheikh Zayed Road</div>
-                        <div class="jx-address-2">Dubai, UAE</div>
-                        <div class="jx-address-3">04 343 8000</div>
-                    </div>
-                </div>
-            </div>
-            <div class="jx-google-map">
-                <div id="map" class="jx-map" style="height: 450px;"></div>
-            </div>
-        </div>
-        <!-- EOF Google Map -->
-
 
         <div class="jx-summary-info">
             <div class="container">
@@ -3070,7 +3071,8 @@ Offline tracking with the Sitecore Universal Tracker                            
                     // How zoomed in you want the map to start at (always required)
                     zoom: 17,
                     // The latitude and longitude to center the map (always required)
-                    center: new google.maps.LatLng(25.212967, 55.27455), // Towers Rotana
+                    // center: new google.maps.LatLng(25.212967, 55.27455), // Towers Rotana
+                    center: new google.maps.LatLng(25.2174662, 55.2819902), // Emirates Towers
                     // How you would like to style the map.
                     // This is where you would paste any style found on Snazzy Maps.
                     // styles: [{ "featureType": "water", "elementType": "geometry.fill", "stylers": [{ "color": "#d3d3d3" }] }, { "featureType": "transit", "stylers": [{ "color": "#808080" }, { "visibility": "off" }] }, { "featureType": "road.highway", "elementType": "geometry.stroke", "stylers": [{ "visibility": "on" }, { "color": "#b3b3b3" }] }, { "featureType": "road.highway", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "road.local", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#ffffff" }, { "weight": 1.8 }] }, { "featureType": "road.local", "elementType": "geometry.stroke", "stylers": [{ "color": "#d7d7d7" }] }, { "featureType": "poi", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#ebebeb" }] }, { "featureType": "administrative", "elementType": "geometry", "stylers": [{ "color": "#a7a7a7" }] }, { "featureType": "road.arterial", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "road.arterial", "elementType": "geometry.fill", "stylers": [{ "color": "#ffffff" }] }, { "featureType": "landscape", "elementType": "geometry.fill", "stylers": [{ "visibility": "on" }, { "color": "#efefef" }] }, { "featureType": "road", "elementType": "labels.text.fill", "stylers": [{ "color": "#696969" }] }, { "featureType": "administrative", "elementType": "labels.text.fill", "stylers": [{ "visibility": "on" }, { "color": "#737373" }] }, { "featureType": "poi", "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] }, { "featureType": "poi", "elementType": "labels", "stylers": [{ "visibility": "off" }] }, { "featureType": "road.arterial", "elementType": "geometry.stroke", "stylers": [{ "color": "#d6d6d6" }] }, { "featureType": "road", "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] }, {}, { "featureType": "poi", "elementType": "geometry.fill", "stylers": [{ "color": "#dadada" }] }]
@@ -3086,7 +3088,7 @@ Offline tracking with the Sitecore Universal Tracker                            
                 var map = new google.maps.Map(mapElement, mapOptions);
                 // Lets also add a marker while we are at it
                 var marker = new google.maps.Marker({
-                    position: new google.maps.LatLng(25.212967, 55.27455),
+                    position: new google.maps.LatLng(25.2177385, 55.2818576),
                     map: map,
                     title: "Sitecore User Group Dubai (SUGUAE)"
                 });
