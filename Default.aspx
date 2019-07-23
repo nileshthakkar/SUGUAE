@@ -92,7 +92,8 @@
 
     <!-- Google Map -->
     <!-- <script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyDsMOhuwwON-ky70wSU5vBsTXBLgGUhozw" async defer></script> -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.27&key=AIzaSyDsMOhuwwON-ky70wSU5vBsTXBLgGUhozw" async defer></script>
+    <%--<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.27&key=AIzaSyDsMOhuwwON-ky70wSU5vBsTXBLgGUhozw" async defer></script>--%>
+
 
     <!-- Pricing Table -->
     <!--[if IE]>
@@ -868,65 +869,65 @@ the challenge of crafting complex Sitecore solution.
                 <ul class="resp-tabs-list parenttab_1">
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">27 July 2019</div>
+                        <div class="jx-tab-date jx-uppercase">27 July</div>
                     </li>
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">28 June 2019</div>
-                    </li>
-
-
-                    <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">15 March 2019</div>
-                    </li>
-
-                    <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">15 Feb 2019</div>
+                        <div class="jx-tab-date jx-uppercase">28 June</div>
                     </li>
 
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">11 Jan 2019</div>
+                        <div class="jx-tab-date jx-uppercase">15 March</div>
+                    </li>
+
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">15 Feb</div>
                     </li>
 
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">14 Dec 2018</div>
+                        <div class="jx-tab-date jx-uppercase">11 Jan</div>
                     </li>
 
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">13 Nov 2018</div>
+                        <div class="jx-tab-date jx-uppercase">14 Dec</div>
                     </li>
 
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">1 Sept 2018</div>
-                    </li>
-
-                    <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">22 June 2018</div>
+                        <div class="jx-tab-date jx-uppercase">13 Nov</div>
                     </li>
 
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">06 Apr 2018</div>
+                        <div class="jx-tab-date jx-uppercase">1 Sept</div>
                     </li>
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">29 Sep 2017</div>
+                        <div class="jx-tab-date jx-uppercase">22 June</div>
+                    </li>
+
+
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">06 Apr</div>
                     </li>
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">17 Aug 2017</div>
+                        <div class="jx-tab-date jx-uppercase">29 Sep</div>
                     </li>
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">15 June 2017</div>
+                        <div class="jx-tab-date jx-uppercase">17 Aug</div>
                     </li>
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">02 Nov 2016</div>
+                        <div class="jx-tab-date jx-uppercase">15 June</div>
+                    </li>
+
+                    <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">02 Nov</div>
                     </li>
                     <%--<li class="resp-tab-item">
                                 <div class="jx-tab-date jx-uppercase">06 Aug</div>
@@ -1057,10 +1058,13 @@ In this session we will see how to build Headless application using Sitecore JSS
                                                             <div class="title"><a href="https://goo.gl/maps/zh8ssGwq7MmK4Dtx7" target="_blank">Emirates Towers</a></div>
                                                             <div data-content>
                                                                 <div class="content">
-                                                                       Area 2071, <br />
-                                                                       Ground Floor, Emirates Towers, <br />
-                                                                       Sheikh Zayed Road, <br />
-                                                                       Dubai, UAE
+                                                                    Area 2071,
+                                                                    <br />
+                                                                    Ground Floor, Emirates Towers,
+                                                                    <br />
+                                                                    Sheikh Zayed Road,
+                                                                    <br />
+                                                                    Dubai, UAE
                                                                 </div>
                                                             </div>
 
@@ -1069,7 +1073,7 @@ In this session we will see how to build Headless application using Sitecore JSS
 
                                                     <br />
                                                     <br />
-                                                    
+
                                                     <div data-content>
                                                         <div class="content">
 
@@ -1084,7 +1088,7 @@ In this session we will see how to build Headless application using Sitecore JSS
                                                 </div>
                                             </div>
                                         </div>
-                                                                                            <iframe  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1804.7890904734222!2d55.28183815809841!3d25.217443977716833!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f4292edb8ef63%3A0xfe69627f9d080836!2sEmirates+Towers!5e0!3m2!1sen!2sae!4v1563556896722!5m2!1sen!2sae" width="600" height="450" frameborder="0" style="border: 0" allowfullscreen></iframe>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1804.7890904734222!2d55.28183815809841!3d25.217443977716833!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f4292edb8ef63%3A0xfe69627f9d080836!2sEmirates+Towers!5e0!3m2!1sen!2sae!4v1563556896722!5m2!1sen!2sae" width="600" height="450" frameborder="0" style="border: 0" allowfullscreen></iframe>
 
 
                                     </div>
@@ -3058,7 +3062,7 @@ In this session we will see how to build Headless application using Sitecore JSS
         <script src="js/theme.js"></script>
 
         <!-- Google Map -->
-        <script type="text/javascript">
+        <%-- <script type="text/javascript">
 
             google.maps.event.addDomListener(window, "load", init);
 
@@ -3093,7 +3097,7 @@ In this session we will see how to build Headless application using Sitecore JSS
                     title: "Sitecore User Group Dubai (SUGUAE)"
                 });
             }
-        </script>
+        </script>--%>
 
         <script type="text/javascript" src="tools/jquery.countdown.min.js"></script>
         <script>
