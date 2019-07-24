@@ -3105,7 +3105,7 @@ In this session we will see how to build Headless application using Sitecore JSS
                 /* Change the launch date according to the date you want to set.
                 Please take note that months ranges from 0-11 like an array setup.
                 */
-                var launchdate = new Date("2019-07-29T17:00:00");
+                var launchdate = new Date("2019-07-27T17:00:00");
                 $('#counter').countdown({
                     until: launchdate
                 });
