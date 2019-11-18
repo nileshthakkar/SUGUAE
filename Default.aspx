@@ -174,7 +174,7 @@
 
                                             <div class="jx-event-date">
                                                 <div class="jx-event-day">29<span></span></div>
-                                                <div class="jx-event-month">July 2019</div>
+                                                <div class="jx-event-month">Nov 2019</div>
                                             </div>
 
                                             <div class="jx-event-title-box">
