@@ -173,13 +173,13 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">27<span></span></div>
+                                                <div class="jx-event-day">29<span></span></div>
                                                 <div class="jx-event-month">July 2019</div>
                                             </div>
 
                                             <div class="jx-event-title-box">
                                                 <div class="jx-event-pretitle"></div>
-                                                <div class="jx-event-title">Headless CMS with Sitecore JSS </div>
+                                                <div class="jx-event-title">Simplify Sitecore Personalization</div>
                                                 <div class="jx-event-countdown">
                                                     <div class="jx-countdown">
                                                         <div class="dsb-theme-wrapper countdown">
@@ -230,12 +230,12 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">27<span></span></div>
+                                                <div class="jx-event-day">29<span></span></div>
                                                 <div class="jx-event-month">July 2019</div>
                                             </div>
                                             <div class="jx-event-title-box">
                                                 <div class="jx-event-pretitle"></div>
-                                                <div class="jx-event-title">Introducing Sitecore Experience Commerce with Azure </div>
+                                                <div class="jx-event-title">Customer-Centric Approach for Digital Eco-System</div>
                                                 <div class="jx-event-location"></div>
                                             </div>
 
@@ -262,12 +262,12 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">27<span></span></div>
+                                                <div class="jx-event-day">29<span></span></div>
                                                 <div class="jx-event-month">July 2019</div>
                                             </div>
                                             <div class="jx-event-title-box">
                                                 <div class="jx-event-pretitle"></div>
-                                                <div class="jx-event-title">Image Optimization  with Dianoga and ImageMagic in Sitecore</div>
+                                                <div class="jx-event-title">What's new in Sitecore 9.3</div>
                                                 <div class="jx-event-location"></div>
                                             </div>
 
@@ -869,6 +869,10 @@ the challenge of crafting complex Sitecore solution.
                 <ul class="resp-tabs-list parenttab_1">
 
                     <li class="resp-tab-item">
+                        <div class="jx-tab-date jx-uppercase">29 Nov</div>
+                    </li>
+
+                    <li class="resp-tab-item">
                         <div class="jx-tab-date jx-uppercase">27 July</div>
                     </li>
 
@@ -936,6 +940,166 @@ the challenge of crafting complex Sitecore solution.
 
                 <div class="resp-tabs-container parenttab_1">
 
+                      <div>
+                        <div id="ChildTab-1">
+                            <ul class="resp-tabs-list jx-subtab childtab_1">
+
+                                <li>
+                                    <div class="jx-tab-title">Agenda</div>
+                                </li>
+                            </ul>
+                            <!-- EOF Child Tab Head -->
+                            <div class="resp-tabs-container jx-event-schedule childtab_1">
+                                <div>
+                                    <div data-accordion-group class="jx-accordion-box">
+                                        <div class="item">
+                                            <div class="left-position">
+                                                <!--<div class="image"><img src="" alt=""></div>-->
+                                                <!-- Image -->
+                                            </div>
+                                            <!-- Left item Position -->
+                                            <div class="right-position">
+                                                <div data-accordion class="head open">
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>6.00 PM – 6.30 PM</span> <i class="fa fa-group"></i><span>&nbsp;Have Your coffee and connect with people !</span></div>
+
+                                                    <div data-content>
+                                                        <div class="content">
+                                                            &nbsp;
+                                                        </div>
+                                                    </div>
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>6.30PM – 7.10 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Simplify Sitecore Personalization</span>
+                                                    </div>
+
+                                                    <div data-content>
+                                                        <div class="content">
+
+
+
+                                                            <div>
+                                                                <br />
+                                                                <br />
+                                                                Wednesday, July 29, 2019 6.30 PM - 7.10 PM GST           
+                                                                        <br />
+                                                                <br />
+                                                                <%--Description Here--%>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+
+                                                    <br />
+
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>7.10 PM – 7.50 PM</span> <i class="fa fa-microphone"></i><span>&nbsp;Customer-Centric Approach for Digital Eco-System using Sitecore Data Analytics and Actions</span>
+                                                    </div>
+                                                    <div data-content>
+                                                        <div class="content">
+
+
+
+                                                            <div>
+                                                                <br />
+                                                                <br />
+                                                                WED, Nov 29, 2019 7.10 PM - 7.50 PM GST           
+                                                                        <br />
+                                                                <br />
+                                                               <%--Description Here--%>
+
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+
+                                                    <br />
+
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>7.50 PM – 8.30 PM</span> <i class="fa fa-microphone"></i><span>What's new in Sitecore 9.3</span>
+                                                    </div>
+                                                    <div data-content>
+                                                        <div class="content">
+
+
+
+                                                            <div>
+                                                                <br />
+                                                                <br />
+                                                                WED, November 29, 2019 7.50 PM – 8.30 PM GST           
+                                                                        <br />
+                                                                <br />
+
+                                                               <%--Description Here--%>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+
+
+
+                                                    <br />
+
+                                                    <div class="date">
+                                                        <i class="fa fa-clock-o"></i><span>8.30 PM – 8.45 PM</span> <i class="fa fa-microphone"></i><span>Vote of thanks and closing notes.
+                                                            
+                                                        </span>
+                                                    </div>
+
+                                                    <br />
+                                                    <br />
+                                                    <div data-content>
+                                                        <div class="content">
+
+                                                            <div class="date">
+                                                                <i class="fa fa-map-marker"></i><span>Event Venue</span>
+                                                            </div>
+                                                            <div class="title"><a href="https://goo.gl/maps/UhiexwTeHRLhaFZm6" target="_blank">Microsoft</a></div>
+                                                            <div data-content>
+                                                                <div class="content">
+                                                                    Building No 8,
+                                                                    <br />
+                                                                    Sheikh Zayed Road,
+                                                                    <br />
+                                                                    Dubai Internet City,
+                                                                    <br />
+                                                                    Dubai, UAE
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+
+                                                    <br />
+                                                    <br />
+
+                                                    <div data-content>
+                                                        <div class="content">
+
+                                                            <div class="date">
+                                                                <i class="fa fa-users"></i><span><a href="https://www.meetup.com/Microsoft-Developers-UAE-Meetup/events/263139716/" target="_blank">Confirm your seat at Meetup</a></span>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14452.850894773743!2d55.1622248!3d25.0946595!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdc12965abab96201!2sMicrosoft!5e0!3m2!1sen!2sae!4v1574098411860!5m2!1sen!2sae" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+
+
+
+                        </div>
+                    </div>
+
 
 
                     <div>
@@ -958,7 +1122,7 @@ the challenge of crafting complex Sitecore solution.
                                             <!-- Left item Position -->
                                             <div class="right-position">
                                                 <div data-accordion class="head open">
-                                                    <div class="date"><i class="fa fa-clock-o"></i><span>4.45 PM –5.00M</span> <i class="fa fa-group"></i><span>&nbsp;Have Your coffee and connect with people !</span></div>
+                                                    <div class="date"><i class="fa fa-clock-o"></i><span>4.45 PM –5.00 PM</span> <i class="fa fa-group"></i><span>&nbsp;Have Your coffee and connect with people !</span></div>
 
                                                     <div data-content>
                                                         <div class="content">
