@@ -173,7 +173,7 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">29<span></span></div>
+                                                <div class="jx-event-day">27<span></span></div>
                                                 <div class="jx-event-month">Nov 2019</div>
                                             </div>
 
@@ -230,7 +230,7 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">29<span></span></div>
+                                                <div class="jx-event-day">27<span></span></div>
                                                 <div class="jx-event-month">Nov 2019</div>
                                             </div>
                                             <div class="jx-event-title-box">
@@ -243,7 +243,7 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">29</div>
+                                            <div class="jx-slider-day">27</div>
                                             <div class="jx-slider-month jx-uppercase">Nov</div>
                                         </div>
                                     </div>
@@ -262,7 +262,7 @@
                                         <div class="jx-event-box jx-event-box-counter">
 
                                             <div class="jx-event-date">
-                                                <div class="jx-event-day">29<span></span></div>
+                                                <div class="jx-event-day">27<span></span></div>
                                                 <div class="jx-event-month">Nov 2019</div>
                                             </div>
                                             <div class="jx-event-title-box">
@@ -275,7 +275,7 @@
                                     </div>
                                     <div class="jx-right-vertical-border">
                                         <div class="jx-date" style="color: gray">
-                                            <div class="jx-slider-day">29</div>
+                                            <div class="jx-slider-day">27</div>
                                             <div class="jx-slider-month jx-uppercase">Nov</div>
                                         </div>
                                     </div>
@@ -298,7 +298,7 @@
                                     <div class="jx-info-icon"><i class="line-icon icon-calendar"></i></div>
                                     <div class="jx-info-content">
                                         <div class="info-title">DATE</div>
-                                        <div class="info-description">29 Nov 2019</div>
+                                        <div class="info-description">27 Nov 2019</div>
                                     </div>
                                 </li>
                                 <!-- Item 01 -->
@@ -869,7 +869,7 @@ the challenge of crafting complex Sitecore solution.
                 <ul class="resp-tabs-list parenttab_1">
 
                     <li class="resp-tab-item">
-                        <div class="jx-tab-date jx-uppercase">29 Nov</div>
+                        <div class="jx-tab-date jx-uppercase">27 Nov</div>
                     </li>
 
                     <li class="resp-tab-item">
@@ -979,7 +979,7 @@ the challenge of crafting complex Sitecore solution.
                                                             <div>
                                                                 <br />
                                                                 <br />
-                                                                Wednesday, November 29, 2019 6.30 PM - 7.10 PM GST           
+                                                                Wednesday, November 27, 2019 6.30 PM - 7.10 PM GST           
                                                                         <br />
                                                                 <br />
                                                                 <%--Description Here--%>
@@ -1001,7 +1001,7 @@ the challenge of crafting complex Sitecore solution.
                                                             <div>
                                                                 <br />
                                                                 <br />
-                                                                Wednesday, November 29, 2019 7.10 PM - 7.50 PM GST           
+                                                                Wednesday, November 27, 2019 7.10 PM - 7.50 PM GST           
                                                                         <br />
                                                                 <br />
                                                                <%--Description Here--%>
@@ -1024,7 +1024,7 @@ the challenge of crafting complex Sitecore solution.
                                                             <div>
                                                                 <br />
                                                                 <br />
-                                                                Wednesday, November 29, 2019 7.50 PM – 8.30 PM GST           
+                                                                Wednesday, November 27, 2019 7.50 PM – 8.30 PM GST           
                                                                         <br />
                                                                 <br />
 
@@ -3276,7 +3276,7 @@ In this session we will see how to build Headless application using Sitecore JSS
                 /* Change the launch date according to the date you want to set.
                 Please take note that months ranges from 0-11 like an array setup.
                 */
-                var launchdate = new Date("2019-11-29T18:00:00");
+                var launchdate = new Date("2019-11-27T18:00:00");
                 $('#counter').countdown({
                     until: launchdate
                 });
