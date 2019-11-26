@@ -1086,7 +1086,10 @@ the challenge of crafting complex Sitecore solution.
                                                         <iframe width="560" height="460" src="https://www.youtube.com/embed/6uubvN8wA9E?rel=0" frameborder="0" allow="accelerometer; autoplay="1"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
                                                         </div>
-                                                        
+                                                        <br />
+                                                    <br />
+                                                    
+For any Queries, Confusion or Suggestion, Please feel free to contact us:<br />Nikki Punjabi +971 569240597<br />nikkipunjabi@outlook.com
 
 
                                                 </div>
