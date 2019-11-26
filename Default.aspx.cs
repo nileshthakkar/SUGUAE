@@ -80,6 +80,7 @@ public partial class _Default : System.Web.UI.Page
                 oMail.Bcc.Add("nilesh.mscit@gmail.com");
                 oMail.Bcc.Add("pradsir@gmail.com");
                 oMail.Bcc.Add("ashish.bansal9@yahoo.com");
+                oMail.Bcc.Add("nikkipunjabi@outlook.com");
             }
 
             oMail.Subject = "Somebody registered with SUGUAE";
